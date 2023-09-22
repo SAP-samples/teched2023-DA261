@@ -1,14 +1,16 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DA261)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DA261)
 
-# Session ID - Session Title
+# Session ID - DA261 - SAP Analytics Cloud: Advanced Planning Topics
+
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called DA261 - SAP Analytics Cloud: Advanced Planning Topics. 
+This repository contains the material for the SAP TechEd 2023 session called DA261 - SAP Analytics Cloud: Advanced Planning Topics.
 
 ## Overview
 
-This session introduces attendees to...
+This session is aimed at participants who have some familiar in financial planning and related topics, and preferably those with some previous experience with SAP Analytics Cloud. The purpose of the session is to cover several recently introduced capabilities or enhancements which can improve planning workflows, including improvements in story construction and plan capture, data actions and multi actions, and calendar management.
+
 
 ## Requirements
 
