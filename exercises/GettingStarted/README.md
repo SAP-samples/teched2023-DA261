@@ -1,10 +1,10 @@
 # **Getting Started**
 
-**Objective: **Before we get started on the exercises, we will
+**Objective:** Before we get started on the exercises, we will
 show you how to get started in SAP Analytics Cloud and ensure that you are
 ready for the exercises.
 
-**Estimated Time: **5 mins
+**Estimated Time:** 5 mins
 
 **Exercise Description:** Before we get started on the exercises, we will introduce the homepage of SAP Analytics Cloud and show where you can access your files and dashboards for the exercises.
 
@@ -13,7 +13,7 @@ ready for the exercises.
 * Locate your files
 * Create a copy of the starting dashboards to your local file repository.
 
-⚠️ **Disclaimer** When completing exercises, it is expected that data
+⚠️ **Disclaimer:** When completing exercises, it is expected that data
 values or screenshots should match what you see on your screen unless otherwise
 noted below. If you see inconsistencies as you work through the exercise,
 please refer to the appropriate section in this document.  For any inconsistencies which are not
