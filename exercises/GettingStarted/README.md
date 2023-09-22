@@ -19,6 +19,9 @@ noted below. If you see inconsistencies as you work through the exercise,
 please refer to the appropriate section in this document.  For any inconsistencies which are not
 addressed, please check with your instructor.
 
+🚩 Welcome to
+SAP Analytics Cloud! This is the homepage where you can explore a sample story,
+create your first story, change your profile settings and so on.
 
 
 ## Summary
