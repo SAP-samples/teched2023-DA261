@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DA261)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DA261)
 
-# Session ID - DA261 - SAP Analytics Cloud: Advanced Planning Topics
+# Session ID - DA261 - SAP Analytics Cloud:  Advanced Planning Topics
 
 ## Description
 
