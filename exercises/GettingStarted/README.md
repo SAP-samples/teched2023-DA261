@@ -52,22 +52,19 @@ create your first story, change your profile settings and so on.
 
 5. Click on
    the [**Copy
-   To** ]()icon
+   To** ]()icon.
 
-![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)![1695417085771](image/README/1695417085771.png)
-
-5. Click on **TE_2023_SAC_Plannning_DA261** to
+   ![1695418539055](image/README/1695418539055.png)
+6. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
-   
 7. Click **OK**
-   
 9. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
-   
+
 ![1695417287115](image/README/1695417287115.png)
 
 8. Click on the
