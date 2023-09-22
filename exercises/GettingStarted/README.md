@@ -54,7 +54,7 @@ create your first story, change your profile settings and so on.
    the [**Copy
    To** ]()icon.
 
-   ![1695418539055](image/README/1695418539055.png)
+![1695418539055](image/README/1695418539055.png)
    
 7. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
