@@ -50,11 +50,12 @@ create your first story, change your profile settings and so on.
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)![1695417071788](image/README/1695417071788.png)
 
-5. Click on
+4. Click on
    the [**Copy
    To** ]()icon.
 
-   ![1695418539055](image/README/1695418539055.png)
+![1695418539055](image/README/1695418539055.png)
+
 6. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
