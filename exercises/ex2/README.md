@@ -18,29 +18,23 @@ plan.
 
 **Key Features:**
 
-·
-Creation of data action to streamline calculations.
+* Creation of data action to streamline calculations.
 
-o   Create data action parameters to streamline execution.
+    o   Create data action parameters to streamline execution.
 
-o   Create a simple advanced formula for sales revenue calculation.
+    o   Create a simple advanced formula for sales revenue calculation.
 
-o   Create an allocation rule to allocate retail expenses.
+    o   Create an allocation rule to allocate retail expenses.
 
-o   Creating a cross model copy rule, which aggregates data
-based on region.
+    o   Creating a cross model copy rule, which aggregates data based on region.
 
-·
-Executing a trace on a data action and
-reviewing results.
+* Executing a trace on a data action and
+  reviewing results.
+* Creating a multi-action to orchestrate data
+  actions.
 
-·
-Creating a multi-action to orchestrate data
-actions.
-
-·
-Format trigger within the story and map
-parameters.
+* Format trigger within the story and map
+  parameters.
 
 ⚠️**Disclaimer** When
 completing exercises, it is expected that data values or screenshots should
