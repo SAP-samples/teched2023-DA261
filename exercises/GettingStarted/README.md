@@ -27,11 +27,13 @@ create your first story, change your profile settings and so on.
 ![1695416981327](image/README/1695416981327.png)
 
 
+
 1. First, you want
    to access existing dashboards that we have created for TechEd. In the left
    side panel, click the **Files** icon.
 
 ![1695417051211](image/README/1695417051211.png)
+
 
 2. The stories
    that you will work on are located within the **Stories** folder within
@@ -39,6 +41,7 @@ create your first story, change your profile settings and so on.
    and click on the **DA261 Exercise Content** folder.
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)![1695417062011](image/README/1695417062011.png)
+
 
 3. Within the
    folder you will see a starting dashboard, and dashboards to represent the
@@ -52,7 +55,8 @@ create your first story, change your profile settings and so on.
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)![1695417071788](image/README/1695417071788.png)
 
-4. Click on
+
+5. Click on
    the [**Copy
    To** ]()icon
 
