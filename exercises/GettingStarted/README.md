@@ -23,7 +23,7 @@ addressed, please check with your instructor.
 SAP Analytics Cloud! This is the homepage where you can explore a sample story,
 create your first story, change your profile settings and so on.
 
-![1695416981327](image/README/1695416981327.png)
+   ![1695416981327](image/README/1695416981327.png)
 
 1. First, you want
    to access existing dashboards that we have created for TechEd. In the left
