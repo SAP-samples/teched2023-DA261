@@ -60,14 +60,14 @@ create your first story, change your profile settings and so on.
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
-   <br/>
+   
 7. Click **OK**
-   <br/>
+   
 9. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
-
+   
 ![1695417287115](image/README/1695417287115.png)
 
 8. Click on the
