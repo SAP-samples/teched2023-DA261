@@ -403,13 +403,9 @@ your user ID
 
 **You are now able to:**
 
-·
-Make simple changes to an existing dashboard
+* Make simple changes to an existing dashboard
+* Introduce additional charts and widgets into
+  your dashboard
 
-·
-Introduce additional charts and widgets into
-your dashboard
-
-·
-Leverage JavaScript script to further tailor
-your planning template
+* Leverage JavaScript script to further tailor
+  your planning template
