@@ -29,14 +29,14 @@ create your first story, change your profile settings and so on.
    to access existing dashboards that we have created for TechEd. In the left
    side panel, click the **Files** icon.
 
-![1695417051211](image/README/1695417051211.png)
+   ![1695417051211](image/README/1695417051211.png)
 
 2. The stories
    that you will work on are located within the **Stories** folder within
    the Workspace TE_2023_SAC_Planning_DA261.   First select the appropriate workspace
    and click on the **DA261 Exercise Content** folder.
 
-![1695417062011](image/README/1695417062011.png)
+   ![1695417062011](image/README/1695417062011.png)
 
 3. Within the
    folder you will see a starting dashboard, and dashboards to represent the
@@ -48,46 +48,48 @@ create your first story, change your profile settings and so on.
    Dashboards** folder. Click on the checkbox for the  **Exercise 1
    Dashboard** .
 
-![1695417071788](image/README/1695417071788.png)
+   ![1695417071788](image/README/1695417071788.png)
 
 5. Click on
    the [**Copy
    To** ]()icon.
 
    ![1695418539055](image/README/1695418539055.png)
-6. Click on **TE_2023_SAC_Plannning_DA261** to
+   
+7. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
-7. Click **OK**
+8. Click **OK**
+    
 9. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
 
-![1695417287115](image/README/1695417287115.png)
+   ![1695417287115](image/README/1695417287115.png)
 
-8. Click on the
+10. Click on the
    dashboard, **DA261 – Dashboard – Exercise 1 –  Start**
 
-![1695417300335](image/README/1695417300335.png)
+   ![1695417300335](image/README/1695417300335.png)
 
-9. Once the
+11. Once the
    dashboard is open select the **Save As** from the File menu
 
-![1695417307843](image/README/1695417307843.png)
+   ![1695417307843](image/README/1695417307843.png)
 
-10. Navigate back
+12. Navigate back
     to the root folder for your user by clicking on your username in the file
     path at the top of the Save As dialog
 
-![1695417316876](image/README/1695417316876.png)
+   ![1695417316876](image/README/1695417316876.png)
 
-11. Change the name of the file to **CycleBros – FP&A Dashboard **and click** OK**
+13. Change the name of the file to **CycleBros – FP&A Dashboard **and click** OK**
 
 ![1695417326979](image/README/1695417326979.png)
 
-12. You are ready
+14. You are ready
     to begin!
 
 ![1695417369600](image/README/1695417369600.png)
