@@ -19,7 +19,6 @@ enhancements.
 * Basic navigation of the dashboard
 * Inclusion of new widgets and minor changes to
   existing widget settings
-
 * Introduction of a custom widget and script to
   support direct end-user upload of planning data
 
@@ -139,7 +138,6 @@ repoint it.
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)
 
-13.
 Highlight the  **YTD – Oct, 2023** in the widget title and
 click the delete key (note that the Oct, 2023 is dynamic text referencing the
 Current Date story filter)
@@ -391,12 +389,9 @@ which you should see the dashboard refresh with the upload quantities.
 
 ⚠️[**Quality Check!**]() Does your refreshed dashboard (including upload
 results) look like this? Note: the Plan_Contributor input control will reflect
-your user ID 
-
+your user ID
 
 ## **Summary**
-
-
 
 **Congratulations, you have completed Exercise
 1!**
@@ -406,6 +401,5 @@ your user ID
 * Make simple changes to an existing dashboard
 * Introduce additional charts and widgets into
   your dashboard
-
 * Leverage JavaScript script to further tailor
   your planning template
