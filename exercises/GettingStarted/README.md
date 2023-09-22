@@ -36,7 +36,7 @@ create your first story, change your profile settings and so on.
    the Workspace TE_2023_SAC_Planning_DA261.   First select the appropriate workspace
    and click on the **DA261 Exercise Content** folder.
 
-![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)![1695417062011](image/README/1695417062011.png)
+![1695417062011](image/README/1695417062011.png)
 
 3. Within the
    folder you will see a starting dashboard, and dashboards to represent the
@@ -48,7 +48,7 @@ create your first story, change your profile settings and so on.
    Dashboards** folder. Click on the checkbox for the  **Exercise 1
    Dashboard** .
 
-![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)![1695417071788](image/README/1695417071788.png)
+![1695417071788](image/README/1695417071788.png)
 
 5. Click on
    the [**Copy
@@ -70,22 +70,22 @@ create your first story, change your profile settings and so on.
 8. Click on the
    dashboard, **DA261 – Dashboard – Exercise 1 –  Start**
 
-![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)![1695417300335](image/README/1695417300335.png)
+![1695417300335](image/README/1695417300335.png)
 
 9. Once the
    dashboard is open select the **Save As** from the File menu
 
-![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)![1695417307843](image/README/1695417307843.png)
+![1695417307843](image/README/1695417307843.png)
 
 10. Navigate back
     to the root folder for your user by clicking on your username in the file
     path at the top of the Save As dialog
 
-![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)![1695417316876](image/README/1695417316876.png)
+![1695417316876](image/README/1695417316876.png)
 
 11. Change the name of the file to **CycleBros – FP&A Dashboard **and click** OK**
 
-![1695417326979](image/README/1695417326979.png)![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
+![1695417326979](image/README/1695417326979.png)
 
 12. You are ready
     to begin!
