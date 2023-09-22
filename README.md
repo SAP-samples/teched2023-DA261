@@ -15,7 +15,7 @@ This session is aimed at participants who have some familiar in financial planni
 We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
 
 Tenant URL:
-URL: [https://external-sac-pm.eu10.hcs.cloud.sap/](https://external-sac-pm.eu10.hcs.cloud.sap/)
+[https://external-sac-pm.eu10.hcs.cloud.sap/](https://external-sac-pm.eu10.hcs.cloud.sap/)
 
 Users: [User List](https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx1rcGT36jCRgkCMv7jbnpuk/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx1rcGT36jCRgkCMv7jbnpuk/edit?usp=sharing")
 
@@ -30,9 +30,15 @@ There are three exercises that you will run through within this session. These e
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
-**IMPORTANT**
+## Further Learning
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder.
+[**Link to SAP Community**](https://community.sap.com/topics/cloud-analytics "https://community.sap.com/topics/cloud-analytics") - It contains a list of articles and blogs outlining various SAP Analytics Could topics.
+
+[**Link to OpenSAP Course**](https://open.sap.com/courses/sac1 "https://open.sap.com/courses/sac1") - It contains a list of various trainings that enabled you to make intelligent decisions with SAP Analytics Cloud.
+
+[**Link to Customer Influence**](https://influence.sap.com/sap/ino/#/campaign/884 "https://influence.sap.com/sap/ino/#/campaign/884") - You can help shape the future of SAP Analytics Cloud by suggesting and voting on potential improvements.
+
+[**Link to Roadmap Explorer**](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q3%202023 "https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&amp;range=CURRENT-LAST#Q3%202023") - You can learn more about the future improvements that will be coming to SAP Analytics Cloud with every quarterly release.
 
 ## Contributing
 
@@ -48,4 +54,4 @@ Support for the content in this repository is available during the actual time o
 
 ## License
 
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
