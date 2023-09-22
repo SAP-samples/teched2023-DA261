@@ -1,26 +1,27 @@
-# Level 1 Heading
+# **Getting Started**
 
-In this exercise, you will...
+**Objective: **Before we get started on the exercises, we will
+show you how to get started in SAP Analytics Cloud and ensure that you are
+ready for the exercises.
 
-## Level 2 Heading
+**Estimated Time: **5 mins
 
-After completing these steps you will have....
+**Exercise Description:** Before we get started on the exercises, we will introduce the homepage of SAP Analytics Cloud and show where you can access your files and dashboards for the exercises.
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+**Key Outcomes:**
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+* Locate your files
+* Create a copy of the starting dashboards to your local file repository.
+
+⚠️ **Disclaimer** When completing exercises, it is expected that data
+values or screenshots should match what you see on your screen unless otherwise
+noted below. If you see inconsistencies as you work through the exercise,
+please refer to the appropriate section in this document.  For any inconsistencies which are not
+addressed, please check with your instructor.
+
+
 
 ## Summary
 
-Now that you have ... 
+Now that you have ...
 Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
