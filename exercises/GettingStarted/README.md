@@ -67,36 +67,38 @@ create your first story, change your profile settings and so on.
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
+   
 7. Click **OK**
-9. Click on **TE_2023_SAC_Plannning_DA261** to
+   
+8. Click on **TE_2023_SAC_Plannning_DA261** to
    navigate back to the root folder.
    Click on the **DA261- User Content** folder, and then click on
    the subfolder relevant for your UserID (e.g.,  **USER01** )
 
 ![1695417287115](image/README/1695417287115.png)
 
-8. Click on the
+9. Click on the
    dashboard, **DA261 – Dashboard – Exercise 1 –  Start**
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)![1695417300335](image/README/1695417300335.png)
 
-9. Once the
+10. Once the
    dashboard is open select the **Save As** from the File menu
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)![1695417307843](image/README/1695417307843.png)
 
-10. Navigate back
+11. Navigate back
     to the root folder for your user by clicking on your username in the file
     path at the top of the Save As dialog
 
 ![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)![1695417316876](image/README/1695417316876.png)
 
-11. Change the name
+12. Change the name
     of the file to **CycleBros – FP&A Dashboard **and click** OK**
 
 ![1695417326979](image/README/1695417326979.png)![](file:////Users/I818705/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
 
-12. You are ready
+13. You are ready
     to begin!
 
     ![1695417369600](image/README/1695417369600.png)
