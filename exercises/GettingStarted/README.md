@@ -87,12 +87,12 @@ create your first story, change your profile settings and so on.
 
 13. Change the name of the file to **CycleBros – FP&A Dashboard **and click** OK**
 
-![1695417326979](image/README/1695417326979.png)
+   ![1695417326979](image/README/1695417326979.png)
 
 14. You are ready
     to begin!
 
-![1695417369600](image/README/1695417369600.png)
+   ![1695417369600](image/README/1695417369600.png)
 
 ## Summary
 
