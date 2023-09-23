@@ -32,13 +32,13 @@ Start the exercises [here](https://developers.sap.com/tutorials/abap-environment
 
 ## Further Learning
 
-[**Link to SAP Community**](https://community.sap.com/topics/cloud-analytics "https://community.sap.com/topics/cloud-analytics") - It contains a list of articles and blogs outlining various SAP Analytics Could topics.
+[**Link to SAP Community**](https://community.sap.com/topics/cloud-analytics "https://community.sap.com/topics/cloud-analytics") - Articles and blogs outlining various SAP Analytics Could topics.
 
-[**Link to OpenSAP Course**](https://open.sap.com/courses/sac1 "https://open.sap.com/courses/sac1") - It contains a list of various trainings that enabled you to make intelligent decisions with SAP Analytics Cloud.
+[**Link to OpenSAP Course**](https://open.sap.com/courses/sac1 "https://open.sap.com/courses/sac1") - Various trainings that enabled you to make intelligent decisions with SAP Analytics Cloud.
 
-[**Link to Customer Influence**](https://influence.sap.com/sap/ino/#/campaign/884 "https://influence.sap.com/sap/ino/#/campaign/884") - You can help shape the future of SAP Analytics Cloud by suggesting and voting on potential improvements.
+[**Link to Customer Influence**](https://influence.sap.com/sap/ino/#/campaign/884 "https://influence.sap.com/sap/ino/#/campaign/884") - Shape the future of SAP Analytics Cloud by suggesting and voting on potential improvements.
 
-[**Link to Roadmap Explorer**](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q3%202023 "https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&amp;range=CURRENT-LAST#Q3%202023") - You can learn more about the future improvements that will be coming to SAP Analytics Cloud with every quarterly release.
+[**Link to Roadmap Explorer**](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q3%202023 "https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&amp;range=CURRENT-LAST#Q3%202023") - Learn more about the future improvements that will be coming to SAP Analytics Cloud with every quarterly release.
 
 ## Contributing
 
