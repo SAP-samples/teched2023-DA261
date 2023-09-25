@@ -508,4 +508,4 @@ identical to what is shown below.
 - Create and execute data and multi-actions.
 - Perform tracking on data action steps.
 
-Continue to Exercise 3 - XXXXXXXXXXXX
+Please continue to [Exercise 3  - Leveraging the Calendar for Planning Workflows (Optional)](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex3)
