@@ -219,8 +219,7 @@ identical to what is shown below.
 
 <img src="./images/image31.png" style="width:624.0px;height:200.39999999999998px;"/>
 
-72. Configure the table as shown. Notice that price is stored at the
-    unassigned region and that the Amount has not been calculated.
+72. Configure the table as shown. Notice that price is stored at the unassigned region and that the Amount has not been calculated.
 
 <img src="./images/image32.png" style="width:624.0px;height:378.06624px;"/>
 
@@ -273,28 +272,28 @@ identical to what is shown below.
 
 <img src="./images/image39.png" style="width:393.01056000000005px;height:164.76192px;"/>
 
-40. Xxxx
+79. Click on the **Create New** button
 
 <img src="./images/image40.png" style="width:266.85504px;height:266.28384px;"/>
 
-79. Please give the data action a name like " Cross-Model Copy Step" and
+80. Please give the data action a name like " Cross-Model Copy Step" and
     then select our Finance model from the exercise.
 
 <img src="./images/image41.png" style="width:419.88576px;height:163.51296px;"/>
 
-80. We are going to save this data action to our personal folder. Note
+81. We are going to save this data action to our personal folder. Note
     that when creating models, stories and data/multi-actions, that
     these objects can be stored within a file structure for easy
     organization.
 
 <img src="./images/image42.png" style="width:390.31776px;height:275.01599999999996px;"/>
 
-81. We are going to create some parameters for the data action. This
+82. We are going to create some parameters for the data action. This
     will allow us to better control the scope of the data action.
 
 <img src="./images/image43.png" style="width:624.0px;height:298.39968px;"/>
 
-82. To create a parmeter, we will give it a name, set the model to our
+83. To create a parmeter, we will give it a name, set the model to our
     sales planning model (i.e. SAP_XPA_SALESPLAN_TE2023). We will then
     select our dimension (i.e. PLAN_CONTRIBUTOR) and set the cardinality
     to single (vs. multiple values) and the level being a leaf member.
@@ -304,14 +303,14 @@ identical to what is shown below.
 
 <img src="./images/image44.png" style="width:624.0px;height:400.60032px;"/>
 
-83. We are going to create another parameter for source version. As we
+84. We are going to create another parameter for source version. As we
     are creating a data action to copy data between models, this
     parameter will be used to indicate which version we would like to
     copy from the sales plan.
 
 <img src="./images/image45.png" style="width:624.0px;height:238.93344000000002px;"/>
 
-84. Please give the parameter a name, such as "SVersion" and set the
+85. Please give the parameter a name, such as "SVersion" and set the
     model to SAP_XPA_SALESPLAN_TE2023. We are going to assign the
     dimension to Version and the cardinality to single, which means we
     only want to pass a single value via this parameter. We will then
@@ -321,12 +320,12 @@ identical to what is shown below.
 
 <img src="./images/image46.png" style="width:624.0px;height:399.26687999999996px;"/>
 
-85. We are now going to create our **cross-model copy** step to copy
+86. We are now going to create our **cross-model copy** step to copy
     data from our sales plan to our finance plan.
 
 <img src="./images/image47.png" style="width:624.0px;height:295.06656px;"/>
 
-86. Please give the parameter a name, such as "**Sales 2 Finance**" and
+87. Please give the parameter a name, such as "**Sales 2 Finance**" and
     set the model to SAP_XPA_SALESPLAN_TE2023. We are going to assign
     set the filters for **Version** and Plan **Contributor** as shown.
     When selecting the filter value, you will need to select
@@ -335,7 +334,7 @@ identical to what is shown below.
 
 <img src="./images/image48.png" style="width:624.0px;height:292.20000000000005px;"/>
 
-87. Using drag and drop, map the source dimension to the target
+88. Using drag and drop, map the source dimension to the target
     dimensions. Note that you will not be able to map SAP_XPA_COSTCENTER
     as this dimension is not included in the finance model. We will want
     to select this dimension and manually map it to the **Sales &
@@ -343,11 +342,11 @@ identical to what is shown below.
 
 <img src="./images/image49.png" style="width:624.0px;height:280.20000000000005px;"/>
 
-88. Select the measures mapping so we can edit the mapping rules.
+89. Select the measures mapping so we can edit the mapping rules.
 
 <img src="./images/image50.png" style="width:353.68992000000003px;height:273.16512px;"/>
 
-89. We are going to create a user defined rule to map the Amount from
+90. We are going to create a user defined rule to map the Amount from
     the sales plan to Local Currency in our finance plan. We are also
     going to set the auto-generation strategy to "**Identical Names and
     Compatible Types.**" We could have also filtered on measures when
@@ -355,77 +354,77 @@ identical to what is shown below.
 
 <img src="./images/image51.png" style="width:624.0px;height:325.39968px;"/>
 
-90. Now select the SAP_LOB_REGION. Here we have the issue that we have
+91. Now select the SAP_LOB_REGION. Here we have the issue that we have
     sub-regions assigned to the United States in our sales plan that
     have been aggregated to just the United States in our finance plan.
 
 <img src="./images/image52.png" style="width:368.49024px;height:290.34336px;"/>
 
-91. For the region, select "Identical names (including Ancestors)" to
+92. For the region, select "Identical names (including Ancestors)" to
     map the subregions from the sales plan to the region in the finance
     plan. Using this strategy, we can plan at a different level in our
     sales plan than our finance plan.
 
 <img src="./images/image53.png" style="width:624.0px;height:405.40032px;"/>
 
-92. If you have not already done so, please save your plan and then
+93. If you have not already done so, please save your plan and then
     select the **Multi Actions** from the main menu as shown. With the
     multi-action, we can bind data actions that we created for our sales
     and finance model into a single action we can trigger in a story.
 
 <img src="./images/image54.png" style="width:624.0px;height:401.33376px;"/>
 
-93. We are going to create a new Multi Action.
+94. We are going to create a new Multi Action.
 
 <img src="./images/image55.png" style="width:214.13376px;height:196.5408px;"/>
 
-94. Before we add the data actions we previously created to our
+95. Before we add the data actions we previously created to our
     multi-action, we are going to create some parameters to orchestrate
     the execution.
 
 <img src="./images/image56.png" style="width:422.07071999999994px;height:138.66144px;"/>
 
-95. We are going to create parameter called "SVersion" that will be used
+96. We are going to create parameter called "SVersion" that will be used
     transfer what source version we would like to use from our sales
     plan. Please enter the values as shown below.
 
 <img src="./images/image57.png" style="width:289.30752px;height:595.52448px;"/>
 
-96. We are now going to add another parameter for our userID. While we
+97. We are now going to add another parameter for our userID. While we
     would not normally run a data action by user id, we have added this
     parameter as we have many participants running data actions for this
     exercise and want to carefully limit our scope.
 
 <img src="./images/image58.png" style="width:535.99968px;height:313.33344px;"/>
 
-97. Please create the parameter as shown below.
+98. Please create the parameter as shown below.
 
 <img src="./images/image59.png" style="width:416.46623999999997px;height:864.0px;"/>
 
-98. We are now going to create another parameter for the target version.
+99. We are now going to create another parameter for the target version.
     Note that for this exercise we could have just hard-coded these
     values, but have chosen to include them as parameters to make them
     more dynamic.
 
 <img src="./images/image60.png" style="width:537.33312px;height:522.66624px;"/>
 
-99. Please create the version as shown below.
+100. Please create the version as shown below.
 
 > <img src="./images/image61.png" style="width:424.26624px;height:864.0px;"/>
 
-100. Select the + button and then add a **Data Action Step**. This is
+101. Select the + button and then add a **Data Action Step**. This is
      where we will start to attach the data actions we previously created
      to the multi-action.
 
 <img src="./images/image62.png" style="width:419.61983999999995px;height:293.19647999999995px;"/>
 
-101. Select the data action that you have previously created, which
+102. Select the data action that you have previously created, which
      should be stored in your user folder. Please configure the
      parameters as well.
 
 <img src="./images/image63.png" style="width:212.97504px;height:331.11744px;"/>
 
-102. We will now add another data action to our multi action. Note that
+103. We will now add another data action to our multi action. Note that
      when we create a data action, we can only assign a single model to
      it. When using a multi action, we can include many data action steps
      to it, which may be bound to different models. Our first data action
@@ -434,40 +433,40 @@ identical to what is shown below.
 
 > <img src="./images/image64.png" style="width:624.0px;height:419.20032000000003px;"/>
 
-103. Configure the data action as shown and then save the multi-action.
+104. Configure the data action as shown and then save the multi-action.
      you will need to save the Multi Action to your personal folder,
      which will be shown in the following step.
 
 <img src="./images/image65.png" style="width:624.0px;height:389.53344000000004px;"/>
 
-104. Save the Multi Action to your personal folder. Please give it a name
+105. Save the Multi Action to your personal folder. Please give it a name
      like "Calc_Sales_and_Aggregate"
 
 <img src="./images/image66.png" style="width:624.0px;height:441.26687999999996px;"/>
 
-105. Open your main user story that we created in the first part of the
+106. Open your main user story that we created in the first part of the
      exercise.
 
 <img src="./images/image67.png" style="width:624.0px;height:347.20032000000003px;"/>
 
-106. Navigate to the second page of the worksheet related to **Sales Plan
+107. Navigate to the second page of the worksheet related to **Sales Plan
      Entry** and then select the **Edit** button. We need to be in edit
      mode to add our newly created multi-action into our story.
 
 <img src="./images/image68.png" style="width:624.0px;height:352.39968px;"/>
 
-107. Add a **Multi Action Trigger** as shown below.
+108. Add a **Multi Action Trigger** as shown below.
 
 > <img src="./images/image69.png" style="width:624.0px;height:216.19968px;"/>
 
-108. Open up the right editing pane and then select your multi action
+109. Open up the right editing pane and then select your multi action
      that you have just created form your personal folder. Assign the
      parameters as shown below. Press the formatting button so we can
      format the trigger in the next step.
 
 <img src="./images/image70.png" style="width:451.00032px;height:579.6988799999999px;"/>
 
-109. We are now going to format the trigger. While you are free to select
+110. We are now going to format the trigger. While you are free to select
      any color, we have provided a hex number as well for a particular
      shade of blue.
 
@@ -475,7 +474,7 @@ identical to what is shown below.
 
 <img src="./images/image72.png" style="width:170.8512px;height:462.11136px;"/>
 
-110. Please reposition the Multi Action and then **Save** your story. We
+111. Please reposition the Multi Action and then **Save** your story. We
      will then select the **View** mode as we get ready to execute the
      Multi Action.
 
@@ -488,12 +487,12 @@ identical to what is shown below.
 
 <img src="./images/image74.png" style="width:624.0px;height:337.33344px;"/>
 
-111. Press the **Multi Action** button to execute it. The prompts in this
+112. Press the **Multi Action** button to execute it. The prompts in this
      case should be 2024 Plan for both the source and target version.
 
 <img src="./images/image75.png" style="width:624.0px;height:337.33344px;"/>
 
-112. We should now see the sales plan values transferred to the finance
+113. We should now see the sales plan values transferred to the finance
      plan. We can expand the hierarchies to get a better sense of the
      plan transfer.
 
