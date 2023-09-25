@@ -27,19 +27,19 @@ instructor.
 explore a sample story, create your first story, change your profile
 settings and so on.
 
-![](./images//image1.png)
+<img alt="image" src="./images/image1.png" style="width:624.0px;height:334.93344px;"/>
 
 1. First, you want to access existing dashboards that we have created
    for TechEd. In the left side panel, click the **Files** icon.
 
-![](./images//image2.png)
+<img alt="image" src="./images/image2.png" style="width:624.0px;height:433.26624px;"/>
 
 2. The stories that you will work on are located within the **Stories**
    folder within the Workspace TE_2023_SAC_Planning_DA261. First select
    the appropriate workspace and click on the **DA261 Exercise
    Content** folder.
 
-![](./images//image3.png)
+<img src="./images/image3.png" style="width:580.608px;height:218.72064px;"/>
 
 3. Within the folder you will see a starting dashboard, and dashboards
    to represent the expected results at the end of exercise 1 and
@@ -51,11 +51,11 @@ settings and so on.
    Dashboards** folder. Click on the checkbox for the **Exercise 1
    Dashboard**.
 
-![](./images//image4.png)
+<img src="./images/image4.png" style="width:585.61344px;height:207.78048px;"/>
 
 4. Click on the **Copy To** icon
 
-![](./images//image5.png)
+<img src="./images/image5.png" style="width:589.66944px;height:209.40864px;"/>
 
 5. Click on **TE_2023_SAC_Plannning_DA261** to navigate back to the
    root folder. Click on the **DA261- User Content** folder, and then
@@ -70,30 +70,30 @@ settings and so on.
    **TE_2023_SAC_Plannning_DA261**, and click on the subfolder for your
    user (e.g. **USER01)** 
 
-![](./images//image6.png)
+<img alt="image" src="./images/image6.png" style="width:624.0px;height:145.66656px;"/>
 
 8. Click on the dashboard, **DA261 -- Dashboard -- Exercise 1 --
    Start**
 
-![](./images//image7.png)
+<img src="./images/image7.png" style="width:624.0px;height:165.53376px;"/>
 
 9. Once the dashboard is open select the **Save As** from the File menu
 
-![](./images//image8.png)
+<img src="./images/image8.png" style="width:624.0px;height:232.287744px;"/>
 
 10. Navigate back to the root folder for your user by clicking on your
     username in the file path at the top of the Save As dialog
 
-![](./images//image9.png)
+<img src="./images/image9.png" style="width:482.37216px;height:339.79967999999997px;"/>
 
 11. Change the name of the file to **CycleBros -- FP&A Dashboard** and
     click **OK**
 
-![](./images//image10.png)
+<img src="./images/image10.png" style="width:484.09632px;height:342.79776px;"/>
 
 12. You are ready to begin!
 
-![](./images//image11.png)
+<img src="./images/image11.png" style="width:624.0px;height:394.13375999999994px;"/>
 
 **Summary**
 
