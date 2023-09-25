@@ -48,7 +48,7 @@ click <strong>Edit</strong> to change the dashboard to authoring
 mode.</p></li>
 </ol>
 <p><img src="./images/image1.png"
-style="width:3.70921in;height:2.35075in" /></p>
+style="width:2.70921in;height:1.35075in" /></p>
 <p>🚩 The first thing we want to do is make some end-user requested
 changes to the Financial Overview page. This include updating the
 dashboard title to dynamic reflect our region filter selection, changing
