@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="../../styles.css" />
 <p><strong>Getting Started</strong></p>
 <p><strong>Objective:</strong> Before we get started on the exercises,
 we will show you how to get started in SAP Analytics Cloud and ensure
