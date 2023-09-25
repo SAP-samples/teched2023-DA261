@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./styles.css" />
+<link rel="stylesheet" href="styles.css" />
 <h1 id="exercise-1-plan-story-navigation-and-enrichment">Exercise 1 –
 Plan Story Navigation and Enrichment</h1>
 <p><strong>Objective:</strong> You should develop an understanding of
