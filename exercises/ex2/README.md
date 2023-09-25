@@ -5,7 +5,7 @@ execute data action and multi actions. You will explore data action
 tracing, which is useful for debugging data actions and will create
 parameters to streamline the execution of data/multi actions
 
-**Estimated Time:** 50 mins
+**Estimated Time:** 50 min
 
 **Exercise Description:**  Now that the sales quantity has been uploaded
 to the sales model, we are going to create a data action to calculate

@@ -1,36 +1,29 @@
-# Exercise 2 -- Advanced Planning with Data Actions and Multi Actions 
+# Exercise 3 - Leveraging the Calendar for Plan Workflows
 
-**Objective:** You will develop a basic understanding how to create and
-execute data action and multi actions. You will explore data action
-tracing, which is useful for debugging data actions and will create
-parameters to streamline the execution of data/multi actions
+**Objective:** In this exercise, you will explore the calendar,
+and create a submission and review task based on the output of exercises 1
+& 2
 
-**Estimated Time:** 45 mins
+**Estimated Time:** 15 mins
 
-**Exercise Description:**  Now that the sales quantity has been uploaded
-to the sales model, we are going to create a data action to calculate
-sales revenue and an allocation to distribute retail returns to the
-product level based on our expected sales revenue. In the last step of
-the exercise, we will transfer our sales plan to our financial plan.
+**Exercise Description:**  Now that we have created our dashboard and
+input template, and create a process to aggregate the plan results, we will
+create a simple calendar process to simulate to a plan submission workflow.  Note that in this exercise we will only generate
+the tasks due to the complexities associated with multiple sign-ins required to
+step through the actual submission process.
 
 **Key Features:**
 
--   Creation of data action to streamline calculations.
+- Creation of data action to streamline calculations.
 
-    -   Create data action parameters to streamline execution.
-
-    -   Create a simple advanced formula for sales revenue calculation.
-
-    -   Create an allocation rule to allocate retail expenses.
-
-    -   Creating a cross model copy rule, which aggregates data based on
-        region.
-
--   Executing a trace on a data action and reviewing results.
-
--   Creating a multi-action to orchestrate data actions.
-
--   Format trigger within the story and map parameters.
+  - Create data action parameters to streamline execution.
+  - Create a simple advanced formula for sales revenue calculation.
+  - Create an allocation rule to allocate retail expenses.
+  - Creating a cross model copy rule, which aggregates data based on
+    region.
+- Executing a trace on a data action and reviewing results.
+- Creating a multi-action to orchestrate data actions.
+- Format trigger within the story and map parameters.
 
 ⚠️**Disclaimer** When completing exercises, it is expected that data
 values or screenshots should match what you see on your screen. If you
@@ -49,26 +42,26 @@ Let's start by editing the dashboard to show the finance plan. This will
 make it easy to eventually see how our sales planning activities
 transfer to the finance plan near the end of the exercise.
 
-6.  We are now going to adjust the layout of the sales planning table.
-    Our first step will be select the table object, select edit mode for
-    the story, the right design panel and then the builder panel. This
-    will allow us to redefine the definition of the table object.
+6. We are now going to adjust the layout of the sales planning table.
+   Our first step will be select the table object, select edit mode for
+   the story, the right design panel and then the builder panel. This
+   will allow us to redefine the definition of the table object.
 
 <img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
 
-7.  Adjust the table definition to match the definition provided below.
-    For **Account**, we will filter on Gross Revenue and for
-    **Measures** we will filter on Quantity and Amount.
+7. Adjust the table definition to match the definition provided below.
+   For **Account**, we will filter on Gross Revenue and for
+   **Measures** we will filter on Quantity and Amount.
 
 <img src="./images/image2.png" style="width:316.05600000000004px;height:598.8432px;"/>
 
-8.  We will enable null suppression to remove the null rows from the
-    report.
+8. We will enable null suppression to remove the null rows from the
+   report.
 
 <img src="./images/image3.png" style="width:271.96512px;height:184.68288px;"/>
 
-9.  We will now collapse the hierarchy of the report so that we are only
-    looking at an overview of our sales plan.
+9. We will now collapse the hierarchy of the report so that we are only
+   looking at an overview of our sales plan.
 
 <img src="./images/image4.png" style="width:416.04576px;height:153.83904px;"/>
 
@@ -511,8 +504,7 @@ identical to what is shown below.
 
 **You are now able to:**
 
--   Create and execute data and multi-actions.
-
--   Perform tracking on data action steps.
+- Create and execute data and multi-actions.
+- Perform tracking on data action steps.
 
 Continue to Exercise 3 - XXXXXXXXXXXX

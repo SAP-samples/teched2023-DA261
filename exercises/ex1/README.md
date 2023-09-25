@@ -5,7 +5,7 @@ navigation, and how to modify a story to include new visualiziations,
 change existing widget settings, and leverage custom widgets and script
 to improve our planning template.
 
-**Estimated Time:** 25 mins
+**Estimated Time:** 25 min
 
 **Exercise Description:**  CycleBros is a Germany headquartered
 recreational bike manufacturer and distributor. You are an FP&A analyst
@@ -402,7 +402,6 @@ reflect your user ID
 
 * Make simple changes to an existing dashboard
 * Introduce additional charts and widgets into your dashboard
-
 * Leverage JavaScript script to further tailor your planning template
 
 Please continue to [Exercise 2 - Advanced Planning with Data Actions and Multi Actions](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex2)

@@ -4,7 +4,7 @@
 how to get started in SAP Analytics Cloud and ensure that you are ready
 for the exercises.
 
-**Estimated Time:** 5 mins
+**Estimated Time:** 5 min
 
 **Exercise Description:** Before we get started on the exercises, we
 will introduce the homepage of SAP Analytics Cloud and show where you
