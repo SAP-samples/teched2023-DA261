@@ -24,7 +24,7 @@ Users: [User List](https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx
 There are three exercises that you will run through within this session. These exercises are meant to build on top of one another to provide a simplistic end-to-end planning and analysis scenario.
 
 * [Getting Started](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/GettingStarted)
-* Exercise 1 – Plan Story Navigation and Enrichment
+* [Exercise 1 – Plan Story Navigation and Enrichment](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex1)
 * Exercise 2 - Advanced Planning with Data Actions and Multi Actions
 * Exercise 3 - Leveraging the Calendar for Plan Workflows (Optional)
 
