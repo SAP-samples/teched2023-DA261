@@ -1,4 +1,4 @@
-# Exercise 1 -- Plan Story Navigation and Enrichment
+# Exercise 1 - Plan Story Navigation and Enrichment
 
 **Objective:** You should develop an understanding of basic story
 navigation, and how to modify a story to include new visualiziations,
@@ -16,13 +16,11 @@ enhancements.
 
 **Key Features:**
 
--   Basic navigation of the dashboard
-
--   Inclusion of new widgets and minor changes to existing widget
-    settings
-
--   Introduction of a custom widget and script to support direct
-    end-user upload of planning data
+- Basic navigation of the dashboard
+- Inclusion of new widgets and minor changes to existing widget
+  settings
+- Introduction of a custom widget and script to support direct
+  end-user upload of planning data
 
 ⚠️**Disclaimer** When completing exercises, it is expected that data
 values or screenshots should match what you see on your screen. If you
@@ -49,8 +47,8 @@ flexibility.
 
 Let's start by editing the dashboard!
 
-1.  First ensure you are on the Financial Overview tab. Then
-    click **Edit** to change the dashboard to authoring mode.
+1. First ensure you are on the Financial Overview tab. Then
+   click **Edit** to change the dashboard to authoring mode.
 
 <img src="./images/image1.png" style="width:356.08416px;height:225.67200000000003px;"/>
 
@@ -60,38 +58,38 @@ title to dynamic reflect our region filter selection, changing the
 default filter for region to focus on the US, and modifying the default
 drill level for our P&L in the table widget.
 
-2.  In the dashboard title text box, highlight the **DA261** and click
-    the delete key
+2. In the dashboard title text box, highlight the **DA261** and click
+   the delete key
 
 <img src="./images/image2.png" style="width:509.09376000000003px;height:257.64671999999996px;"/>
 
-3.  With your cursor between the brackets () right-click. Select **Add**
-    \> **Dynamic Text**
+3. With your cursor between the brackets () right-click. Select **Add**
+   \> **Dynamic Text**
 
 <img src="./images/image3.png" style="width:515.75904px;height:275.01599999999996px;"/>
 
-4.  From the Insert Dynamic Text popup, select **Story Filters** and
-    check the box for **SAP_XPA_REGION** and click the **Create** button
+4. From the Insert Dynamic Text popup, select **Story Filters** and
+   check the box for **SAP_XPA_REGION** and click the **Create** button
 
 <img src="./images/image4.png" style="width:461.21856px;height:279.096px;"/>
 
-5.  Now let's change the default filter selection for the region by
-    clicking on the **SAP_XPA_REGION** filter at the top of the
-    dashboard and deselecting the **All** filter 
+5. Now let's change the default filter selection for the region by
+   clicking on the **SAP_XPA_REGION** filter at the top of the
+   dashboard and deselecting the **All** filter 
 
 <img src="./images/image5.png" style="width:414.96096px;height:282.53664000000003px;"/>
 
-6.  Select **United States** and click **Apply Selections**
+6. Select **United States** and click **Apply Selections**
 
 <img src="./images/image6.png" style="width:416.41824px;height:288.33408000000003px;"/>
 
-6.  Finally, let's change the default drill depth in our table by first
-    right-clicking on the **SAP_XPA_ACCOUNT** dimension header within
-    the table. Select **Drill** \> **Level 4**
+6. Finally, let's change the default drill depth in our table by first
+   right-clicking on the **SAP_XPA_ACCOUNT** dimension header within
+   the table. Select **Drill** \> **Level 4**
 
 <img src="./images/image7.png" style="width:480.62784px;height:287.14464px;"/>
 
-7.  Click **File/Save** to save your dashboard updates
+7. Click **File/Save** to save your dashboard updates
 
 <img src="./images/image8.png" style="width:472.29984px;height:266.22335999999996px;"/>
 
@@ -106,7 +104,7 @@ first will simplify review of total units planned, while the second will
 introduce a custom widget to provide a mechanism for end-users to
 directly upload their sales plan numbers from csv or xls.
 
-8.  Navigate to the **Sales Plan Entry** tab, and review the template
+8. Navigate to the **Sales Plan Entry** tab, and review the template
 
 <img src="./images/image10.png" style="width:415.0032px;height:180.82752px;"/>
 
@@ -116,8 +114,8 @@ well, but we want to make it more prominent the end-user. Rather than
 inserting a net-new chart, we are going to duplicate an existing object
 and repoint it.
 
-9.  Navigate back to the **Financial Overview** tab, and select the Unit
-    Sales numeric point chart
+9. Navigate back to the **Financial Overview** tab, and select the Unit
+   Sales numeric point chart
 
 <img src="./images/image11.png" style="width:549.6432px;height:236.65152px;"/>
 
@@ -402,8 +400,9 @@ reflect your user ID
 
 **You are now able to:**
 
--   Make simple changes to an existing dashboard
+* Make simple changes to an existing dashboard
+* Introduce additional charts and widgets into your dashboard
 
--   Introduce additional charts and widgets into your dashboard
+* Leverage JavaScript script to further tailor your planning template
 
--   Leverage JavaScript script to further tailor your planning template
+Please continue to [Exercise 2 - Advanced Planning with Data Actions and Multi Actions](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex2)

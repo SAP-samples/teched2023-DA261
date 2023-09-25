@@ -100,4 +100,4 @@ settings and so on.
 **You have completed the Getting Started section! Now you are ready to
 move on to the exercises.**
 
-Continue to Exercise 1 -- Plan Story Navigation and Enrichment
+Please continue to [Exercise 1 - Plan Story Navigation and Enrichment](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex1)
