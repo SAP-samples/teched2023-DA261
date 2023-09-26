@@ -35,10 +35,10 @@ Let’s start by launching the calendar.
 
 <img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
 
-116. Select
+115. Select
      Calendar
 
-<img src="./images/image2.png" style="width:400.0px;height:205.128px;"/>
+<img src="./images/image2.png" style="width:200.0px;height:205.128px;"/>
 
 🚩 Welcome to
 the Calendar! This where you can create user driven tasks and execute automated
