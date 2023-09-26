@@ -93,7 +93,7 @@ transfer to the finance plan near the end of the exercise.
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
 
-<img src="./images/image10.png" style="width:316px;height:214px;"/>
+<img src="./images/image10.png"/>
 
 54. Select the Version item from the Input Controls selections.
 
