@@ -232,7 +232,7 @@ identical to what is shown below.
     can also explore the calculation scope for our advanced formula on
     the right pane.
 
-<img src="./images/image33.png" style="width:624.0px;height:391.00032px;"/>
+<img src="./images/image33.png"/>
 
 74. If you would like, you can also select values from the Watch Area
     table and use the copy button to copy them to the clipboard. These
@@ -240,7 +240,7 @@ identical to what is shown below.
     analysis. While we are showing this capability, we have not included
     exercise steps to paste these values into other documents.
 
-<img src="./images/image34.png" style="width:624.0px;height:365.80032px;"/>
+<img src="./images/image34.png"/>
 
 75. Next, we are going to select the tracing steps after our
     Calculate_Sales advanced formulas has executed. As we only have one
@@ -249,21 +249,21 @@ identical to what is shown below.
     values for Retail Returns as this will be addressed in our
     allocation step.
 
-<img src="./images/image35.png" style="width:624.0px;height:267.19968px;"/>
+<img src="./images/image35.png"/>
 
 76. Selectin the AFTER Allocate Expected Returns, we can see that the
     Retail Returns from the unassigned region (i.e. '#'), to each of the
     subregions based on Gross Sales.
 
-<img src="./images/image36.png" style="width:624.0px;height:262.73376px;"/>
+<img src="./images/image36.png" />
 
 77. The Trace creates a private version, which can be viewed in the
     story we created. Since we will not be doing anything with this this
     trace version we will delete the information.
 
-<img src="./images/image37.png" style="width:624.0px;height:266.4px;"/>
+<img src="./images/image37.png"/>
 
-<img src="./images/image38.png" style="width:265.43904px;height:49.656px;"/>
+<img src="./images/image38.png"/>
 
 78. In case you have not done so before, please **Save** your data
     action. When we created the data action, we did it from our personal
@@ -272,11 +272,11 @@ identical to what is shown below.
     finance plan. We will perform this step from the main menu to
     initiate the build activity and then save it to our personal folder.
 
-<img src="./images/image39.png" style="width:393.01056000000005px;height:164.76192px;"/>
+<img src="./images/image39.png"/>
 
 79. Click on the **Create New** button
 
-<img src="./images/image40.png" style="width:266.85504px;height:266.28384px;"/>
+<img src="./images/image40.png" style="width:267px;height:266px;"/>
 
 80. Please give the data action a name like " Cross-Model Copy Step" and
     then select our Finance model from the exercise.
@@ -293,7 +293,7 @@ identical to what is shown below.
 82. We are going to create some parameters for the data action. This
     will allow us to better control the scope of the data action.
 
-<img src="./images/image43.png" style="width:624.0px;height:298.39968px;"/>
+<img src="./images/image43.png"/>
 
 83. To create a parmeter, we will give it a name, set the model to our
     sales planning model (i.e. SAP_XPA_SALESPLAN_TE2023). We will then
@@ -303,14 +303,14 @@ identical to what is shown below.
     user, this will allow us to pass our user to the data action to
     restrict its scope.
 
-<img src="./images/image44.png" style="width:624.0px;height:400.60032px;"/>
+<img src="./images/image44.png"/>
 
 84. We are going to create another parameter for source version. As we
     are creating a data action to copy data between models, this
     parameter will be used to indicate which version we would like to
     copy from the sales plan.
 
-<img src="./images/image45.png" style="width:624.0px;height:238.93344000000002px;"/>
+<img src="./images/image45.png"/>
 
 85. Please give the parameter a name, such as "SVersion" and set the
     model to SAP_XPA_SALESPLAN_TE2023. We are going to assign the
@@ -320,12 +320,12 @@ identical to what is shown below.
     default value, the user can override this value when the data action
     is executed.
 
-<img src="./images/image46.png" style="width:624.0px;height:399.26687999999996px;"/>
+<img src="./images/image46.png" />
 
 86. We are now going to create our **cross-model copy** step to copy
     data from our sales plan to our finance plan.
 
-<img src="./images/image47.png" style="width:624.0px;height:295.06656px;"/>
+<img src="./images/image47.png" />
 
 87. Please give the parameter a name, such as "**Sales 2 Finance**" and
     set the model to SAP_XPA_SALESPLAN_TE2023. We are going to assign
@@ -334,7 +334,7 @@ identical to what is shown below.
     **Parameters** on the pane on the left side of the popup window to
     select the parameters you have previously created.
 
-<img src="./images/image48.png" style="width:624.0px;height:292.20000000000005px;"/>
+<img src="./images/image48.png"/>
 
 88. Using drag and drop, map the source dimension to the target
     dimensions. Note that you will not be able to map SAP_XPA_COSTCENTER
@@ -342,11 +342,11 @@ identical to what is shown below.
     to select this dimension and manually map it to the **Sales &
     Marketing** cost center.
 
-<img src="./images/image49.png" style="width:624.0px;height:280.20000000000005px;"/>
+<img src="./images/image49.png" />
 
 89. Select the measures mapping so we can edit the mapping rules.
 
-<img src="./images/image50.png" style="width:353.68992000000003px;height:273.16512px;"/>
+<img src="./images/image50.png" style="width:424px;height:303px;"/>
 
 90. We are going to create a user defined rule to map the Amount from
     the sales plan to Local Currency in our finance plan. We are also
@@ -354,20 +354,20 @@ identical to what is shown below.
     Compatible Types.**" We could have also filtered on measures when
     creating the rule to just include Quantity and Amount as well.
 
-<img src="./images/image51.png" style="width:624.0px;height:325.39968px;"/>
+<img src="./images/image51.png" />
 
 91. Now select the SAP_LOB_REGION. Here we have the issue that we have
     sub-regions assigned to the United States in our sales plan that
     have been aggregated to just the United States in our finance plan.
 
-<img src="./images/image52.png" style="width:368.49024px;height:290.34336px;"/>
+<img src="./images/image52.png" style="width:408px;height:310px;"/>
 
 92. For the region, select "Identical names (including Ancestors)" to
     map the subregions from the sales plan to the region in the finance
     plan. Using this strategy, we can plan at a different level in our
     sales plan than our finance plan.
 
-<img src="./images/image53.png" style="width:624.0px;height:405.40032px;"/>
+<img src="./images/image53.png"/>
 
 93. If you have not already done so, please save your plan and then
     select the **Multi Actions** from the main menu as shown. With the
