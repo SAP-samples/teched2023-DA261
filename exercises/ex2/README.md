@@ -59,7 +59,7 @@ transfer to the finance plan near the end of the exercise.
 47. We will enable null suppression to remove the null rows from the
     report.
 
-<img src="./images/image3.png" />
+<img src="./images/image3.png" style="width:416px;height:284px;"/>
 
 48. We will now collapse the hierarchy of the report so that we are only
     looking at an overview of our sales plan.
@@ -69,7 +69,7 @@ transfer to the finance plan near the end of the exercise.
 49. Once we close the right builder pane and resize the table, your
     results should look like this:
 
-<img src="./images/image5.png" />
+<img src="./images/image5.png"/>
 
 50. We are now going to create a table that shows our Finance data. As
     part of this exercise, we are going to integrate our sales plan into
@@ -82,32 +82,32 @@ transfer to the finance plan near the end of the exercise.
 
 51. Acknowledge the warning and then select the finance model.
 
-<img src="./images/image7.png"/>
+<img src="./images/image7.png" />
 
-<img src="./images/image8.png"/>
+<img src="./images/image8.png" style="width:416px;height:354px;"/>
 
 52. Set the table layout and filters as shown
 
-> <img src="./images/image9.png" style="width:474px;height:86px;"/>
+> <img src="./images/image9.png" style="width:316px;height:599px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
 
-> <img src="./images/image10.png" style="width:265px;height:156px;"/>
+> <img src="./images/image10.png" style="width:416px;height:264px;"/>
 
 54. Select the Version item from the Input Controls selections.
 
-> <img src="./images/image11.png" style="width:382px;height:240px;"/>
+> <img src="./images/image11.png"/>
 
 ⚠️ **Quality Check!** Does your refreshed dashboard (including upload
 results) look like this? Note: The right planning panel may need to be
 de-selected from the meu to replicate this view.
 
-<img src="./images/image12.png" style="width:624px;height:361px;"/>
+<img src="./images/image12.png"/>
 
 55. Save your story.
 
-> <img src="./images/image13.png" style="width:350px;height:183px;"/>
+> <img src="./images/image13.png"/>
 
 56. From the main menu, select **Files**, our **Workspace**, then
     DA261-User Content and then your user folder. We can now select the
