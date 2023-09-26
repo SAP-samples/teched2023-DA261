@@ -78,36 +78,36 @@ transfer to the finance plan near the end of the exercise.
     Quantity table, reposition it and then open up the builder panel so
     we can select our finance model.
 
-<img src="./images/image6.png" style="width:624.0px;height:341.06687999999997px;"/>
+<img src="./images/image6.png" style="width:624px;height:341px;"/>
 
 51. Acknowledge the warning and then select the finance model.
 
-<img src="./images/image7.png" style="width:316.71360000000004px;height:53.5296px;"/>
+<img src="./images/image7.png" style="width:316px;height:53px;"/>
 
-<img src="./images/image8.png" style="width:306.96px;height:224.87424px;"/>
+<img src="./images/image8.png" style="width:306px;height:225px;"/>
 
 52. Set the table layout and filters as shown
 
-> <img src="./images/image9.png" style="width:473.93376px;height:864.0px;"/>
+> <img src="./images/image9.png" style="width:474px;height:86px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
 
-> <img src="./images/image10.png" style="width:264.57599999999996px;height:156.31104px;"/>
+> <img src="./images/image10.png" style="width:265px;height:156px;"/>
 
 54. Select the Version item from the Input Controls selections.
 
-> <img src="./images/image11.png" style="width:382.06272px;height:240.29952px;"/>
+> <img src="./images/image11.png" style="width:382px;height:240px;"/>
 
 ⚠️ **Quality Check!** Does your refreshed dashboard (including upload
 results) look like this? Note: The right planning panel may need to be
 de-selected from the meu to replicate this view.
 
-<img src="./images/image12.png" style="width:624.0px;height:360.79967999999997px;"/>
+<img src="./images/image12.png" style="width:624px;height:361px;"/>
 
 55. Save your story.
 
-> <img src="./images/image13.png" style="width:350.12448px;height:183.14208px;"/>
+> <img src="./images/image13.png" style="width:350px;height:183px;"/>
 
 56. From the main menu, select **Files**, our **Workspace**, then
     DA261-User Content and then your user folder. We can now select the
@@ -116,36 +116,36 @@ de-selected from the meu to replicate this view.
     extend this data action to allocate Retail Returns to the subregions
     of the United States based on our calculated Gross Sales values.
 
-<img src="./images/image14.png" style="width:624.0px;height:288.53376000000003px;"/>
+<img src="./images/image14.png" style="width:624px;height:289px;"/>
 
 57. Enter a name like "Calculate_Sales\_&\_Returns" and select the Sales
     Model from the model folder within our workspace. This is the same
     sales model we were using when we were creating our story. When
     complete, save the data action to your folder.
 
-<img src="./images/image15.png" style="width:624.0px;height:303.26688px;"/>
+<img src="./images/image15.png" style="width:624px;height:303px;"/>
 
 58. Validate that you are saving the data action to your user folder.
 
-<img src="./images/image16.png" style="width:624.0px;height:442.06656000000004px;"/>
+<img src="./images/image16.png" style="width:624px;height:442px;"/>
 
 59. We are going to add an advanced formulae to calculate gross sales
     from quantity and price. We are going to open the content menu so we
     can restrict the scope of the calculation.
 
-<img src="./images/image17.png" style="width:624.0px;height:455.73312000000004px;"/>
+<img src="./images/image17.png" style="width:624px;height:456px;"/>
 
 60. However, before we restrict the context, we are going to create a
     parameter to restrict the calculation to our user id.
 
-<img src="./images/image18.png" style="width:624.0px;height:233.80032px;"/>
+<img src="./images/image18.png" style="width:624px;height:234px;"/>
 
 61. Give your parameter a name like "User" and then make the appropriate
     settings as shown. When complete save your Data Action. Select the
     advanced formula item that we were starting to configure before we
     created our parameter.
 
-<img src="./images/image19.png" style="width:624.0px;height:412.79999999999995px;"/>
+<img src="./images/image19.png" style="width:624px;height:413px;"/>
 
 62. Give the step a name like "Calculate Sales". Next configure the
     context as shown. Note that for the PLAN_CONTRIBUTOR. You will need
@@ -154,24 +154,24 @@ de-selected from the meu to replicate this view.
     we will start the process of building a graphical calculation to
     calculate gross sales.
 
-<img src="./images/image20.png" style="width:624.0px;height:321.40031999999997px;"/>
+<img src="./images/image20.png" style="width:624px;height:321px;"/>
 
 63. We are going to calculate the Gross Sales Amount by taking the
     price, which is stored at the Unassigned region multiplied by the
     sales quantity we uploaded from our excel file.
 
-<img src="./images/image21.png" style="width:397.64735999999994px;height:258.98112px;"/>
+<img src="./images/image21.png" style="width:398px;height:259px;"/>
 
 ⚠️**Quality Check!** Please check that your advanced formula is
 identical to what is shown below.
 
-<img src="./images/image22.png" style="width:624.0px;height:304.73376px;"/>
+<img src="./images/image22.png" style="width:624px;height:305px;"/>
 
 64. We are now going to add an allocation step so that we can allocate
     retail returns to our sub-regions (i.e. North, East, South and
     West).
 
-<img src="./images/image23.png" style="width:454.08288000000005px;height:182.0208px;"/>
+<img src="./images/image23.png" style="width:454px;height:182px;"/>
 
 65. Configure the allocation rules as shown and then save your rule. In
     this case, we have already planned retail return values for 2024 for
