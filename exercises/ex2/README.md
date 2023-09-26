@@ -48,7 +48,7 @@ transfer to the finance plan near the end of the exercise.
     the story, the right design panel and then the builder panel. This
     will allow us to redefine the definition of the table object.
 
-<img src="./images/image1.png" style="width:624px;height:320px;"/>
+<img src="./images/image1.png"/>
 
 46. Adjust the table definition to match the definition provided below.
     For **Account**, we will filter on Gross Revenue and for
