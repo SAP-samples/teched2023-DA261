@@ -31,469 +31,193 @@ We will utilize the SAC calendar for this purposed.
 
 Let’s start by launching the calendar.
 
-
 114. Expand the Navigation Bar
+116. Select
+     Calendar
+
+🚩 Welcome to
+the Calendar! This where you can create user driven tasks and execute automated
+system tasks based on specific calendar dates and times.  Note that you may have received a
+notification about a next task status filtering option.  If you did, you will likely see a pre-filter
+already setup based on task status (you can see this below).  You are likely to see a blank calendar as no
+tasks have been configured for your user (either as a task owner, task assignee,
+or task reviewer).   We are going to
+create some tasks in this exercise.
+
+116. Under
+     the General toolbar item, click the **+** and select **Generate Events with**
+     **Wizard**
+
+
+🚩 Welcome to the Calendar Wizard! From here we can utilize
+various parameters to create many assignee and review tasks which essentially represent
+a larger submission workflow to cover an entire planning process, or a
+subprocess.  In our case, this workflow
+will be very simplistic and could be create manually using the General and
+Review Task options visible in the menu item above.  However, we will utilize the Wizard to
+illustrate its capabilities.
+
+
+117. From the Basic Settings step, configure the following settings.  For Process Name, Start Date, and End Date
+     feel free to use those provided in the image, or set your own
+
+
+118. Click
+     the **Add File** under the Work Files
 
-     ![1695749978088](image/README/1695749978088.png)
+
+119. We want to attach the dashboard we finalized in exercise 2 to the tasks we are
+     going to create.  Location and select the
+     **CycleBros – FP&A Dashboard ** (you will have to navigate to your folder
+     in the TE_2023_SAC_Planning_DA261 Workspace).
+     Click the **OK** button.
+121. Navigate
+     to  **Step 2** .
 
-<img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
 
-7. Adjust the table definition to match the definition provided below.
-   For **Account**, we will filter on Gross Revenue and for
-   **Measures** we will filter on Quantity and Amount.
+🚩 Notice
+that as you navigate through the Wizard, your current step is illustrated as a
+process flow at the top of the dialog.  At
+any point in time, you can navigate backward or forward (up to the most next
+step you need to complete) by either clicking on the specific step in the process
+flow or using the scroll bar on the right of the dialog.  Feel free to test this.
+
+121. For the Context, populate the Model
+     and Driving Dimension filters as follows, and then navigate to Step 3.  Note that you can find the model in Models
+     folder in the TE_2023_SAC_Planning_DA261 Workspace.
+
+
+13. The **Event Types** step allows us
+    to define the specific types of tasks we want to configure.  In our case we will select General Task and Review
+    Tasks, and we will also include a Data Locking Task and create an overriding
+    process group for our tasks.  Configure
+    the Event types step as follows.
+
+
+🚩 The Event
+Types dialog allows us to configure either discrete tasks for submission and approval
+or utilize a composite task which combines both the submission and approval in
+a single task.   You can find more information on the various
+types of calendar events in the online help: [https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/dafaffbb3f9441b7a41fd824fea53841.html](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/dafaffbb3f9441b7a41fd824fea53841.html).  In general, the discrete tasks (represented
+as separate general and review tasks) tend to provide more flexibility as you
+can configure more specific parameters within each separate task, and can included
+others types of tasks as intermediary steps with dependencies We will see this
+in a moment with the inclusion of data locking tasks.  We have enabled the option for Data Locking
+tasks and can selectively include one or more at various phases of the submission.  With discrete tasks we can do this before the
+General Task, After the General Task, and/or After All Tasks (i.e., all tasks
+in a subprocess).  If we had selected a Composite
+Task, then we only could insert a Data Locking task before the Composite Task
+and/or after the Composite Task (not after the preliminary data submission).  The “Create process for groups of tasks” was not
+selected in our scenario as we only have a single node that will be submitted,
+but this setting is best enabled to create an overarching process when there
+will be multiple nodes submitted/reviewed.
+
+122. In the People dialog, we will and
+     owner for the submission/assignee task and an owner for the review task.  These will come directly from properties associated
+     with the driving dimension (SAP_LOB_REGION) we selected previously.  Select the following properties for Assignees
+     and Reviewers.  Then click the button for
+     Step 5.
+
+🚩 In the People
+dialog, you will also note that we have the option to “Add a New Round”.  We would use this if we need a given
+submission approval to pass through multiple reviewers in a sequential approval
+chain.
+
+123. In the Additional Settings dialog, we
+     have the option to make some changes to the task names and descriptions for the
+     events that will be generated.  We will
+     not make any adjustments here.  When
+     ready click the button to navigate to Step 6.
+
+
+124. Review the contents of the preview dialog.
+
+
+🚩 As represented
+in the preview dialog,
+there will be two data locking tasks generated.
+“You” will be the owner of these tasks (i.e., because the task is an
+automated task, it is assigned to your userid as the creator of the task).  The other tasks include a general
+(contribution) task and a review task for the United States.  These tasks are assigned to User95
+(contributor) and User99 (Reviewer).  As
+we have separate tasks for submission and review, the relevant users are
+considered Assignees.  Had we created a
+composite task (integrated general and review task) then User95 would have
+appeared as the “Assignee” and User99 would appear as a “Reviewer”.
 
-<img src="./images/image2.png" style="width:316.05600000000004px;height:598.8432px;"/>
+125. Click the **Generate** button to
+     create the calendar tasks
 
-8. We will enable null suppression to remove the null rows from the
-   report.
 
-<img src="./images/image3.png" style="width:271.96512px;height:184.68288px;"/>
+126. Once you receive a notification that the
+     5 events have been created, please click the refresh button on the toolbar.
 
-9. We will now collapse the hierarchy of the report so that we are only
-   looking at an overview of our sales plan.
 
-<img src="./images/image4.png" style="width:416.04576px;height:153.83904px;"/>
+127. Change the calendar time range to **Year
+     **if it is not already select.
 
-10. Once we close the right builder pane and resize the table, your
-    results should look like this:
 
-<img src="./images/image5.png" style="width:624.0px;height:237.66624000000002px;"/>
+128. Move the time scale within the Gantt
+     chart to zoom out slightly, and adjust the the time slider within the Gantt
+     chart to center chart until your screen clearly shows the full task list and a
+     graphic representation.
 
-11. We are now going to create a table that shows our Finance data. As
-    part of this exercise, we are going to integrate our sales plan into
-    the finance plan so we will add a table showing finance data so we
-    can showcase this integration. To begin, we will duplicate the Sales
-    Quantity table, reposition it and then open up the builder panel so
-    we can select our finance model.
 
-<img src="./images/image6.png" style="width:624.0px;height:341.06687999999997px;"/>
+🚩 Now we
+have created a process hierarchy! You will see that all the tasks are set as
+Inactive as the predefined start date hasn’t yet arrived.  The process and the tasks (based on dependencies
+– represented through arrows linking the tasks in the Gantt chart).
 
-12. Acknowledge the warning and then select the finance model.
+129. Select the General Task in the task
+     list and activate the Details side panel.
 
-<img src="./images/image7.png" style="width:316.71360000000004px;height:53.5296px;"/>
 
-<img src="./images/image8.png" style="width:306.96px;height:224.87424px;"/>
+🚩 You can
+see in the General Task side panel, details about the given task.  Included is basic information about the task
+(dates, assignee, context) as well as any Work Files that have been included
+for the assignee.  In this case, as
+illustrated in the Gantt Chart, the General Task is dependent on the previous
+Data Locking Task having been completed with either a Successful or Partially
+Successful status (note that the task would be time based if not driven by
+dependencies).  In addition to adjusting
+a given task on the Details side panel, you could also pull up and change dependencies
+directly from within the Gantt chart by double clicking on the arrow linking
+two tasks or change the start date of a task using the Gantt chart by clicking
+and dragging the task left or right.  Feel
+free to review the other settings in the detail panel of the task.  For our final step we will illustrate
 
-13. Set the table layout and filters as shown
+130. Let’s go ahead and activate the process (rather than wait
+     for a potential future start date).
+     Select the parent process and click the Activate button.
 
-> <img src="./images/image9.png" style="width:473.93376px;height:864.0px;"/>
 
-14. Rename the table to Finance () and then add dynamic text between the
-    "()" for the version.
+23. In the Activate dialog select the Activate process
+    (without role transfer).  Click the
+    Activate button.
 
-> <img src="./images/image10.png" style="width:264.57599999999996px;height:156.31104px;"/>
 
-15. Select the Version item from the Input Controls selections.
+🚩 In the above
+case we do not need role transfer to be applied because we already have sufficient
+assignments within the individual tasks.
 
-> <img src="./images/image11.png" style="width:382.06272px;height:240.29952px;"/>
+⚠️**Quality Check!** Does
+your calendar look similar to the following (note that the dates will differ based
+on the current date on which the process was activated)?
 
-⚠️ **Quality Check!** Does your refreshed dashboard (including upload
-results) look like this? Note: The right planning panel may need to be
-de-selected from the meu to replicate this view.
 
-<img src="./images/image12.png" style="width:624.0px;height:360.79967999999997px;"/>
-
-16. Save your story.
-
-> <img src="./images/image13.png" style="width:350.12448px;height:183.14208px;"/>
-
-17. From the main menu, select **Files**, our **Workspace**, then
-    DA261-User Content and then your user folder. We can now select the
-    "+" button to add a Data Action. This data action will be used to
-    calculate gross sales based on quantity and price. We will then
-    extend this data action to allocate Retail Returns to the subregions
-    of the United States based on our calculated Gross Sales values.
-
-<img src="./images/image14.png" style="width:624.0px;height:288.53376000000003px;"/>
-
-18. Enter a name like "Calculate_Sales\_&\_Returns" and select the Sales
-    Model from the model folder within our workspace. This is the same
-    sales model we were using when we were creating our story. When
-    complete, save the data action to your folder.
-
-<img src="./images/image15.png" style="width:624.0px;height:303.26688px;"/>
-
-19. Validate that you are saving the data action to your user folder.
-
-<img src="./images/image16.png" style="width:624.0px;height:442.06656000000004px;"/>
-
-20. We are going to add an advanced formulae to calculate gross sales
-    from quantity and price. We are going to open the content menu so we
-    can restrict the scope of the calculation.
-
-<img src="./images/image17.png" style="width:624.0px;height:455.73312000000004px;"/>
-
-21. However, before we restrict the context, we are going to create a
-    parameter to restrict the calculation to our user id.
-
-<img src="./images/image18.png" style="width:624.0px;height:233.80032px;"/>
-
-22. Give your parameter a name like "User" and then make the appropriate
-    settings as shown. When complete save your Data Action. Select the
-    advanced formula item that we were starting to configure before we
-    created our parameter.
-
-<img src="./images/image19.png" style="width:624.0px;height:412.79999999999995px;"/>
-
-23. Give the step a name like "Calculate Sales". Next configure the
-    context as shown. Note that for the PLAN_CONTRIBUTOR. You will need
-    to select the USER parameter you have just created from the
-    parameter list within the selection popup. Once the context is set,
-    we will start the process of building a graphical calculation to
-    calculate gross sales.
-
-<img src="./images/image20.png" style="width:624.0px;height:321.40031999999997px;"/>
-
-24. We are going to calculate the Gross Sales Amount by taking the
-    price, which is stored at the Unassigned region multiplied by the
-    sales quantity we uploaded from our excel file.
-
-<img src="./images/image21.png" style="width:397.64735999999994px;height:258.98112px;"/>
-
-⚠️**Quality Check!** Please check that your advanced formula is
-identical to what is shown below.
-
-<img src="./images/image22.png" style="width:624.0px;height:304.73376px;"/>
-
-25. We are now going to add an allocation step so that we can allocate
-    retail returns to our sub-regions (i.e. North, East, South and
-    West).
-
-<img src="./images/image23.png" style="width:454.08288000000005px;height:182.0208px;"/>
-
-26. Configure the allocation rules as shown and then save your rule. In
-    this case, we have already planned retail return values for 2024 for
-    the entire region, which is stored in the Unassigned region. We are
-    going to allocate these values by the gross sales we previously
-    calculated for each subregion.
-
-<img src="./images/image24.png" style="width:624.0px;height:411.26687999999996px;"/>
-
-27. We are now going to set the trace points on the data actions.
-
-<img src="./images/image25.png" style="width:624.0px;height:258.06624px;"/>
-
-28. Set the trace points as shown by selecting these areas on the data
-    action flow. This will allow us to see data action changes between
-    steps.
-
-<img src="./images/image26.png" style="width:624.0px;height:241.73376000000002px;"/>
-
-29. We can also select trace points within advanced formulas. Here we
-    are going to set a trace point where we are calculating gross sales.
-    Notice that we also see a new tracing point added on the Tracing
-    pane on the right side of the screen.
-
-<img src="./images/image27.png" style="width:624.0px;height:178.2px;"/>
-
-30. Please select the 2024 Plan and your User ID for the data input
-    parameters.
-
-<img src="./images/image28.png" style="width:240.65568px;height:133.75968px;"/>
-
-31. We are now going to select the Show Table to Review the results of
-    the first step. Notice that our selection parameters will be shown
-    in the right pane for transparency.
-
-<img src="./images/image29.png" style="width:624.0px;height:284.33376px;"/>
-
-⚠️**Quality Check!** Please check that your trace window should be
-identical to what is shown below.
-
-<img src="./images/image30.png" style="width:624.0px;height:277.00032px;"/>
-
-32. As we configure the table, you may need to change the **Display
-    Options** to **Description**.
-
-<img src="./images/image31.png" style="width:624.0px;height:200.39999999999998px;"/>
-
-33. Configure the table as shown. Notice that price is stored at the
-    unassigned region and that the Amount has not been calculated.
-
-<img src="./images/image32.png" style="width:624.0px;height:378.06624px;"/>
-
-34. Select the tracing point for Calculate_Sales. Here we will see the
-    results tracepoint for the calculation we created in our advanced
-    formula. If we had multiple calculation lines in our advanced
-    formula, we could have set multiple trace points. Also note that we
-    can also explore the calculation scope for our advanced formula on
-    the right pane.
-
-<img src="./images/image33.png" style="width:624.0px;height:391.00032px;"/>
-
-35. If you would like, you can also select values from the Watch Area
-    table and use the copy button to copy them to the clipboard. These
-    values can be then pasted into a document like Excel for further
-    analysis. While we are showing this capability, we have not included
-    exercise steps to paste these values into other documents.
-
-<img src="./images/image34.png" style="width:624.0px;height:365.80032px;"/>
-
-36. Next, we are going to select the tracing steps after our
-    Calculate_Sales advanced formulas has executed. As we only have one
-    calculation in our advanced formula, the results of this table
-    should match the previous trace point. Notice that we do not see any
-    values for Retail Returns as this will be addressed in our
-    allocation step.
-
-<img src="./images/image35.png" style="width:624.0px;height:267.19968px;"/>
-
-37. Selectin the AFTER Allocate Expected Returns, we can see that the
-    Retail Returns from the unassigned region (i.e. '#'), to each of the
-    subregions based on Gross Sales.
-
-<img src="./images/image36.png" style="width:624.0px;height:262.73376px;"/>
-
-38. The Trace creates a private version, which can be viewed in the
-    story we created. Since we will not be doing anything with this this
-    trace version we will delete the information.
-
-<img src="./images/image37.png" style="width:624.0px;height:266.4px;"/>
-
-<img src="./images/image38.png" style="width:265.43904px;height:49.656px;"/>
-
-39. In case you have not done so before, please **Save** your data
-    action. When we created the data action, we did it from our personal
-    folder we created in our workspace. As the next step, we are going
-    to create another **Data Action** to load the sales plan into the
-    finance plan. We will perform this step from the main menu to
-    initiate the build activity and then save it to our personal folder.
-
-<img src="./images/image39.png" style="width:393.01056000000005px;height:164.76192px;"/>
-
-40. Xxxx
-
-<img src="./images/image40.png" style="width:266.85504px;height:266.28384px;"/>
-
-41. Please give the data action a name like " Cross-Model Copy Step" and
-    then select our Finance model from the exercise.
-
-<img src="./images/image41.png" style="width:419.88576px;height:163.51296px;"/>
-
-42. We are going to save this data action to our personal folder. Note
-    that when creating models, stories and data/multi-actions, that
-    these objects can be stored within a file structure for easy
-    organization.
-
-<img src="./images/image42.png" style="width:390.31776px;height:275.01599999999996px;"/>
-
-43. We are going to create some parameters for the data action. This
-    will allow us to better control the scope of the data action.
-
-<img src="./images/image43.png" style="width:624.0px;height:298.39968px;"/>
-
-44. To create a parmeter, we will give it a name, set the model to our
-    sales planning model (i.e. SAP_XPA_SALESPLAN_TE2023). We will then
-    select our dimension (i.e. PLAN_CONTRIBUTOR) and set the cardinality
-    to single (vs. multiple values) and the level being a leaf member.
-    As the sales plan for the purpose of this exercise is organized by
-    user, this will allow us to pass our user to the data action to
-    restrict its scope.
-
-<img src="./images/image44.png" style="width:624.0px;height:400.60032px;"/>
-
-45. We are going to create another parameter for source version. As we
-    are creating a data action to copy data between models, this
-    parameter will be used to indicate which version we would like to
-    copy from the sales plan.
-
-<img src="./images/image45.png" style="width:624.0px;height:238.93344000000002px;"/>
-
-46. Please give the parameter a name, such as "SVersion" and set the
-    model to SAP_XPA_SALESPLAN_TE2023. We are going to assign the
-    dimension to Version and the cardinality to single, which means we
-    only want to pass a single value via this parameter. We will then
-    enter the default value of "2024 Plan." Although we have set a
-    default value, the user can override this value when the data action
-    is executed.
-
-<img src="./images/image46.png" style="width:624.0px;height:399.26687999999996px;"/>
-
-47. We are now going to create our **cross-model copy** step to copy
-    data from our sales plan to our finance plan.
-
-<img src="./images/image47.png" style="width:624.0px;height:295.06656px;"/>
-
-48. Please give the parameter a name, such as "**Sales 2 Finance**" and
-    set the model to SAP_XPA_SALESPLAN_TE2023. We are going to assign
-    set the filters for **Version** and Plan **Contributor** as shown.
-    When selecting the filter value, you will need to select
-    **Parameters** on the pane on the left side of the popup window to
-    select the parameters you have previously created.
-
-<img src="./images/image48.png" style="width:624.0px;height:292.20000000000005px;"/>
-
-49. Using drag and drop, map the source dimension to the target
-    dimensions. Note that you will not be able to map SAP_XPA_COSTCENTER
-    as this dimension is not included in the finance model. We will want
-    to select this dimension and manually map it to the **Sales &
-    Marketing** cost center.
-
-<img src="./images/image49.png" style="width:624.0px;height:280.20000000000005px;"/>
-
-50. Select the measures mapping so we can edit the mapping rules.
-
-<img src="./images/image50.png" style="width:353.68992000000003px;height:273.16512px;"/>
-
-51. We are going to create a user defined rule to map the Amount from
-    the sales plan to Local Currency in our finance plan. We are also
-    going to set the auto-generation strategy to "**Identical Names and
-    Compatible Types.**" We could have also filtered on measures when
-    creating the rule to just include Quantity and Amount as well.
-
-<img src="./images/image51.png" style="width:624.0px;height:325.39968px;"/>
-
-52. Now select the SAP_LOB_REGION. Here we have the issue that we have
-    sub-regions assigned to the United States in our sales plan that
-    have been aggregated to just the United States in our finance plan.
-
-<img src="./images/image52.png" style="width:368.49024px;height:290.34336px;"/>
-
-53. For the region, select "Identical names (including Ancestors)" to
-    map the subregions from the sales plan to the region in the finance
-    plan. Using this strategy, we can plan at a different level in our
-    sales plan than our finance plan.
-
-<img src="./images/image53.png" style="width:624.0px;height:405.40032px;"/>
-
-54. If you have not already done so, please save your plan and then
-    select the **Multi Actions** from the main menu as shown. With the
-    multi-action, we can bind data actions that we created for our sales
-    and finance model into a single action we can trigger in a story.
-
-<img src="./images/image54.png" style="width:624.0px;height:401.33376px;"/>
-
-55. We are going to create a new Multi Action.
-
-<img src="./images/image55.png" style="width:214.13376px;height:196.5408px;"/>
-
-56. Before we add the data actions we previously created to our
-    multi-action, we are going to create some parameters to orchestrate
-    the execution.
-
-<img src="./images/image56.png" style="width:422.07071999999994px;height:138.66144px;"/>
-
-57. We are going to create parameter called "SVersion" that will be used
-    transfer what source version we would like to use from our sales
-    plan. Please enter the values as shown below.
-
-<img src="./images/image57.png" style="width:289.30752px;height:595.52448px;"/>
-
-58. We are now going to add another parameter for our userID. While we
-    would not normally run a data action by user id, we have added this
-    parameter as we have many participants running data actions for this
-    exercise and want to carefully limit our scope.
-
-<img src="./images/image58.png" style="width:535.99968px;height:313.33344px;"/>
-
-59. Please create the parameter as shown below.
-
-<img src="./images/image59.png" style="width:416.46623999999997px;height:864.0px;"/>
-
-60. We are now going to create another parameter for the target version.
-    Note that for this exercise we could have just hard-coded these
-    values, but have chosen to include them as parameters to make them
-    more dynamic.
-
-<img src="./images/image60.png" style="width:537.33312px;height:522.66624px;"/>
-
-61. Please create the version as shown below.
-
-> <img src="./images/image61.png" style="width:424.26624px;height:864.0px;"/>
-
-62. Select the + button and then add a **Data Action Step**. This is
-    where we will start to attach the data actions we previously created
-    to the multi-action.
-
-<img src="./images/image62.png" style="width:419.61983999999995px;height:293.19647999999995px;"/>
-
-63. Select the data action that you have previously created, which
-    should be stored in your user folder. Please configure the
-    parameters as well.
-
-<img src="./images/image63.png" style="width:212.97504px;height:331.11744px;"/>
-
-64. We will now add another data action to our multi action. Note that
-    when we create a data action, we can only assign a single model to
-    it. When using a multi action, we can include many data action steps
-    to it, which may be bound to different models. Our first data action
-    is bound to the sales plan, whereas our second data action will be
-    bound to the finance plan model.
-
-> <img src="./images/image64.png" style="width:624.0px;height:419.20032000000003px;"/>
-
-65. Configure the data action as shown and then save the multi-action.
-    you will need to save the Multi Action to your personal folder,
-    which will be shown in the following step.
-
-<img src="./images/image65.png" style="width:624.0px;height:389.53344000000004px;"/>
-
-66. Save the Multi Action to your personal folder. Please give it a name
-    like "Calc_Sales_and_Aggregate"
-
-<img src="./images/image66.png" style="width:624.0px;height:441.26687999999996px;"/>
-
-67. Open your main user story that we created in the first part of the
-    exercise.
-
-<img src="./images/image67.png" style="width:624.0px;height:347.20032000000003px;"/>
-
-68. Navigate to the second page of the worksheet related to **Sales Plan
-    Entry** and then select the **Edit** button. We need to be in edit
-    mode to add our newly created multi-action into our story.
-
-<img src="./images/image68.png" style="width:624.0px;height:352.39968px;"/>
-
-69. Add a **Multi Action Trigger** as shown below.
-
-> <img src="./images/image69.png" style="width:624.0px;height:216.19968px;"/>
-
-70. Open up the right editing pane and then select your multi action
-    that you have just created form your personal folder. Assign the
-    parameters as shown below. Press the formatting button so we can
-    format the trigger in the next step.
-
-<img src="./images/image70.png" style="width:451.00032px;height:579.6988799999999px;"/>
-
-71. We are now going to format the trigger. While you are free to select
-    any color, we have provided a hex number as well for a particular
-    shade of blue.
-
-<img src="./images/image71.png" style="width:258.79392px;height:91.49279999999999px;"/>
-
-<img src="./images/image72.png" style="width:170.8512px;height:462.11136px;"/>
-
-72. Please reposition the Multi Action and then **Save** your story. We
-    will then select the **View** mode as we get ready to execute the
-    Multi Action.
-
-<img src="./images/image73.png" style="width:624.0px;height:206.59968000000003px;"/>
-
-Navigate to the Sales Plan Entry Page.
-
-⚠️**Quality Check!** Please check that your sales story page should be
-identical to what is shown below.
-
-<img src="./images/image74.png" style="width:624.0px;height:337.33344px;"/>
-
-73. Press the **Multi Action** button to execute it. The prompts in this
-    case should be 2024 Plan for both the source and target version.
-
-<img src="./images/image75.png" style="width:624.0px;height:337.33344px;"/>
-
-74. We should now see the sales plan values transferred to the finance
-    plan. We can expand the hierarchies to get a better sense of the
-    plan transfer.
-
-<img src="./images/image76.png" style="width:624.0px;height:330.6px;"/>
+🚩 The overriding
+process should now display as “In Process”, and the first child task which is
+the preliminary Data Locking Task should have been executed successfully (it is
+set as an automated task and does not require any user intervention).  You will also notice that the General Task is
+now Open and available for plan entry/submission, and the subsequent tasks are On
+Hold pending completion of the General Task.
 
 ## Summary
 
-**Congratulations, you have completed Exercise 2!**
+**Congratulations, you have completed Exercise 3!**
 
-**You are now able to:**
+You are now able to:
 
-- Create and execute data and multi-actions.
-- Perform tracking on data action steps.
-
-Continue to Exercise 3 - XXXXXXXXXXXX
+* Navigate the Calendar
+* Use the Calendar to create and track plan
+  submissions
