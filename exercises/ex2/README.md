@@ -181,7 +181,7 @@ identical to what is shown below.
     going to allocate these values by the gross sales we previously
     calculated for each subregion.
 
-<img src="./images/image24.png" style="width:800px;height:526px;"/>
+<img src="./images/image24.png" style="width:900px;height:526px;"/>
 
 66. We are now going to set the trace points on the data actions.
 
