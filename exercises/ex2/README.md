@@ -374,34 +374,34 @@ identical to what is shown below.
     multi-action, we can bind data actions that we created for our sales
     and finance model into a single action we can trigger in a story.
 
-<img src="./images/image54.png" style="width:624.0px;height:401.33376px;"/>
+<img src="./images/image54.png" />
 
 94. We are going to create a new Multi Action.
 
-<img src="./images/image55.png" style="width:214.13376px;height:196.5408px;"/>
+<img src="./images/image55.png" style="width:294px;height:246px;"/>
 
 95. Before we add the data actions we previously created to our
     multi-action, we are going to create some parameters to orchestrate
     the execution.
 
-<img src="./images/image56.png" style="width:422.07071999999994px;height:138.66144px;"/>
+<img src="./images/image56.png"/>
 
 96. We are going to create parameter called "SVersion" that will be used
     transfer what source version we would like to use from our sales
     plan. Please enter the values as shown below.
 
-<img src="./images/image57.png" style="width:289.30752px;height:595.52448px;"/>
+<img src="./images/image57.png" style="width:289.px;height:595px;"/>
 
 97. We are now going to add another parameter for our userID. While we
     would not normally run a data action by user id, we have added this
     parameter as we have many participants running data actions for this
     exercise and want to carefully limit our scope.
 
-<img src="./images/image58.png" style="width:535.99968px;height:313.33344px;"/>
+<img src="./images/image58.png" style="width:435px;height:270px;"/>
 
 98. Please create the parameter as shown below.
 
-<img src="./images/image59.png" style="width:416.46623999999997px;height:864.0px;"/>
+<img src="./images/image59.png" style="width:289.px;height:595px;"/>
 
 99. We are now going to create another parameter for the target version.
     Note that for this exercise we could have just hard-coded these
@@ -412,13 +412,13 @@ identical to what is shown below.
 
 100. Please create the version as shown below.
 
-> <img src="./images/image61.png" style="width:424.26624px;height:864.0px;"/>
+> <img src="./images/image61.png" style="width:289.px;height:595px;"/>
 
 101. Select the + button and then add a **Data Action Step**. This is
      where we will start to attach the data actions we previously created
      to the multi-action.
 
-<img src="./images/image62.png" style="width:419.61983999999995px;height:293.19647999999995px;"/>
+<img src="./images/image62.png" style="width:420px;height:293px;"/>
 
 102. Select the data action that you have previously created, which
      should be stored in your user folder. Please configure the
