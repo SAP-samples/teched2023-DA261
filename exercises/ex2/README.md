@@ -48,18 +48,18 @@ transfer to the finance plan near the end of the exercise.
     the story, the right design panel and then the builder panel. This
     will allow us to redefine the definition of the table object.
 
-<img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image1.png" style="width:624px;height:320px;"/>
 
 46. Adjust the table definition to match the definition provided below.
     For **Account**, we will filter on Gross Revenue and for
     **Measures** we will filter on Quantity and Amount.
 
-<img src="./images/image2.png" style="width:316.05600000000004px;height:598.8432px;"/>
+<img src="./images/image2.png" style="width:316px;height:599px;"/>
 
 47. We will enable null suppression to remove the null rows from the
     report.
 
-<img src="./images/image3.png" style="width:271.96512px;height:184.68288px;"/>
+<img src="./images/image3.png" style="width:272px;height:185px;"/>
 
 48. We will now collapse the hierarchy of the report so that we are only
     looking at an overview of our sales plan.
