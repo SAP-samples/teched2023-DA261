@@ -33,12 +33,12 @@ Let’s start by launching the calendar.
 
 114. Expand the Navigation Bar
 
-<img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image1.png"/>
 
 115. Select
      Calendar
 
-<img src="./images/image2.png" style="width:200.0px;height:205.128px;"/>
+<img src="./images/image2.png"/>
 
 🚩 Welcome to
 the Calendar! This where you can create user driven tasks and execute automated
@@ -53,7 +53,7 @@ create some tasks in this exercise.
      the General toolbar item, click the **+** and select **Generate Events with**
      **Wizard**
 
-<img src="./images/image4.png" style="width:400.0px;height:205.128px;"/>
+<img src="./images/image4.png"/>
 
 🚩 Welcome to the Calendar Wizard! From here we can utilize
 various parameters to create many assignee and review tasks which essentially represent
@@ -67,12 +67,12 @@ illustrate its capabilities.
 117. From the Basic Settings step, configure the following settings.  For Process Name, Start Date, and End Date
      feel free to use those provided in the image, or set your own
 
-<img src="./images/image5.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image5.png"/>
 
 118. Click
      the **Add File** under the Work Files
 
-<img src="./images/image6.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image6.png"/>
 
 119. We want to attach the dashboard we finalized in exercise 2 to the tasks we are
      going to create.  Location and select the
@@ -80,12 +80,12 @@ illustrate its capabilities.
      in the TE_2023_SAC_Planning_DA261 Workspace).
      Click the **OK** button.
 
-<img src="./images/image7.png" style="width:624.0px;height:320.26656px;"/>     
+<img src="./images/image7.png"/>     
 
 121. Navigate
      to  **Step 2** .
 
-<img src="./images/image8.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image8.png"/>
 
 🚩 Notice
 that as you navigate through the Wizard, your current step is illustrated as a
@@ -98,7 +98,7 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
      and Driving Dimension filters as follows, and then navigate to Step 3.  Note that you can find the model in Models
      folder in the TE_2023_SAC_Planning_DA261 Workspace.
 
-<img src="./images/image9.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image9.png"/>
 
 13. The **Event Types** step allows us
     to define the specific types of tasks we want to configure.  In our case we will select General Task and Review
@@ -106,7 +106,7 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
     process group for our tasks.  Configure
     the Event types step as follows.
 
-<img src="./images/image10.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image10.png"/>
 
 🚩 The Event
 Types dialog allows us to configure either discrete tasks for submission and approval
@@ -132,7 +132,7 @@ will be multiple nodes submitted/reviewed.
      and Reviewers.  Then click the button for
      Step 5.
 
-<img src="./images/image12.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image12.png"/>
 
 🚩 In the People
 dialog, you will also note that we have the option to “Add a New Round”.  We would use this if we need a given
@@ -145,11 +145,11 @@ chain.
      not make any adjustments here.  When
      ready click the button to navigate to Step 6.
 
-<img src="./images/image13.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image13.png"/>
 
 124. Review the contents of the preview dialog.
 
-<img src="./images/image14.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image14.png"/>
 
 🚩 As represented
 in the preview dialog,
@@ -166,24 +166,24 @@ appeared as the “Assignee” and User99 would appear as a “Reviewer”.
 125. Click the **Generate** button to
      create the calendar tasks
 
-<img src="./images/image15.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image15.png" />
 
 126. Once you receive a notification that the
      5 events have been created, please click the refresh button on the toolbar.
 
-<img src="./images/image16.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image16.png" />
 
 127. Change the calendar time range to **Year
      **if it is not already select.
 
-<img src="./images/image17.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image17.png" />
 
 128. Move the time scale within the Gantt
      chart to zoom out slightly, and adjust the the time slider within the Gantt
      chart to center chart until your screen clearly shows the full task list and a
      graphic representation.
 
-<img src="./images/image18.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image18.png" />
 
 🚩 Now we
 have created a process hierarchy! You will see that all the tasks are set as
@@ -193,7 +193,7 @@ Inactive as the predefined start date hasn’t yet arrived.  The process and the
 129. Select the General Task in the task
      list and activate the Details side panel.
 
-<img src="./images/image19.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image19.png" />
 
 🚩 You can
 see in the General Task side panel, details about the given task.  Included is basic information about the task
@@ -213,13 +213,13 @@ free to review the other settings in the detail panel of the task.  For our fina
      for a potential future start date).
      Select the parent process and click the Activate button.
 
-<img src="./images/image20.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image20.png" />
 
 23. In the Activate dialog select the Activate process
     (without role transfer).  Click the
     Activate button.
 
-<img src="./images/image21.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image21.png" />
 
 🚩 In the above
 case we do not need role transfer to be applied because we already have sufficient
@@ -229,7 +229,7 @@ assignments within the individual tasks.
 your calendar look similar to the following (note that the dates will differ based
 on the current date on which the process was activated)?
 
-<img src="./images/image22.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image22.png" />
 
 🚩 The overriding
 process should now display as “In Process”, and the first child task which is
