@@ -93,11 +93,11 @@ transfer to the finance plan near the end of the exercise.
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
 
-<img src="./images/image10.png"/>
+<img src="./images/image10.png" style="width:400px;height:236px;"/>
 
 54. Select the Version item from the Input Controls selections.
 
-<img src="./images/image11.png" />
+<img src="./images/image11.png" style="width:500px;height:314px;"/>
 
 ⚠️ **Quality Check!** Does your refreshed dashboard (including upload
 results) look like this? Note: The right planning panel may need to be
@@ -107,7 +107,8 @@ de-selected from the meu to replicate this view.
 
 55. Save your story.
 
-<img src="./images/image13.png"/>
+<img src="./images/image13.png" style="width:500px;height:34
+0px;"/>
 
 56. From the main menu, select **Files**, our **Workspace**, then
     DA261-User Content and then your user folder. We can now select the
@@ -127,13 +128,14 @@ de-selected from the meu to replicate this view.
 
 58. Validate that you are saving the data action to your user folder.
 
-<img src="./images/image16.png" style="width:624px;height:442px;"/>
+<img src="./images/image16.png" style="width:500px;height:354px;"/>
 
 59. We are going to add an advanced formulae to calculate gross sales
     from quantity and price. We are going to open the content menu so we
     can restrict the scope of the calculation.
 
-<img src="./images/image17.png" style="width:624px;height:456px;"/>
+<img src="./images/image17.png" style="width:580
+px;height:413px;"/>
 
 60. However, before we restrict the context, we are going to create a
     parameter to restrict the calculation to our user id.
@@ -154,18 +156,18 @@ de-selected from the meu to replicate this view.
     we will start the process of building a graphical calculation to
     calculate gross sales.
 
-<img src="./images/image20.png" style="width:624px;height:321px;"/>
+<img src="./images/image20.png" style="width:800px;height:411px;"/>
 
 63. We are going to calculate the Gross Sales Amount by taking the
     price, which is stored at the Unassigned region multiplied by the
     sales quantity we uploaded from our excel file.
 
-<img src="./images/image21.png" style="width:398px;height:259px;"/>
+<img src="./images/image21.png" style="width:500px;height:325px;"/>
 
 ⚠️**Quality Check!** Please check that your advanced formula is
 identical to what is shown below.
 
-<img src="./images/image22.png" style="width:624px;height:305px;"/>
+<img src="./images/image22.png" style="width:800px;height:391px;"/>
 
 64. We are now going to add an allocation step so that we can allocate
     retail returns to our sub-regions (i.e. North, East, South and
@@ -179,11 +181,11 @@ identical to what is shown below.
     going to allocate these values by the gross sales we previously
     calculated for each subregion.
 
-<img src="./images/image24.png" style="width:624.0px;height:411.26687999999996px;"/>
+<img src="./images/image24.png" style="width:800px;height:526px;"/>
 
 66. We are now going to set the trace points on the data actions.
 
-<img src="./images/image25.png" style="width:624.0px;height:258.06624px;"/>
+<img src="./images/image25.png" style="width:624px;height:258px;"/>
 
 67. Set the trace points as shown by selecting these areas on the data
     action flow. This will allow us to see data action changes between
