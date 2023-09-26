@@ -97,7 +97,7 @@ transfer to the finance plan near the end of the exercise.
 
 54. Select the Version item from the Input Controls selections.
 
-<img src="./images/image11.png" style="width:416px;height:264px;"/>
+<img src="./images/image11.png" />
 
 ⚠️ **Quality Check!** Does your refreshed dashboard (including upload
 results) look like this? Note: The right planning panel may need to be
