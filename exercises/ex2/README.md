@@ -181,49 +181,49 @@ identical to what is shown below.
     going to allocate these values by the gross sales we previously
     calculated for each subregion.
 
-<img src="./images/image24.png" style="width:900px;height:526px;"/>
+<img src="./images/image24.png" style="width:900px;height:592px;"/>
 
 66. We are now going to set the trace points on the data actions.
 
-<img src="./images/image25.png" style="width:624px;height:258px;"/>
+<img src="./images/image25.png"/>
 
 67. Set the trace points as shown by selecting these areas on the data
     action flow. This will allow us to see data action changes between
     steps.
 
-<img src="./images/image26.png" style="width:624.0px;height:241.73376000000002px;"/>
+<img src="./images/image26.png"/>
 
 68. We can also select trace points within advanced formulas. Here we
     are going to set a trace point where we are calculating gross sales.
     Notice that we also see a new tracing point added on the Tracing
     pane on the right side of the screen.
 
-<img src="./images/image27.png" style="width:624.0px;height:178.2px;"/>
+<img src="./images/image27.png"/>
 
 69. Please select the 2024 Plan and your User ID for the data input
     parameters.
 
-<img src="./images/image28.png" style="width:240.65568px;height:133.75968px;"/>
+<img src="./images/image28.png" style="width:360;height:203px;"/>
 
 70. We are now going to select the Show Table to Review the results of
     the first step. Notice that our selection parameters will be shown
     in the right pane for transparency.
 
-<img src="./images/image29.png" style="width:624.0px;height:284.33376px;"/>
+<img src="./images/image29.png"/>
 
 ⚠️**Quality Check!** Please check that your trace window should be
 identical to what is shown below.
 
-<img src="./images/image30.png" style="width:624.0px;height:277.00032px;"/>
+<img src="./images/image30.png"/>
 
 71. As we configure the table, you may need to change the **Display
     Options** to **Description**.
 
-<img src="./images/image31.png" style="width:624.0px;height:200.39999999999998px;"/>
+<img src="./images/image31.png"/>
 
 72. Configure the table as shown. Notice that price is stored at the unassigned region and that the Amount has not been calculated.
 
-<img src="./images/image32.png" style="width:624.0px;height:378.06624px;"/>
+<img src="./images/image32.png"/>
 
 73. Select the tracing point for Calculate_Sales. Here we will see the
     results tracepoint for the calculation we created in our advanced
