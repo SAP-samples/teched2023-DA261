@@ -53,7 +53,7 @@ create some tasks in this exercise.
      the General toolbar item, click the **+** and select **Generate Events with**
      **Wizard**
 
-<img src="./images/image4.png" style="width:600px;height:390px;"/>
+<img src="./images/image4.png" style="width:800px;height:390px;"/>
 
 🚩 Welcome to the Calendar Wizard! From here we can utilize
 various parameters to create many assignee and review tasks which essentially represent
