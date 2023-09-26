@@ -145,11 +145,11 @@ chain.
      not make any adjustments here.  When
      ready click the button to navigate to Step 6.
 
-<img src="./images/image13.png" style="width:700px;height:579px;"/>
+<img src="./images/image13.png" style="width:600px;height:496px;"/>
 
 125. Review the contents of the preview dialog.
 
-<img src="./images/image14.png" style="width:700px;height:579px;"/>
+<img src="./images/image14.png" style="width:600px;height:496px;"/>
 
 🚩 As represented
 in the preview dialog,
