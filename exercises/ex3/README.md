@@ -98,7 +98,7 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
      and Driving Dimension filters as follows, and then navigate to Step 3.  Note that you can find the model in Models
      folder in the TE_2023_SAC_Planning_DA261 Workspace.
 
-<img src="./images/image9.png" style="width:500px;height:369px;"/>
+<img src="./images/image9.png" style="width:800px;height:556px;"/>
 
 122. The **Event Types** step allows us
     to define the specific types of tasks we want to configure.  In our case we will select General Task and Review
