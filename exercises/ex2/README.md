@@ -59,17 +59,17 @@ transfer to the finance plan near the end of the exercise.
 47. We will enable null suppression to remove the null rows from the
     report.
 
-<img src="./images/image3.png" style="width:272px;height:185px;"/>
+<img src="./images/image3.png" />
 
 48. We will now collapse the hierarchy of the report so that we are only
     looking at an overview of our sales plan.
 
-<img src="./images/image4.png" style="width:416px;height:154px;"/>
+<img src="./images/image4.png" />
 
 49. Once we close the right builder pane and resize the table, your
     results should look like this:
 
-<img src="./images/image5.png" style="width:624px;height:238px;"/>
+<img src="./images/image5.png" />
 
 50. We are now going to create a table that shows our Finance data. As
     part of this exercise, we are going to integrate our sales plan into
@@ -78,13 +78,13 @@ transfer to the finance plan near the end of the exercise.
     Quantity table, reposition it and then open up the builder panel so
     we can select our finance model.
 
-<img src="./images/image6.png" style="width:624px;height:341px;"/>
+<img src="./images/image6.png"/>
 
 51. Acknowledge the warning and then select the finance model.
 
-<img src="./images/image7.png" style="width:316px;height:53px;"/>
+<img src="./images/image7.png"/>
 
-<img src="./images/image8.png" style="width:306px;height:225px;"/>
+<img src="./images/image8.png"/>
 
 52. Set the table layout and filters as shown
 
