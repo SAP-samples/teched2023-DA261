@@ -132,7 +132,7 @@ will be multiple nodes submitted/reviewed.
      and Reviewers.  Then click the button for
      Step 5.
 
-<img src="./images/image12.png" style="width:800px;height:556px;"/>
+<img src="./images/image12.png" style="width:650px;height:456px;"/>
 
 🚩 In the People
 dialog, you will also note that we have the option to “Add a New Round”.  We would use this if we need a given
@@ -145,11 +145,11 @@ chain.
      not make any adjustments here.  When
      ready click the button to navigate to Step 6.
 
-<img src="./images/image13.png" style="width:800px;height:556px;"/>
+<img src="./images/image13.png" style="width:700px;height:476px;"/>
 
 125. Review the contents of the preview dialog.
 
-<img src="./images/image14.png" style="width:800px;height:556px;"/>
+<img src="./images/image14.png" style="width:700px;height:476px;"/>
 
 🚩 As represented
 in the preview dialog,
@@ -166,34 +166,34 @@ appeared as the “Assignee” and User99 would appear as a “Reviewer”.
 126. Click the **Generate** button to
      create the calendar tasks
 
-<img src="./images/image15.png" style="width:450px;height:372px;"/>
+<img src="./images/image15.png" style="width:700px;height:476px;"/>
 
 127. Once you receive a notification that the
      5 events have been created, please click the refresh button on the toolbar.
 
-<img src="./images/image16.png" style="width:500px;height:254px;"/>
+<img src="./images/image16.png" style="width:600px;height:365px;"/>
 
 128. Change the calendar time range to **Year
      **if it is not already select.
 
-<img src="./images/image17.png" style="width:500px;height:372px;"/>
+<img src="./images/image17.png" style="width:600px;height:432px;"/>
 
 129. Move the time scale within the Gantt
      chart to zoom out slightly, and adjust the the time slider within the Gantt
      chart to center chart until your screen clearly shows the full task list and a
      graphic representation.
 
-<img src="./images/image18.png" style="width:550px;height:351px;" />
+<img src="./images/image18.png" style="width:700px;height:396px;" />
 
 🚩 Now we
 have created a process hierarchy! You will see that all the tasks are set as
 Inactive as the predefined start date hasn’t yet arrived.  The process and the tasks (based on dependencies
 – represented through arrows linking the tasks in the Gantt chart).
 
-129. Select the General Task in the task
+130. Select the General Task in the task
      list and activate the Details side panel.
 
-<img src="./images/image19.png" style="width:550px;height:370px;" />
+<img src="./images/image19.png" style="width:700px;height:410px;" />
 
 🚩 You can
 see in the General Task side panel, details about the given task.  Included is basic information about the task
@@ -209,13 +209,13 @@ two tasks or change the start date of a task using the Gantt chart by clicking
 and dragging the task left or right.  Feel
 free to review the other settings in the detail panel of the task.  For our final step we will illustrate
 
-130. Let’s go ahead and activate the process (rather than wait
+131. Let’s go ahead and activate the process (rather than wait
      for a potential future start date).
      Select the parent process and click the Activate button.
 
-<img src="./images/image20.png" style="width:550px;height:372px;"/>
+<img src="./images/image20.png" style="width:700px;height:410px;"/>
 
-131. In the Activate dialog select the Activate process
+132. In the Activate dialog select the Activate process
     (without role transfer).  Click the
     Activate button.
 
