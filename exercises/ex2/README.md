@@ -88,16 +88,16 @@ transfer to the finance plan near the end of the exercise.
 
 52. Set the table layout and filters as shown
 
-> <img src="./images/image9.png" style="width:316px;height:599px;"/>
+<img src="./images/image9.png" style="width:316px;height:599px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
 
-> <img src="./images/image10.png" style="width:416px;height:264px;"/>
+<img src="./images/image10.png" style="width:316px;height:214px;"/>
 
 54. Select the Version item from the Input Controls selections.
 
-> <img src="./images/image11.png"/>
+<img src="./images/image11.png" style="width:416px;height:264px;"/>
 
 ⚠️ **Quality Check!** Does your refreshed dashboard (including upload
 results) look like this? Note: The right planning panel may need to be
@@ -107,7 +107,7 @@ de-selected from the meu to replicate this view.
 
 55. Save your story.
 
-> <img src="./images/image13.png"/>
+<img src="./images/image13.png"/>
 
 56. From the main menu, select **Files**, our **Workspace**, then
     DA261-User Content and then your user folder. We can now select the
