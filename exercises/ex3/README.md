@@ -32,6 +32,9 @@ We will utilize the SAC calendar for this purposed.
 Let’s start by launching the calendar.
 
 114. Expand the Navigation Bar
+
+<img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
+
 116. Select
      Calendar
 
