@@ -106,7 +106,7 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
     process group for our tasks.  Configure
     the Event types step as follows.
 
-<img src="./images/image10.png" style="width:800px;height:536px;"/>
+<img src="./images/image10.png" style="width:800px;height:576px;"/>
 
 🚩 The Event
 Types dialog allows us to configure either discrete tasks for submission and approval
