@@ -346,7 +346,7 @@ identical to what is shown below.
 
 89. Select the measures mapping so we can edit the mapping rules.
 
-<img src="./images/image50.png" style="width:424px;height:303px;"/>
+<img src="./images/image50.png" style="width:524px;height:363px;"/>
 
 90. We are going to create a user defined rule to map the Amount from
     the sales plan to Local Currency in our finance plan. We are also
@@ -378,7 +378,7 @@ identical to what is shown below.
 
 94. We are going to create a new Multi Action.
 
-<img src="./images/image55.png" style="width:294px;height:246px;"/>
+<img src="./images/image55.png" style="width:340px;height:296px;"/>
 
 95. Before we add the data actions we previously created to our
     multi-action, we are going to create some parameters to orchestrate
@@ -397,7 +397,7 @@ identical to what is shown below.
     parameter as we have many participants running data actions for this
     exercise and want to carefully limit our scope.
 
-<img src="./images/image58.png" style="width:435px;height:270px;"/>
+<img src="./images/image58.png" style="width:320px;height:200px;"/>
 
 98. Please create the parameter as shown below.
 
@@ -408,7 +408,7 @@ identical to what is shown below.
     values, but have chosen to include them as parameters to make them
     more dynamic.
 
-<img src="./images/image60.png" style="width:537.33312px;height:522.66624px;"/>
+<img src="./images/image60.png" style="width:320px;height:280px;"/>
 
 100. Please create the version as shown below.
 
