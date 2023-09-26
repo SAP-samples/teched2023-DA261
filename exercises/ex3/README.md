@@ -106,7 +106,7 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
     process group for our tasks.  Configure
     the Event types step as follows.
 
-<img src="./images/image10.png" style="width:500px;height:369px;"/>
+<img src="./images/image10.png" style="width:800px;height:556px;"/>
 
 🚩 The Event
 Types dialog allows us to configure either discrete tasks for submission and approval
@@ -132,7 +132,7 @@ will be multiple nodes submitted/reviewed.
      and Reviewers.  Then click the button for
      Step 5.
 
-<img src="./images/image12.png" style="width:450px;height:372px;"/>
+<img src="./images/image12.png" style="width:800px;height:556px;"/>
 
 🚩 In the People
 dialog, you will also note that we have the option to “Add a New Round”.  We would use this if we need a given
@@ -145,11 +145,11 @@ chain.
      not make any adjustments here.  When
      ready click the button to navigate to Step 6.
 
-<img src="./images/image13.png" style="width:450px;height:372px;"/>
+<img src="./images/image13.png" style="width:800px;height:556px;"/>
 
-124. Review the contents of the preview dialog.
+125. Review the contents of the preview dialog.
 
-<img src="./images/image14.png" style="width:450px;height:372px;"/>
+<img src="./images/image14.png" style="width:800px;height:556px;"/>
 
 🚩 As represented
 in the preview dialog,
@@ -163,22 +163,22 @@ considered Assignees.  Had we created a
 composite task (integrated general and review task) then User95 would have
 appeared as the “Assignee” and User99 would appear as a “Reviewer”.
 
-125. Click the **Generate** button to
+126. Click the **Generate** button to
      create the calendar tasks
 
 <img src="./images/image15.png" style="width:450px;height:372px;"/>
 
-126. Once you receive a notification that the
+127. Once you receive a notification that the
      5 events have been created, please click the refresh button on the toolbar.
 
 <img src="./images/image16.png" style="width:500px;height:254px;"/>
 
-127. Change the calendar time range to **Year
+128. Change the calendar time range to **Year
      **if it is not already select.
 
 <img src="./images/image17.png" style="width:500px;height:372px;"/>
 
-128. Move the time scale within the Gantt
+129. Move the time scale within the Gantt
      chart to zoom out slightly, and adjust the the time slider within the Gantt
      chart to center chart until your screen clearly shows the full task list and a
      graphic representation.
