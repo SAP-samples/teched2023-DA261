@@ -132,7 +132,7 @@ will be multiple nodes submitted/reviewed.
      and Reviewers.  Then click the button for
      Step 5.
 
-<img src="./images/image12.png" style="width:650px;height:456px;"/>
+<img src="./images/image12.png" style="width:600px;height:497px;"/>
 
 🚩 In the People
 dialog, you will also note that we have the option to “Add a New Round”.  We would use this if we need a given
@@ -145,11 +145,11 @@ chain.
      not make any adjustments here.  When
      ready click the button to navigate to Step 6.
 
-<img src="./images/image13.png" style="width:700px;height:476px;"/>
+<img src="./images/image13.png" style="width:700px;height:579px;"/>
 
 125. Review the contents of the preview dialog.
 
-<img src="./images/image14.png" style="width:700px;height:476px;"/>
+<img src="./images/image14.png" style="width:700px;height:579px;"/>
 
 🚩 As represented
 in the preview dialog,
