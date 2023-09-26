@@ -53,7 +53,7 @@ create some tasks in this exercise.
      the General toolbar item, click the **+** and select **Generate Events with**
      **Wizard**
 
-<img src="./images/image4.png" style="width:800px;height:390px;"/>
+<img src="./images/image4.png" style="width:800px;height:556px;"/>
 
 🚩 Welcome to the Calendar Wizard! From here we can utilize
 various parameters to create many assignee and review tasks which essentially represent
@@ -67,12 +67,12 @@ illustrate its capabilities.
 117. From the Basic Settings step, configure the following settings.  For Process Name, Start Date, and End Date
      feel free to use those provided in the image, or set your own
 
-<img src="./images/image5.png" style="width:600px;height:417px;"/>
+<img src="./images/image5.png" style="width:800px;height:556px;"/>
 
 118. Click
      the **Add File** under the Work Files
 
-<img src="./images/image6.png" style="width:600px;height:417px;"/>
+<img src="./images/image6.png" style="width:800px;height:556px;"/>
 
 119. We want to attach the dashboard we finalized in exercise 2 to the tasks we are
      going to create.  Location and select the
@@ -80,12 +80,12 @@ illustrate its capabilities.
      in the TE_2023_SAC_Planning_DA261 Workspace).
      Click the **OK** button.
 
-<img src="./images/image7.png" style="width:600px;height:417px;"/>     
+<img src="./images/image7.png" style="width:800px;height:556px;"/>     
 
 120. Navigate
      to  **Step 2** .
 
-<img src="./images/image8.png" style="width:600px;height:417px;">
+<img src="./images/image8.png" style="width:800px;height:556px;">
 
 🚩 Notice
 that as you navigate through the Wizard, your current step is illustrated as a
