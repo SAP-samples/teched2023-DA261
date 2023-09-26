@@ -38,7 +38,7 @@ Let’s start by launching the calendar.
 116. Select
      Calendar
 
-<img src="./images/image2.png" style="width:624.0px;height:320.26656px;"/>
+<img src="./images/image2.png" style="width:400.0px;height:205.128px;"/>
 
 🚩 Welcome to
 the Calendar! This where you can create user driven tasks and execute automated
