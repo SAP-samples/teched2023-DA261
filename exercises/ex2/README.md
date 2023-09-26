@@ -64,12 +64,12 @@ transfer to the finance plan near the end of the exercise.
 48. We will now collapse the hierarchy of the report so that we are only
     looking at an overview of our sales plan.
 
-<img src="./images/image4.png" style="width:416.04576px;height:153.83904px;"/>
+<img src="./images/image4.png" style="width:416px;height:154px;"/>
 
 49. Once we close the right builder pane and resize the table, your
     results should look like this:
 
-<img src="./images/image5.png" style="width:624.0px;height:237.66624000000002px;"/>
+<img src="./images/image5.png" style="width:624px;height:238px;"/>
 
 50. We are now going to create a table that shows our Finance data. As
     part of this exercise, we are going to integrate our sales plan into
