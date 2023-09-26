@@ -31,6 +31,11 @@ We will utilize the SAC calendar for this purposed.
 
 Let’s start by launching the calendar.
 
+
+114. Expand the Navigation Bar
+
+     ![1695749978088](image/README/1695749978088.png)
+
 <img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
 
 7. Adjust the table definition to match the definition provided below.
