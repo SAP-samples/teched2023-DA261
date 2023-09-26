@@ -33,7 +33,7 @@ Let’s start by launching the calendar.
 
 114. Expand the Navigation Bar
 
-<img src="./images/image1.png" style="width:524px;height:334px;"/>
+<img src="./images/image1.png" style="width:524px;height:434px;"/>
 
 115. Select
      Calendar
