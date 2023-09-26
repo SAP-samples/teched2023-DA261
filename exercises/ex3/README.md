@@ -6,46 +6,30 @@ and create a submission and review task based on the output of exercises 1
 
 **Estimated Time:** 15 mins
 
-**Exercise Description:**  Now that we have created our dashboard and
-input template, and create a process to aggregate the plan results, we will
-create a simple calendar process to simulate to a plan submission workflow.  Note that in this exercise we will only generate
+**Exercise Description:**  Now that we have created our dashboard and input template,
+and create a process to aggregate the plan results, we will create a simple
+calendar process to simulate to a plan submission workflow.  Note that in this exercise we will only generate
 the tasks due to the complexities associated with multiple sign-ins required to
 step through the actual submission process.
 
 **Key Features:**
 
-- Creation of data action to streamline calculations.
+* Utilize the Calendar Wizard to create and assignee
+  and review tasks for plan submission
 
-  - Create data action parameters to streamline execution.
-  - Create a simple advanced formula for sales revenue calculation.
-  - Create an allocation rule to allocate retail expenses.
-  - Creating a cross model copy rule, which aggregates data based on
-    region.
-- Executing a trace on a data action and reviewing results.
-- Creating a multi-action to orchestrate data actions.
-- Format trigger within the story and map parameters.
+⚠️**Disclaimer** When
+completing exercises, it is expected that data values or screenshots should
+match what you see on your screen.  If
+you see inconsistencies as you work through the exercise, please refer to the
+appropriate section in **Getting Started** Readme.  For any inconsistencies which are not
+addressed therein, please check with your instructor.
 
-⚠️**Disclaimer** When completing exercises, it is expected that data
-values or screenshots should match what you see on your screen. If you
-see inconsistencies as you work through the exercise, please refer to
-the appropriate section in **Getting Started** Readme. For any
-inconsistencies which are not addressed therein, please check with your
-instructor.
+🚩As a FP&A Analyst for CycleBros, we are interested in
+generating a managed contribution workflow to allow for an end-user to capture
+their plan and then get that plan approved.
+We will utilize the SAC calendar for this purposed.
 
-🚩As a FP&A Analyst for CycleBros, we are interested in automating the
-calculation framework for our planning scenario. We will automate the
-calculation via data and multi actions, which we will create as part of
-this exercise. We will learn how to execute traces on data actions and
-then how to include all this logic into a story.
-
-Let's start by editing the dashboard to show the finance plan. This will
-make it easy to eventually see how our sales planning activities
-transfer to the finance plan near the end of the exercise.
-
-6. We are now going to adjust the layout of the sales planning table.
-   Our first step will be select the table object, select edit mode for
-   the story, the right design panel and then the builder panel. This
-   will allow us to redefine the definition of the table object.
+Let’s start by launching the calendar.
 
 <img src="./images/image1.png" style="width:624.0px;height:320.26656px;"/>
 
