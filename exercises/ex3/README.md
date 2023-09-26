@@ -33,12 +33,12 @@ Let’s start by launching the calendar.
 
 114. Expand the Navigation Bar
 
-<img src="./images/image1.png" style="width:400px;height:331px;"/>
+<img src="./images/image1.png" style="width:500px;height:413px;"/>
 
 115. Select
      Calendar
 
-<img src="./images/image2.png" style="width:120px;height:333px;"/>
+<img src="./images/image2.png" style="width:180px;height:500px;"/>
 
 🚩 Welcome to
 the Calendar! This where you can create user driven tasks and execute automated
@@ -67,12 +67,12 @@ illustrate its capabilities.
 117. From the Basic Settings step, configure the following settings.  For Process Name, Start Date, and End Date
      feel free to use those provided in the image, or set your own
 
-<img src="./images/image5.png" style="width:500px;height:348px;"/>
+<img src="./images/image5.png" style="width:600px;height:417px;"/>
 
 118. Click
      the **Add File** under the Work Files
 
-<img src="./images/image6.png" style="width:500px;height:348px;"/>
+<img src="./images/image6.png" style="width:600px;height:417px;"/>
 
 119. We want to attach the dashboard we finalized in exercise 2 to the tasks we are
      going to create.  Location and select the
@@ -80,12 +80,12 @@ illustrate its capabilities.
      in the TE_2023_SAC_Planning_DA261 Workspace).
      Click the **OK** button.
 
-<img src="./images/image7.png" style="width:500px;height:348px;"/>     
+<img src="./images/image7.png" style="width:600px;height:417px;"/>     
 
 120. Navigate
      to  **Step 2** .
 
-<img src="./images/image8.png" style="width:500px;height:344px;">
+<img src="./images/image8.png" style="width:600px;height:417px;">
 
 🚩 Notice
 that as you navigate through the Wizard, your current step is illustrated as a
