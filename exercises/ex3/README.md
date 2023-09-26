@@ -38,6 +38,8 @@ Let’s start by launching the calendar.
 116. Select
      Calendar
 
+<img src="./images/image2.png" style="width:624.0px;height:320.26656px;"/>
+
 🚩 Welcome to
 the Calendar! This where you can create user driven tasks and execute automated
 system tasks based on specific calendar dates and times.  Note that you may have received a
@@ -51,6 +53,7 @@ create some tasks in this exercise.
      the General toolbar item, click the **+** and select **Generate Events with**
      **Wizard**
 
+<img src="./images/image3.png" style="width:624.0px;height:320.26656px;"/>
 
 🚩 Welcome to the Calendar Wizard! From here we can utilize
 various parameters to create many assignee and review tasks which essentially represent
@@ -64,19 +67,25 @@ illustrate its capabilities.
 117. From the Basic Settings step, configure the following settings.  For Process Name, Start Date, and End Date
      feel free to use those provided in the image, or set your own
 
+<img src="./images/image4.png" style="width:624.0px;height:320.26656px;"/>
 
 118. Click
      the **Add File** under the Work Files
 
+<img src="./images/image5.png" style="width:624.0px;height:320.26656px;"/>
 
 119. We want to attach the dashboard we finalized in exercise 2 to the tasks we are
      going to create.  Location and select the
      **CycleBros – FP&A Dashboard ** (you will have to navigate to your folder
      in the TE_2023_SAC_Planning_DA261 Workspace).
      Click the **OK** button.
+
+<img src="./images/image6.png" style="width:624.0px;height:320.26656px;"/>     
+
 121. Navigate
      to  **Step 2** .
 
+<img src="./images/image7.png" style="width:624.0px;height:320.26656px;"/>
 
 🚩 Notice
 that as you navigate through the Wizard, your current step is illustrated as a
