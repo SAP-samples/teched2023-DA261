@@ -28,7 +28,7 @@ There are three exercises that you will run through within this session. These e
 * [Exercise 2 - Advanced Planning with Data Actions and Multi Actions](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex2)
 * [Exercise 3 - Leveraging the Calendar for Plan Workflows (Optional)](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex3)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+Start the exercises [here](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/GettingStarted).
 
 ## Further Learning
 
