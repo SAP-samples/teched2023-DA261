@@ -176,7 +176,7 @@ and repoint it.
 <img src="./images/image23.png" style="width:227.05152px;height:324.05568px;"/>
 
 22. Navigate to the styling panel. Change the ID of the chart to
-    **SP_US_FY_CHT**. Hit the Enter key to commit the ID change
+    "SP_US_FY_CHT". Hit the Enter key to commit the ID change
 
 <img src="./images/image24.png" style="width:242.89056px;height:371.81759999999997px;"/>
 
@@ -200,7 +200,7 @@ going to introduce some scripting components to leverage a custom widget
 allowing end-users to directly upload a csv or xls from their local
 computer.
 
-25. Open the **Left Side Panel**
+25. Open the left side panel
 
 <img src="./images/image28.png" style="width:511.608px;height:335.3328px;"/>
 
@@ -236,9 +236,9 @@ information during the file upload process, and 2) process the data into
 the model once the file upload is complete including reporting any
 errors and a reject file if some records are not loaded.
 
-30. If it is not already visible, then open the Left Side Panel. Select
+30. If it is not already visible, then open the left side panel. Select
     the **UploadXLS_1** which should appear within the
-    **SalesPlanEntry** page in the Outline menu
+    **SalesPlanEntry** page in the **Outline** menu
 
 <img src="./images/image33.png" style="width:397.88256px;height:302.7744px;"/>
 
@@ -313,7 +313,7 @@ error uploading the Excel data\');*
 *console.log(this.getUploadResult());*
 
 37. Select the **BTN_UPLOAD** which should also appear within the
-    SalesPlanEntry page in the Outline menu
+    SalesPlanEntry page in the **Outline** menu
 
 <img src="./images/image39.png" style="width:152.11488px;height:248.91456px;"/>
 
