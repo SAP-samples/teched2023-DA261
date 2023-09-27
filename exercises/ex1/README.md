@@ -50,7 +50,7 @@ Let's start by editing the dashboard!
 1. First ensure you are on the Financial Overview tab. Then
    click **Edit** to change the dashboard to authoring mode.
 
-<img src="./images/image1.png" style="width:456px;height:275px;"/>
+<img src="./images/image1.png" style="width:556px;height:355px;"/>
 
 🚩 The first thing we want to do is make some end-user requested changes
 to the Financial Overview page. This include updating the dashboard
@@ -71,31 +71,31 @@ drill level for our P&L in the table widget.
 4. From the Insert Dynamic Text popup, select **Story Filters** and
    check the box for **SAP_XPA_REGION** and click the **Create** button
 
-<img src="./images/image4.png" style="width:561px;height:339px;"/>
+<img src="./images/image4.png" style="width:661px;height:389px;"/>
 
 5. Now let's change the default filter selection for the region by
    clicking on the **SAP_XPA_REGION** filter at the top of the
    dashboard and deselecting the **All** filter 
 
-<img src="./images/image5.png" style="width:414px;height:282px;"/>
+<img src="./images/image5.png" style="width:714px;height:482px;"/>
 
 6. Select **United States** and click **Apply Selections**
 
-<img src="./images/image6.png" style="width:416px;height:288px;"/>
+<img src="./images/image6.png" style="width:716px;height:488px;"/>
 
 6. Finally, let's change the default drill depth in our table by first
    right-clicking on the **SAP_XPA_ACCOUNT** dimension header within
    the table. Select **Drill** \> **Level 4**
 
-<img src="./images/image7.png" style="width:480px;height:287px;"/>
+<img src="./images/image7.png" style="width:680px;height:387px;"/>
 
 7. Click **File/Save** to save your dashboard updates
 
-<img src="./images/image8.png" style="width:472px;height:266px;"/>
+<img src="./images/image8.png" style="width:572px;height:366px;"/>
 
 ⚠️**Quality Check!** Does your dashboard look like this?
 
-<img src="./images/image9.png" style="width:562px;height:407px;"/>
+<img src="./images/image9.png"/>
 
 🚩 Now that we have updated the Financial Overview, we are next going to
 make some preliminary changes to the Sales Plan Entry tab to prepare for
@@ -106,7 +106,7 @@ directly upload their sales plan numbers from csv or xls.
 
 8. Navigate to the **Sales Plan Entry** tab, and review the template
 
-<img src="./images/image10.png" style="width:415px;height:180px;"/>
+<img src="./images/image10.png"  style="width:615px;height:380px;"/>
 
 🚩 We want to add a a numeric point chart to track full year total
 quantity planned. This number will ultimately be visible in the table as
@@ -117,50 +117,50 @@ and repoint it.
 9. Navigate back to the **Financial Overview** tab, and select the Unit
    Sales numeric point chart
 
-<img src="./images/image11.png" style="width:549px;height:236px;"/>
+<img src="./images/image11.png" style="width:809px;height:376px;"/>
 
 10. From the widget menu select **Copy \> Copy To \> Sales Plan Entry**
 
-<img src="./images/image12.png" style="width:417px;height:232px;"/>
+<img src="./images/image12.png" style="width:617px;height:332px;"/>
 
 11. Navigate to the **Sales Plan Entry** tab
 
-<img src="./images/image13.png" style="width:519px;height:307px;"/>
+<img src="./images/image13.png" style="width:819px;height:507px;"/>
 
 12. Move (click and drag) and resize the widget (select corner or edge
     and click-drag) so the right side aligns with the right side of the
     table widget so it appears similar to the screenshot below
 
-<img src="./images/image14.png" style="width:463px;height:287px;"/>
+<img src="./images/image14.png" style="width:763px;height:457px;"/>
 
 13. Highlight the **YTD -- Oct, 2023** in the widget title and click the
     delete key (note that the Oct, 2023 is dynamic text referencing the
     Current Date story filter)
 
-<img src="./images/image15.png" style="width:405px;height:228px;"/>
+<img src="./images/image15.png" />
 
 14. With your cursor between the brackets () right-click. Select **Add
     \> Dynamic Text**
 
-<img src="./images/image16.png" style="width:422px;height:232px;"/>
+<img src="./images/image16.png" style="width:522px;height:272px;"/>
 
 15. Select Input Controls, and check **Version.** The click the
     **Create** button.
 
-<img src="./images/image17.png" style="width:422px;height:262px;"/>
+<img src="./images/image17.png" />
 
 16. Click on the chart (to ensure it is selected) and open the **Right
     Side Panel.** If not already active, toggle the **Builder** panel
 
-<img src="./images/image18.png" style="width:558px;height:267px;"/>
+<img src="./images/image18.png" style="width:758px;height:367px;"/>
 
 17. Click on the **Select Model** button in the Builder panel
 
-<img src="./images/image19.png" style="width:427px;height:244px;"/>
+<img src="./images/image19.png" style="width:527px;height:284px;"/>
 
 18. Select **OK** on the resulting warning message
 
-<img src="./images/image20.png" style="width:385px;height:107px;"/>
+<img src="./images/image20.png" />
 
 19. Click on the Select Model dropdown and choose the
     **SAP_XPA_SALESPLAN_TE2023**
@@ -169,26 +169,26 @@ and repoint it.
 
 20. Click the **OK** button
 
-<img src="./images/image22.png" style="width:304px;height:109px;"/>
+<img src="./images/image22.png" />
 
 21. Configure the builder panel as displayed in the image below
 
-<img src="./images/image23.png" style="width:227px;height:324px;"/>
+<img src="./images/image23.png" />
 
 22. Navigate to the styling panel. Change the ID of the chart to
     "SP_US_FY_CHT". Hit the Enter key to commit the ID change
 
-<img src="./images/image24.png" style="width:242px;height:371px;"/>
+<img src="./images/image24.png" style="width:402px;height:651px;"/>
 
 23. Click the widget menu for the numeric point chart. Then choose
     **More Options \> Show/Hide \> Primary Value Labels** to toggle off
     the Gross Sales label
 
-<img src="./images/image25.png" style="width:380px;height:195px;"/>
+<img src="./images/image25.png" style="width:680px;height:355px;"/>
 
 24. Click the **File \> Save** menu to save your dashboard
 
-<img src="./images/image26.png" style="width:385px;height:231px;"/>
+<img src="./images/image26.png" style="width:585px;height:331px;"/>
 
 ⚠️**Quality Check!** Does your Sales Plan Entry tab look as follows?
 Note: the Plan_Contributor input control will reflect your user ID
