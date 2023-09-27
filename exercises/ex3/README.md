@@ -161,23 +161,23 @@ appeared as the “Assignee” and User99 would appear as a “Reviewer”.
 126. Click the **Generate** button to
      create the calendar tasks
 
-<img src="./images/image15.png" style="width:700px;height:476px;"/>
+<img src="./images/image15.png" style="width:700px;height:526px;"/>
 
 127. Once you receive a notification that the
      5 events have been created, please click the refresh button on the toolbar.
 
-<img src="./images/image16.png" style="width:600px;height:365px;"/>
+<img src="./images/image16.png" style="width:600px;height:335px;"/>
 
 128. Change the calendar time range to **Year** if it is not already select.
 
-<img src="./images/image17.png" style="width:600px;height:432px;"/>
+<img src="./images/image17.png" style="width:900px;height:610px;"/>
 
 129. Move the time scale within the Gantt
      chart to zoom out slightly, and adjust the the time slider within the Gantt
      chart to center chart until your screen clearly shows the full task list and a
      graphic representation.
 
-<img src="./images/image18.png" style="width:700px;height:396px;" />
+<img src="./images/image18.png" style="width:900px;height:610px;" />
 
 🚩 Now we
 have created a process hierarchy! You will see that all the tasks are set as
@@ -187,7 +187,7 @@ Inactive as the predefined start date hasn’t yet arrived.  The process and the
 130. Select the General Task (**2023 Annual Sales Plan - United States General Task** in the image below) in the task
      list and activate the Details side panel.
 
-<img src="./images/image19.png" style="width:700px;height:410px;" />
+<img src="./images/image19.png" style="width:900px;height:610px;"/>
 
 🚩 You can
 see in the General Task side panel, details about the given task.  Included is basic information about the task
@@ -207,7 +207,7 @@ free to review the other settings in the detail panel of the task.  For our fina
      for a potential future start date).
      Select the parent process and click the **Activate** button.
 
-<img src="./images/image20.png" />
+<img src="./images/image20.png" style="width:900px;height:610px;"/>
 
 132. In the Activate dialog select the **Activate process
      (without role transfer)**.  Click the
@@ -223,7 +223,7 @@ assignments within the individual tasks.
 your calendar look similar to the following (note that the dates will differ based
 on the current date on which the process was activated)?
 
-<img src="./images/image22.png" />
+<img src="./images/image22.png" style="width:900px;height:610px;"/>
 
 🚩 The parent process
 process should now display as “In Process”, and the first child task which is
