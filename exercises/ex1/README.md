@@ -71,7 +71,7 @@ drill level for our P&L in the table widget.
 4. From the Insert Dynamic Text popup, select **Story Filters** and
    check the box for **SAP_XPA_REGION** and click the **Create** button
 
-<img src="./images/image4.png" style="width:461px;height:279px;"/>
+<img src="./images/image4.png" style="width:561px;height:339px;"/>
 
 5. Now let's change the default filter selection for the region by
    clicking on the **SAP_XPA_REGION** filter at the top of the
@@ -356,7 +356,7 @@ error uploading the Excel data\');*
 
 40. Click the **File \> Save** menu to save your dashboard
 
-<img src="./images/image42.png" style="width:338.13120000000004px;height:171.04512px;"/>
+<img src="./images/image42.png" style="width:438px;height:231px;"/>
 
 🚩 In the final step of exercise 1, we will test our template changes,
 including our upload widget. Recall where you saved the
@@ -369,16 +369,16 @@ reloading your story (**View** \> **Reload this Page** in Chrome)
 
 41. Click the View mode button to change from edit mode to view mode
 
-<img src="./images/image43.png" style="width:327.20448px;height:173.77248px;"/>
+<img src="./images/image43.png" style="width:427px;height:293px;"/>
 
 42. Navigate to the **Sales Plan Entry** tab
 
-<img src="./images/image44.png" style="width:493.34975999999995px;height:258.05952px;"/>
+<img src="./images/image44.png" style="width:593px;height:318px;"/>
 
 43. Ensure the page has fully loaded, and then click on the **User
     Upload** button 
 
-<img src="./images/image45.png" style="width:414.31008px;height:262.44096px;"/>
+<img src="./images/image45.png" style="width:614px;height:392px;"/>
 
 44. From the file system dialog, locate the **SalesPlan_Quantity.xls**
     file and click **OK**
@@ -392,7 +392,7 @@ quantities.
 results) look like this? Note: the Plan_Contributor input control will
 reflect your user ID
 
-<img src="./images/image46.png" style="width:624.0px;height:372.73344px;"/>
+<img src="./images/image46.png" />
 
 ## Summary
 
