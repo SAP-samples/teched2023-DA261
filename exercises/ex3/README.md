@@ -8,7 +8,7 @@ and 2.
 
 **Exercise Description:**  Now that we have created our dashboard and input template,
 and have developed logic to aggregate the plan results, we will create a simple
-calendar process to simulate to a plan workflow submission. 
+calendar process to simulate to a plan workflow submission.
 
 **Key Features:**
 
@@ -71,8 +71,8 @@ illustrate its capabilities.
 
 119. We want to attach the dashboard we finalized in exercise 2 to the tasks we are
      going to create.  Location and select the
-     **CycleBros – FP&A Dashboard ** (you will have to navigate to your folder
-     in the TE_2023_SAC_Planning_DA261 Workspace).
+     **CycleBros – FP&A Dashboard** (you will have to navigate to your folder
+     in the **TE_2023_SAC_Planning_DA261** Workspace).
      Click the **OK** button.
 
 <img src="./images/image7.png" style="width:800px;height:556px;"/>
