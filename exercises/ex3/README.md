@@ -75,12 +75,12 @@ illustrate its capabilities.
      in the **TE_2023_SAC_Planning_DA261** Workspace).
      Click the **OK** button.
 
-<img src="./images/image7.png" style="width:800px;height:556px;"/>
+<img src="./images/image8.png" style="width:800px;height:556px;"/>
 
 120. Navigate
      to  **Step 2** .
 
-<img src="./images/image8.png" style="width:800px;height:556px;">
+<img src="./images/image9.png" style="width:800px;height:556px;">
 
 🚩 Notice
 that as you navigate through the Wizard, your current step is illustrated as a
@@ -91,9 +91,9 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
 
 121. For the Context, populate the Model
      and Driving Dimension filters as follows, and then navigate to Step 3.  Note that you can find the model in Models
-     folder in the TE_2023_SAC_Planning_DA261 Workspace.
+     folder in the **TE_2023_SAC_Planning_DA261** Workspace.
 
-<img src="./images/image9.png" style="width:800px;height:556px;"/>
+<img src="./images/image10.png" style="width:800px;height:556px;"/>
 
 122. The **Event Types** step allows us
      to define the specific types of tasks we want to configure.  In our case we will select General Task and Review
@@ -101,7 +101,7 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
      process group for our tasks.  Configure
      the Event types step as follows.
 
-<img src="./images/image10.png" style="width:800px;height:576px;"/>
+<img src="./images/image11.png" style="width:800px;height:576px;"/>
 
 🚩 The Event
 Types dialog allows us to configure either discrete tasks for submission and approval
@@ -123,7 +123,7 @@ will be multiple nodes submitted/reviewed.
 
 123. In the People dialog, we will and
      owner for the submission/assignee task and an owner for the review task.  These will come directly from properties associated
-     with the driving dimension (SAP_LOB_REGION) we selected previously.  Select the following properties for Assignees
+     with the driving dimension (**SAP_LOB_REGION**) we selected previously.  Select the following properties for Assignees
      and Reviewers.  Then click the button for
      Step 5.
 
@@ -168,8 +168,7 @@ appeared as the “Assignee” and User99 would appear as a “Reviewer”.
 
 <img src="./images/image16.png" style="width:600px;height:365px;"/>
 
-128. Change the calendar time range to **Year
-     **if it is not already select.
+128. Change the calendar time range to **Year** if it is not already select.
 
 <img src="./images/image17.png" style="width:600px;height:432px;"/>
 
@@ -185,7 +184,7 @@ have created a process hierarchy! You will see that all the tasks are set as
 Inactive as the predefined start date hasn’t yet arrived.  The process and the tasks (based on dependencies
 – represented through arrows linking the tasks in the Gantt chart).
 
-130. Select the General Task in the task
+130. Select the General Task (**2023 Annual Sales Plan - United States General Task** in the image below) in the task
      list and activate the Details side panel.
 
 <img src="./images/image19.png" style="width:700px;height:410px;" />
@@ -206,13 +205,13 @@ free to review the other settings in the detail panel of the task.  For our fina
 
 131. Let’s go ahead and activate the process (rather than wait
      for a potential future start date).
-     Select the parent process and click the Activate button.
+     Select the parent process and click the **Activate** button.
 
 <img src="./images/image20.png" style="width:700px;height:410px;"/>
 
-132. In the Activate dialog select the Activate process
-     (without role transfer).  Click the
-     Activate button.
+132. In the Activate dialog select the **Activate process
+     (without role transfer)**.  Click the
+     **Activate** button.
 
 <img src="./images/image21.png" />
 
@@ -226,7 +225,7 @@ on the current date on which the process was activated)?
 
 <img src="./images/image22.png" />
 
-🚩 The overriding
+🚩 The parent process
 process should now display as “In Process”, and the first child task which is
 the preliminary Data Locking Task should have been executed successfully (it is
 set as an automated task and does not require any user intervention).  You will also notice that the General Task is
