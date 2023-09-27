@@ -207,7 +207,7 @@ free to review the other settings in the detail panel of the task.  For our fina
      for a potential future start date).
      Select the parent process and click the **Activate** button.
 
-<img src="./images/image20.png" style="width:700px;height:410px;"/>
+<img src="./images/image20.png" />
 
 132. In the Activate dialog select the **Activate process
      (without role transfer)**.  Click the
