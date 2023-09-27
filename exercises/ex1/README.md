@@ -249,31 +249,31 @@ errors and a reject file if some records are not loaded.
 
 32. Paste the following Javascript into the function dialog:
 
-> *var sheets = UploadXLS_1.getSheetNames();*
->
-> *var records = UploadXLS_1.getTotalRows(sheets\[0\]);*
->
-> *var chunkSize = UploadXLS_1.getChunkSize();*
->
-> *if(records \<= chunkSize){*
->
-> *Application.showBusyIndicator(\'Uploading \'+records.toString() + \'
-> rows from the Excel file\');*
->
-> *}else{*
->
-> *Application.showBusyIndicator(\'Uploading first
-> \'+chunkSize.toString() + \' rows from the total \'+records.toString()
-> +\' in the Excel file\');*
->
-> *}*
+ *var sheets = UploadXLS_1.getSheetNames();*
 
-<img src="./images/image35.png" style="width:624.0px;height:256.46688px;"/>
+ *var records = UploadXLS_1.getTotalRows(sheets\[0\]);*
+
+ *var chunkSize = UploadXLS_1.getChunkSize();*
+
+ *if(records \<= chunkSize){*
+
+ *Application.showBusyIndicator(\'Uploading \'+records.toString() + \'
+ rows from the Excel file\');*
+
+ *}else{*
+
+ *Application.showBusyIndicator(\'Uploading first
+ \'+chunkSize.toString() + \' rows from the total \'+records.toString()
+ +\' in the Excel file\');*
+
+ *}*
+
+<img src="./images/image35.png" style="width:889.89888px;height:372.28224px;"/>
 
 33. Click on the **Edit Scripts** button and select the **onDataUpload**
     event
 
-<img src="./images/image36.png" style="width:243.06432px;height:158.8992px;"/>
+<img src="./images/image36.png" style="width:372px;height:234px;"/>
 
 34. Paste the following Javascript into the function dialog:
 
@@ -296,12 +296,12 @@ sdk_com_sap_sample_uploadxls\_\_2_JobStatus.COMPLETED_WITH_FAILURES){*
 
 *console.log(this.getUploadResult().jobStatus);*
 
-<img src="./images/image37.png" style="width:624.0px;height:275.59968000000003px;"/>
+<img src="./images/image37.png" style="width:889.89888px;height:372.28224px;"/>
 
 35. Click on the **Edit Scripts** button and select the
     **onFailedUpload** event
 
-<img src="./images/image38.png" style="width:234.16992px;height:169.20672px;"/>
+<img src="./images/image38.png" style="width:334px;height:269px;"/>
 
 36. Paste the following Javascript into the function dialog:
 
@@ -315,12 +315,12 @@ error uploading the Excel data\');*
 37. Select the **BTN_UPLOAD** which should also appear within the
     SalesPlanEntry page in the **Outline** menu
 
-<img src="./images/image39.png" style="width:152.11488px;height:248.91456px;"/>
+<img src="./images/image39.png"/>
 
 38. Click on the **Edit Scripts** button and select the **onClick**
     event
 
-<img src="./images/image40.png" style="width:272.85984px;height:184.29216px;"/>
+<img src="./images/image40.png" style="width:372px;height:264px;"/>
 
 39. Paste the following JavaScript in the function dialog:
 
@@ -352,7 +352,7 @@ error uploading the Excel data\');*
 
 *Application.showBusyIndicator(\'Uploading File\...\');*
 
-<img src="./images/image41.png" style="width:589.89888px;height:252.28224px;"/>
+<img src="./images/image41.png" style="width:889.89888px;height:352.28224px;"/>
 
 40. Click the **File \> Save** menu to save your dashboard
 
