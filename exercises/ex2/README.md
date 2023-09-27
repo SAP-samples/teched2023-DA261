@@ -107,8 +107,7 @@ de-selected from the meu to replicate this view.
 
 55. Save your story.
 
-<img src="./images/image13.png" style="width:500px;height:34
-0px;"/>
+<img src="./images/image13.png" style="width:500px;height:340px;"/>
 
 56. From the main menu, select **Files**, our **Workspace**, then
     DA261-User Content and then your user folder. We can now select the
@@ -134,8 +133,7 @@ de-selected from the meu to replicate this view.
     from quantity and price. We are going to open the content menu so we
     can restrict the scope of the calculation.
 
-<img src="./images/image17.png" style="width:580
-px;height:413px;"/>
+<img src="./images/image17.png" style="width:580px;height:413px;"/>
 
 60. However, before we restrict the context, we are going to create a
     parameter to restrict the calculation to our user id.
@@ -205,7 +203,7 @@ identical to what is shown below.
 
 <img src="./images/image28.png" style="width:360;height:203px;"/>
 
-70. We are now going to select the Show Table to Review the results of
+70. We are now going to select the **Show Table** to review the results of
     the first step. Notice that our selection parameters will be shown
     in the right pane for transparency.
 
@@ -225,7 +223,7 @@ identical to what is shown below.
 
 <img src="./images/image32.png"/>
 
-73. Select the tracing point for Calculate_Sales. Here we will see the
+73. Select the tracing point for **Calculate_Sales**. Here we will see the
     results tracepoint for the calculation we created in our advanced
     formula. If we had multiple calculation lines in our advanced
     formula, we could have set multiple trace points. Also note that we
@@ -251,13 +249,13 @@ identical to what is shown below.
 
 <img src="./images/image35.png"/>
 
-76. Selectin the AFTER Allocate Expected Returns, we can see that the
+76. Select the **AFTER Allocate Expected Returns**, we can see that the
     Retail Returns from the unassigned region (i.e. '#'), to each of the
     subregions based on Gross Sales.
 
 <img src="./images/image36.png" />
 
-77. The Trace creates a private version, which can be viewed in the
+77. The trace creates a private version, which can be viewed in the
     story we created. Since we will not be doing anything with this this
     trace version we will delete the information.
 
@@ -278,7 +276,7 @@ identical to what is shown below.
 
 <img src="./images/image40.png" style="width:267px;height:266px;"/>
 
-80. Please give the data action a name like " Cross-Model Copy Step" and
+80. Please give the data action a name like "Cross-Model Copy Step" and
     then select our Finance model from the exercise.
 
 <img src="./images/image41.png" style="width:419.88576px;height:163.51296px;"/>
@@ -313,7 +311,7 @@ identical to what is shown below.
 <img src="./images/image45.png"/>
 
 85. Please give the parameter a name, such as "SVersion" and set the
-    model to SAP_XPA_SALESPLAN_TE2023. We are going to assign the
+    model to **SAP_XPA_SALESPLAN_TE2023**. We are going to assign the
     dimension to Version and the cardinality to single, which means we
     only want to pass a single value via this parameter. We will then
     enter the default value of "2024 Plan." Although we have set a
@@ -327,11 +325,11 @@ identical to what is shown below.
 
 <img src="./images/image47.png" />
 
-87. Please give the parameter a name, such as "**Sales 2 Finance**" and
+87. Please give the parameter a name, such as "Sales 2 Finance" and
     set the model to SAP_XPA_SALESPLAN_TE2023. We are going to assign
-    set the filters for **Version** and Plan **Contributor** as shown.
+    set the filters for **Version** and **Plan** **Contributor** as shown.
     When selecting the filter value, you will need to select
-    **Parameters** on the pane on the left side of the popup window to
+    **Parameters** on the panel on the left side of the popup window to
     select the parameters you have previously created.
 
 <img src="./images/image48.png"/>
@@ -356,7 +354,7 @@ identical to what is shown below.
 
 <img src="./images/image51.png" />
 
-91. Now select the SAP_LOB_REGION. Here we have the issue that we have
+91. Now select the **SAP_LOB_REGION**. Here we have the issue that we have
     sub-regions assigned to the United States in our sales plan that
     have been aggregated to just the United States in our finance plan.
 
@@ -381,7 +379,7 @@ identical to what is shown below.
 <img src="./images/image55.png" style="width:340px;height:296px;"/>
 
 95. Before we add the data actions we previously created to our
-    multi-action, we are going to create some parameters to orchestrate
+    multi action, we are going to create some parameters to orchestrate
     the execution.
 
 <img src="./images/image56.png"/>
