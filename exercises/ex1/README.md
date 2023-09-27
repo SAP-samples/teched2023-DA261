@@ -50,7 +50,7 @@ Let's start by editing the dashboard!
 1. First ensure you are on the Financial Overview tab. Then
    click **Edit** to change the dashboard to authoring mode.
 
-<img src="./images/image1.png" style="width:356.08416px;height:225.67200000000003px;"/>
+<img src="./images/image1.png" style="width:456px;height:275px;"/>
 
 🚩 The first thing we want to do is make some end-user requested changes
 to the Financial Overview page. This include updating the dashboard
@@ -61,17 +61,17 @@ drill level for our P&L in the table widget.
 2. In the dashboard title text box, highlight the **DA261** and click
    the delete key
 
-<img src="./images/image2.png" style="width:509.09376000000003px;height:257.64671999999996px;"/>
+<img src="./images/image2.png"/>
 
 3. With your cursor between the brackets () right-click. Select **Add**
    \> **Dynamic Text**
 
-<img src="./images/image3.png" style="width:515.75904px;height:275.01599999999996px;"/>
+<img src="./images/image3.png"/>
 
 4. From the Insert Dynamic Text popup, select **Story Filters** and
    check the box for **SAP_XPA_REGION** and click the **Create** button
 
-<img src="./images/image4.png" style="width:461.21856px;height:279.096px;"/>
+<img src="./images/image4.png" style="width:461px;height:279px;"/>
 
 5. Now let's change the default filter selection for the region by
    clicking on the **SAP_XPA_REGION** filter at the top of the
