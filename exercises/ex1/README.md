@@ -193,7 +193,7 @@ and repoint it.
 ⚠️**Quality Check!** Does your Sales Plan Entry tab look as follows?
 Note: the Plan_Contributor input control will reflect your user ID
 
-<img src="./images/image27.png" style="width:624.0px;height:347.59968000000003px;"/>
+<img src="./images/image27.png" />
 
 🚩 Now that we have made basic updates to the input template, we are
 going to introduce some scripting components to leverage a custom widget
@@ -202,27 +202,27 @@ computer.
 
 25. Open the left side panel
 
-<img src="./images/image28.png" style="width:511.608px;height:335.3328px;"/>
+<img src="./images/image28.png" style="width:711px;height:435px;"/>
 
 26. Under the **Assets** menu, expand **Custom Widgets**
 
-<img src="./images/image29.png" style="width:126.91968px;height:148.28832px;"/>
+<img src="./images/image29.png" style="width:226px;height:148.px;"/>
 
 27. Select the **Upload XLS v2.0.1** and drag it into an open space on
     the canvass near the top of the tab (note that the widget label will
     disappear once you have finished positioning the widget)
 
-<img src="./images/image30.png" style="width:363.35519999999997px;height:293.856px;"/>
+<img src="./images/image30.png" style="width:653px;height:573px;"/>
 
 28. From the insert menu let's add a new **Button** (we'll use this to
     call our custom widget)
 
-<img src="./images/image31.png" style="width:423.20543999999995px;height:240.1776px;"/>
+<img src="./images/image31.png" style="width:623px;height:340px;"/>
 
 29. Open up the styling menu of the button and change the settings to
     the following
 
-<img src="./images/image32.png" style="width:232.00032px;height:629.33376px;"/>
+<img src="./images/image32.png" style="width:232px;height:629px;"/>
 
 🚩 Finally, we need to add JavaScript to trigger events in both the
 custom widget and the button to call the custom widget. The custom
@@ -240,12 +240,12 @@ errors and a reject file if some records are not loaded.
     the **UploadXLS_1** which should appear within the
     **SalesPlanEntry** page in the **Outline** menu
 
-<img src="./images/image33.png" style="width:397.88256px;height:302.7744px;"/>
+<img src="./images/image33.png" style="width:697px;height:522px;"/>
 
 31. Click on the **Edit Scripts** button and select the **onFileUpload**
     event
 
-<img src="./images/image34.png" style="width:176.18304px;height:243.1968px;"/>
+<img src="./images/image34.png" style="width:326px;height:443px;"/>
 
 32. Paste the following Javascript into the function dialog:
 
@@ -268,7 +268,7 @@ errors and a reject file if some records are not loaded.
 
  *}*
 
-<img src="./images/image35.png" style="width:889.89888px;height:372.28224px;"/>
+<img src="./images/image35.png" style="width:889px;height:372px;"/>
 
 33. Click on the **Edit Scripts** button and select the **onDataUpload**
     event
@@ -296,7 +296,7 @@ sdk_com_sap_sample_uploadxls\_\_2_JobStatus.COMPLETED_WITH_FAILURES){*
 
 *console.log(this.getUploadResult().jobStatus);*
 
-<img src="./images/image37.png" style="width:889.89888px;height:372.28224px;"/>
+<img src="./images/image37.png" style="width:889px;height:372px;"/>
 
 35. Click on the **Edit Scripts** button and select the
     **onFailedUpload** event
