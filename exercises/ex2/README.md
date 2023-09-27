@@ -326,7 +326,7 @@ identical to what is shown below.
 <img src="./images/image47.png" />
 
 87. Please give the parameter a name, such as "Sales 2 Finance" and
-    set the model to SAP_XPA_SALESPLAN_TE2023. We are going to assign
+    set the model to **SAP_XPA_SALESPLAN_TE2023**. We are going to assign
     set the filters for **Version** and **Plan** **Contributor** as shown.
     When selecting the filter value, you will need to select
     **Parameters** on the panel on the left side of the popup window to
@@ -348,8 +348,8 @@ identical to what is shown below.
 
 90. We are going to create a user defined rule to map the Amount from
     the sales plan to Local Currency in our finance plan. We are also
-    going to set the auto-generation strategy to "**Identical Names and
-    Compatible Types.**" We could have also filtered on measures when
+    going to set the auto-generation strategy to **Identical Names and
+    Compatible Types.**  We could have also filtered on measures when
     creating the rule to just include Quantity and Amount as well.
 
 <img src="./images/image51.png" />
@@ -360,7 +360,7 @@ identical to what is shown below.
 
 <img src="./images/image52.png" style="width:408px;height:310px;"/>
 
-92. For the region, select "Identical names (including Ancestors)" to
+92. For the region, select **Identical names (including Ancestors)** to
     map the subregions from the sales plan to the region in the finance
     plan. Using this strategy, we can plan at a different level in our
     sales plan than our finance plan.
