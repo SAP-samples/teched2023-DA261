@@ -2,20 +2,18 @@
 
 **Objective:** In this exercise, you will explore the calendar,
 and create a submission and review task based on the output of exercises 1
-& 2
+and 2.
 
 **Estimated Time:** 15 mins
 
 **Exercise Description:**  Now that we have created our dashboard and input template,
-and create a process to aggregate the plan results, we will create a simple
-calendar process to simulate to a plan submission workflow.  Note that in this exercise we will only generate
-the tasks due to the complexities associated with multiple sign-ins required to
-step through the actual submission process.
+and have developed logic to aggregate the plan results, we will create a simple
+calendar process to simulate to a plan workflow submission. 
 
 **Key Features:**
 
-* Utilize the Calendar Wizard to create and assignee
-  and review tasks for plan submission
+* Utilize the Calendar Wizard to create General
+  and Review tasks to manage plan submission
 
 ⚠️**Disclaimer** When
 completing exercises, it is expected that data values or screenshots should
@@ -25,9 +23,8 @@ appropriate section in **Getting Started** Readme.  For any inconsistencies whic
 addressed therein, please check with your instructor.
 
 🚩As a FP&A Analyst for CycleBros, we are interested in
-generating a managed contribution workflow to allow for an end-user to capture
-their plan and then get that plan approved.
-We will utilize the SAC calendar for this purposed.
+generating a managed contribution workflow to allow for end-users to capture
+their plan and have that plan reviewed.  We will utilize the SAC calendar for this purposed.
 
 Let’s start by launching the calendar.
 
@@ -36,17 +33,16 @@ Let’s start by launching the calendar.
 <img src="./images/image1.png" style="width:500px;height:413px;"/>
 
 115. Select
-     Calendar
+     **Calendar**
 
 <img src="./images/image2.png" style="width:180px;height:500px;"/>
 
 🚩 Welcome to
 the Calendar! This where you can create user driven tasks and execute automated
 system tasks based on specific calendar dates and times.  Note that you may have received a
-notification about a next task status filtering option.  If you did, you will likely see a pre-filter
-already setup based on task status (you can see this below).  You are likely to see a blank calendar as no
-tasks have been configured for your user (either as a task owner, task assignee,
-or task reviewer).   We are going to
+pop-up notification about new task status filtering options.  If you did, you will likely see a pre-filter
+already setup based on task status (you can see this below).  At present the calendar is empty as no tasks have been configured for your user (either as a task owner, task assignee,
+or task reviewer).   In the remainder of this exercsie, we are going to
 create some tasks in this exercise.
 
 116. Under
@@ -56,15 +52,14 @@ create some tasks in this exercise.
 <img src="./images/image4.png" style="width:800px;height:556px;"/>
 
 🚩 Welcome to the Calendar Wizard! From here we can utilize
-various parameters to create many assignee and review tasks which essentially represent
-a larger submission workflow to cover an entire planning process, or a
+various parameters to create multiple assignee and review tasks to represent
+a larger submission workflow which may cover an entire planning process or
 subprocess.  In our case, this workflow
 will be very simplistic and could be create manually using the General and
 Review Task options visible in the menu item above.  However, we will utilize the Wizard to
 illustrate its capabilities.
 
-
-117. From the Basic Settings step, configure the following settings.  For Process Name, Start Date, and End Date
+117. From the **Basic Settings** step, configure the following parameters.  For Process Name, Start Date, and End Date
      feel free to use those provided in the image, or set your own
 
 <img src="./images/image5.png" style="width:800px;height:556px;"/>
@@ -80,7 +75,7 @@ illustrate its capabilities.
      in the TE_2023_SAC_Planning_DA261 Workspace).
      Click the **OK** button.
 
-<img src="./images/image7.png" style="width:800px;height:556px;"/>     
+<img src="./images/image7.png" style="width:800px;height:556px;"/>
 
 120. Navigate
      to  **Step 2** .
@@ -101,10 +96,10 @@ flow or using the scroll bar on the right of the dialog.  Feel free to test this
 <img src="./images/image9.png" style="width:800px;height:556px;"/>
 
 122. The **Event Types** step allows us
-    to define the specific types of tasks we want to configure.  In our case we will select General Task and Review
-    Tasks, and we will also include a Data Locking Task and create an overriding
-    process group for our tasks.  Configure
-    the Event types step as follows.
+     to define the specific types of tasks we want to configure.  In our case we will select General Task and Review
+     Tasks, and we will also include a Data Locking Task and create an overriding
+     process group for our tasks.  Configure
+     the Event types step as follows.
 
 <img src="./images/image10.png" style="width:800px;height:576px;"/>
 
@@ -216,8 +211,8 @@ free to review the other settings in the detail panel of the task.  For our fina
 <img src="./images/image20.png" style="width:700px;height:410px;"/>
 
 132. In the Activate dialog select the Activate process
-    (without role transfer).  Click the
-    Activate button.
+     (without role transfer).  Click the
+     Activate button.
 
 <img src="./images/image21.png" />
 
