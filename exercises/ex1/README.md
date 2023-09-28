@@ -211,7 +211,7 @@ computer.
     the canvass near the top of the tab (note that the widget label will
     disappear once you have finished positioning the widget)
 
-<img src="./images/image30.png" style="width:653px;height:573px;"/>
+<img src="./images/image30.png" style="width:553px;height:473px;"/>
 
 28. From the insert menu let's add a new **Button** (we'll use this to
     call our custom widget)
