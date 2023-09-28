@@ -34,66 +34,79 @@ settings and so on.
 
 <img alt="image" src="./images/image2.png" style="width:624.0px;height:433.26624px;"/>
 
-2. The stories that you will work on are located within the **Stories**
-   folder within the Workspace TE_2023_SAC_Planning_DA261. First select
-   the appropriate workspace and click on the **DA261 Exercise
-   Content** folder.
+2. The stories that you will work on are located within
+   the  **DA261 – Exercise Content** /**Starting Dashboards** folder within
+   the Workspace  **TE_2023_SAC_Planning_DA261** .   First select the appropriate workspace and
+   click on the **DA261 Exercise Content** folder.
 
-<img src="./images/image3.png" style="width:580.608px;height:218.72064px;"/>
+<img src="./images/image3.png" />
 
-3. Within the folder you will see a starting dashboard, and dashboards
-   to represent the expected results at the end of exercise 1 and
-   exercise 2 respectively. The data models used by the stories can be
-   found in the **Models** folder within the root folder of the
-   workspace. In addition, you can see the data models that are used
-   for the dashboards. Let\'s start by creating a copy of the Starting
-   Dashboard and copy that to your specific user folder under **User
-   Dashboards** folder. Click on the checkbox for the **Exercise 1
-   Dashboard**.
+3. Within the
+   folder you will see several folders and a single file.  Let's start by creating a copy of the **Starting
+   Dashboard** (within that folder are dashboard samples checkpointed at
+   the start of each exercise) and the **DA261_SALESPLAN_QUANTITY.xlsx** file.  We will copy these to a specific folder
+   (which you will create) for your user under **User Dashboards** folder.
+   First select the **Starting Dashboards** folder and **DA261_SALESPLAN_QUANTITY.xlsx**
+   file.
 
-<img src="./images/image4.png" style="width:585.61344px;height:207.78048px;"/>
+<img src="./images/image4.png" />
 
 4. Click on the **Copy To** icon
 
-<img src="./images/image5.png" style="width:589.66944px;height:209.40864px;"/>
+<img src="./images/image5.png" />
 
 5. Click on **TE_2023_SAC_Plannning_DA261** to navigate back to the
-   root folder. Click on the **DA261- User Content** folder, and then
-   click on the subfolder relevant for your UserID (e.g., **USER01**)
-6. Click **OK**
+   root folder. Click on the **DA261- User Content** folder
 
-```{=html}
-<!-- -->
-```
+<img src="./images/image6_1.png" />
 
-7. In order to access the copied story, click
-   **TE_2023_SAC_Plannning_DA261**, and click on the subfolder for your
-   user (e.g. **USER01)** 
+6. Click Create new folder
 
-<img alt="image" src="./images/image6.png" style="width:624.0px;height:145.66656px;"/>
+<img src="./images/image6_5.png" />
 
-8. Click on the dashboard, **DA261 -- Dashboard -- Exercise 1 --
-   Start**
+7. Enter your UserID to create the folder (e.g., UserXX
+   where XX is your specific user number.
+   This will be used in place of  **Lester** , which is used in this walk-through)
+   and click **OK
 
-<img src="./images/image7.png" style="width:624.0px;height:165.53376px;"/>
+<img src="./images/image6_7.png" />
 
-9. Once the dashboard is open select the **Save As** from the File menu
+8. Click on the
+   newly created folder to open the folder within the **Copy Folder to**
+   dialog and then click **OK** to copy the files
 
-<img src="./images/image8.png" style="width:624.0px;height:232.287744px;"/>
+<img src="./images/image6_9.png" />
 
-10. Navigate back to the root folder for your user by clicking on your
+9. Navigate to the
+   newly create folder by clicking on the **TE_2023_SAC_Plannning_DA261** Workspace
+   followed by the **DA261 - User Content** folder
+
+<img src="./images/image7_1.png" "/>
+
+10. Now open the folder with your UserID (e.g., **USER01**) and the subfolder **Starting Dashboards**
+
+  
+12. Click on the dashboard, **DA261 – Dashboard – Exercise 1 –  Start**
+
+<img src="./images/image7.png" "/>
+
+13. Once the dashboard is open select the **Save As** from the File menu
+
+<img src="./images/image8.png" "/>
+
+14. Navigate back to the root folder for your user by clicking on your
     username in the file path at the top of the Save As dialog
 
-<img src="./images/image9.png" style="width:482.37216px;height:339.79967999999997px;"/>
+<img src="./images/image9.png" />
 
-11. Change the name of the file to **CycleBros -- FP&A Dashboard** and
+15. Change the name of the file to **CycleBros -- FP&A Dashboard** and
     click **OK**
 
-<img src="./images/image10.png" style="width:484.09632px;height:342.79776px;"/>
+<img src="./images/image10.png" style="width:724px;height:494px;"/>
 
-12. You are ready to begin!
+16. You are ready to begin!
 
-<img src="./images/image11.png" style="width:624.0px;height:394.13375999999994px;"/>
+<img src="./images/image11.png" style="width:824px;height:534px;"/>
 
 **Summary**
 

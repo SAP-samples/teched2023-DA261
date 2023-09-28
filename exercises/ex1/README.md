@@ -149,8 +149,7 @@ and repoint it.
 
 <img src="./images/image17.png" />
 
-16. Click on the chart (to ensure it is selected) and open the **Right
-    Side Panel.** If not already active, toggle the **Builder** panel
+16. Click on the chart (to ensure it is selected) and open the right-side panel.  If not already active, toggle the **Builder** panel
 
 <img src="./images/image18.png" style="width:758px;height:367px;"/>
 
@@ -158,7 +157,7 @@ and repoint it.
 
 <img src="./images/image19.png" style="width:527px;height:284px;"/>
 
-18. Select **OK** on the resulting warning message
+18. Select **OK** on the resulting warning message.
 
 <img src="./images/image20.png" />
 
@@ -236,9 +235,9 @@ information during the file upload process, and 2) process the data into
 the model once the file upload is complete including reporting any
 errors and a reject file if some records are not loaded.
 
-30. If it is not already visible, then open the left side panel. Select
+30. If it is not already visible, then open the left-side panel. Select
     the **UploadXLS_1** which should appear within the
-    **SalesPlanEntry** page in the **Outline** menu
+    SalesPlanEntry page in the Outline menu
 
 <img src="./images/image33.png" style="width:697px;height:522px;"/>
 
@@ -270,7 +269,9 @@ errors and a reject file if some records are not loaded.
 
 <img src="./images/image35.png" style="width:889px;height:372px;"/>
 
-33. Click on the **Edit Scripts** button and select the **onDataUpload**
+🚩 The above code we have just inserted is meant to provide feedback to end-user while their file is upload to the server.
+
+34. Click on the **Edit Scripts** button and select the **onDataUpload**
     event
 
 <img src="./images/image36.png" style="width:372px;height:234px;"/>
@@ -298,7 +299,9 @@ sdk_com_sap_sample_uploadxls\_\_2_JobStatus.COMPLETED_WITH_FAILURES){*
 
 <img src="./images/image37.png" style="width:889px;height:372px;"/>
 
-35. Click on the **Edit Scripts** button and select the
+🚩 This segment of code is meant to checks the status of the processing of the upload file and refreshes our numeric point chart once the data refresh is complete.
+
+36. Click on the **Edit Scripts** button and select the
     **onFailedUpload** event
 
 <img src="./images/image38.png" style="width:334px;height:269px;"/>
@@ -354,7 +357,9 @@ error uploading the Excel data\');*
 
 <img src="./images/image41.png" style="width:889.89888px;height:352.28224px;"/>
 
-40. Click the **File \> Save** menu to save your dashboard
+🚩 The button code handling mapping of our source file to the model (i.e., maps column in the input file to the target model dimensions and handles any default dimensions/values that may not exist in the source file), and calls the processing of the custom widget to push the data into the model.
+
+41. Click the **File \> Save** menu to save your dashboard
 
 <img src="./images/image42.png" style="width:438px;height:231px;"/>
 
