@@ -95,7 +95,7 @@ drill level for our P&L in the table widget.
 
 ⚠️**Quality Check!** Does your dashboard look like this?
 
-<img src="./images/image9.png" style="width:716px;height:488px;"/>
+<img src="./images/image9.png" style="width:816px;height:578px;"/>
 
 🚩 Now that we have updated the Financial Overview, we are next going to
 make some preliminary changes to the Sales Plan Entry tab to prepare for
