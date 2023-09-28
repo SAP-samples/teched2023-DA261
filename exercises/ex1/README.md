@@ -83,19 +83,19 @@ drill level for our P&L in the table widget.
 
 <img src="./images/image6.png" style="width:716px;height:488px;"/>
 
-6. Finally, let's change the default drill depth in our table by first
+7. Finally, let's change the default drill depth in our table by first
    right-clicking on the **SAP_XPA_ACCOUNT** dimension header within
    the table. Select **Drill** \> **Level 4**
 
 <img src="./images/image7.png" style="width:680px;height:387px;"/>
 
-7. Click **File/Save** to save your dashboard updates
+8. Click **File/Save** to save your dashboard updates
 
 <img src="./images/image8.png" style="width:572px;height:366px;"/>
 
 ⚠️**Quality Check!** Does your dashboard look like this?
 
-<img src="./images/image9.png"/>
+<img src="./images/image9.png" style="width:716px;height:488px;"/>
 
 🚩 Now that we have updated the Financial Overview, we are next going to
 make some preliminary changes to the Sales Plan Entry tab to prepare for
@@ -104,7 +104,7 @@ first will simplify review of total units planned, while the second will
 introduce a custom widget to provide a mechanism for end-users to
 directly upload their sales plan numbers from csv or xls.
 
-8. Navigate to the **Sales Plan Entry** tab, and review the template
+9. Navigate to the **Sales Plan Entry** tab, and review the template
 
 <img src="./images/image10.png"  style="width:615px;height:380px;"/>
 
@@ -114,8 +114,8 @@ well, but we want to make it more prominent the end-user. Rather than
 inserting a net-new chart, we are going to duplicate an existing object
 and repoint it.
 
-9. Navigate back to the **Financial Overview** tab, and select the Unit
-   Sales numeric point chart
+10. Navigate back to the **Financial Overview** tab, and select the Unit
+    Sales numeric point chart
 
 <img src="./images/image11.png" style="width:809px;height:376px;"/>
 
