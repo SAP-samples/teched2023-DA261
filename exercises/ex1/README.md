@@ -293,8 +293,6 @@ sdk_com_sap_sample_uploadxls\_\_2_JobStatus.COMPLETED_WITH_FAILURES){*
 
 *SP_US_FY_CHT.getDataSource().refreshData();*
 
-*console.log(this.getUploadResult().jobStatus);*
-
 <img src="./images/image37.png" style="width:889px;height:372px;"/>
 
 🚩 This segment of code is meant to checks the status of the processing of the upload file and refreshes our numeric point chart once the data refresh is complete.
@@ -363,7 +361,7 @@ error uploading the Excel data\');*
 
 🚩 In the final step of exercise 1, we will test our template changes,
 including our upload widget. Recall where you saved the
-DA261_SALESPLAN_QUANTITY.xlsx file in the getting started section as we will
+**DA261_SALESPLAN_QUANTITY.xlsx** file in the getting started section as we will
 use that file for our testing. Also note that we have not fully coded
 the upload button as we would in a production scenario (e.g., process
 cancellation, error trapping) due to time considerations, so proceed
@@ -383,7 +381,7 @@ reloading your story (**View** \> **Reload this Page** in Chrome)
 
 <img src="./images/image45.png" style="width:614px;height:392px;"/>
 
-44. From the file system dialog, locate the **SalesPlan_Quantity.xls**
+44. From the file system dialog, locate the **DA261_SALESPLAN_QUANTITY.xlsx**
     file on your local machine and click **OK**
 
 🚩 At this point you should see a popup dialog indicating that 1008 rows
