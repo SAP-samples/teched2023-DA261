@@ -28,7 +28,7 @@ settings and so on.
 <img alt="image" src="./images/image1.png" style="width:624.0px;height:334.93344px;"/>
 
 1. First, you want to access existing dashboards that we have created
-   for TechEd. In the left side panel, click the **Files** icon.
+   for TechEd. In the left-side panel, click the **Files** icon.
 
 <img alt="image" src="./images/image2.png" style="width:624.0px;height:433.26624px;"/>
 
