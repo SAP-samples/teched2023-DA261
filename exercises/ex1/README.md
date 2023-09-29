@@ -10,9 +10,7 @@ to improve our planning template.
 **Exercise Description:**  CycleBros is a German headquartered multinational
 recreational bike manufacturer and distributor. You are an FP&A analyst
 for CycleBros, and you are looking to make changes to existing dashboard
-to support the upcoming planning cycle, including some customization for
-specific changes occurring in the US region and end-user requested
-enhancements.
+to support the upcoming planning cycle,  These include customizations specifically for the US region.
 
 **Key Features:**
 
