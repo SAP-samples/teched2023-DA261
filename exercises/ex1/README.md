@@ -221,7 +221,7 @@ computer.
 29. Open up the styling menu of the button and change the settings to
     the following
 
-<img src="./images/image32.png" style="width:232px;height:629px;"/>
+<img src="./images/image32.png" style="width:292px;height:729px;"/>
 
 🚩 Finally, we need to add JavaScript to trigger events in both the
 custom widget and the button to call the custom widget. The custom
@@ -365,7 +365,7 @@ error uploading the Excel data\');*
 
 🚩 In the final step of exercise 1, we will test our template changes,
 including our upload widget. Recall where you saved the
-SalesPlan_Quantity.xls file in the getting started section as we will
+DA261_SALESPLAN_QUANTITY.xlsx file in the getting started section as we will
 use that file for our testing. Also note that we have not fully coded
 the upload button as we would in a production scenario (e.g., process
 cancellation, error trapping) due to time considerations, so proceed
