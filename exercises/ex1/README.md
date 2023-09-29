@@ -12,7 +12,7 @@ recreational bike manufacturer and distributor. You are an FP&A analyst
 for CycleBros, and you are looking to make changes to existing dashboard
 to support the upcoming planning cycle,  These include customizations specifically for the US region.
 
-**Key Features:**
+**Key Outcomes:**
 
 - Basic navigation of the dashboard
 - Inclusion of new widgets and minor changes to existing widget
