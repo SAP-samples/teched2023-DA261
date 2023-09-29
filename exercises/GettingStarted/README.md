@@ -90,7 +90,7 @@ settings and so on.
 
 <img src="./images/image7_3.png"/>
 
-13. Once the dashboard is open select the **Save As** from the File menu
+13. Once the dashboard is open select the **Save As...** from the File menu
 
 <img src="./images/image8.png"/>
 
@@ -99,7 +99,7 @@ settings and so on.
 
 <img src="./images/image9.png"/>
 
-15. Change the name of the file to **CycleBros -- FP&A Dashboard** and
+15. Change the name of the file to **CycleBros - FP&A Dashboard** and
     click **OK**
 
 <img src="./images/image10.png" style="width:724px;height:494px;"/>
