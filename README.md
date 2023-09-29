@@ -21,7 +21,7 @@ Users: [User List](https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx
 
 ## Exercises
 
-There are three exercises that you will run through within this session. These exercises are meant to build on top of one another to provide a simplistic end-to-end planning and analysis scenario.
+There are three exercises that you will run through within this session. These exercises are meant to build on top of one another to cover a simplistic end-to-end planning and analysis scenario.
 
 * [Getting Started](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/GettingStarted)
 * [Exercise 1 – Plan Story Navigation and Enrichment](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex1)
