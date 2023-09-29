@@ -71,7 +71,7 @@ settings and so on.
 
 8. Click on the
    newly created folder to open the folder within the **Copy Folder to**
-   dialog and then click **OK** to copy the files
+   dialog, and then click **OK** to copy the files
 
 <img src="./images/image6_9.png" />
 
