@@ -1,9 +1,9 @@
 # Exercise 2 - Advanced Planning with Data Actions and Multi Actions
 
 **Objective:** You will develop a basic understanding how to create and
-execute data action and multi actions. You will explore data action
+execute data actions and multi actions. You will explore data action
 tracing, which is useful for debugging data actions and will create
-parameters to streamline the execution of data/multi actions
+parameters to streamline the execution of data/multi actions.
 
 **Estimated Time:** 50 min
 
