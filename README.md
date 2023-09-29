@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2023 session called **D
 
 ## Overview
 
-This session is aimed at participants who have some familiar in financial planning and related topics, and ideally with some previous experience using SAP Analytics Cloud. The purpose of the session is to cover several recently introduced capabilities or enhancements which can improve planning workflows, including improvements in story construction and plan capture, data actions and multi actions, and calendar management.
+This session is aimed at participants who have familiarity with financial planning and related topics, and ideally who have some previous experience using SAP Analytics Cloud. The purpose of the session is to cover several recently introduced capabilities or enhancements which can improve planning workflows, including improvements in story construction and plan capture, data actions and multi actions, and calendar management.
 
 ## Instructions to Logon to Tenant
 
