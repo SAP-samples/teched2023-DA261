@@ -28,14 +28,14 @@ inconsistencies which are not addressed therein, please check with your
 instructor.
 
 🚩As a FP&A Analyst for CycleBros, we are interested in extending the
-existing dashboard that incorporates Business Intelligence and Planning.
+existing dashboard that covers performance reporting and plan entry.
 Start by reviewing the initial dashboard. You will notice that we have 2
-tabs. The tab first is tracking financial performance for the current
-year (currently filtered to All Regions and the current close period --
+tabs. The first tab is tracking financial performance for the current
+year (currently filtered to All Regions and the current close period -
 Oct 2023). In the second tab, we have a sales plan entry template which
 is meant to capture sales quantity forecasts by period for each of
-products. Note that we have included a couple of input controls (i.e.,
-plan version and user) which are already selected and are not meant to
+our products. Note that we have included a couple of input controls (i.e.,
+plan version and user) on that tab which are already selected and are not meant to
 be modified during the exercise (this is to simplify data capture and
 data segregation for TechEd). Additionally, for the purposes simplicity
 we have narrowed the exercises to primarily focus on the US region. We
@@ -52,7 +52,7 @@ Let's start by editing the dashboard!
 
 🚩 The first thing we want to do is make some end-user requested changes
 to the Financial Overview page. This include updating the dashboard
-title to dynamic reflect our region filter selection, changing the
+title to dynamically reflect our region filter selection, changing the
 default filter for region to focus on the US, and modifying the default
 drill level for our P&L in the table widget.
 
@@ -87,7 +87,7 @@ drill level for our P&L in the table widget.
 
 <img src="./images/image7.png" style="width:680px;height:387px;"/>
 
-8. Click **File/Save** to save your dashboard updates
+8. Click **File/Save** on the toolbar menu to save your dashboard updates
 
 <img src="./images/image8.png" style="width:572px;height:366px;"/>
 
