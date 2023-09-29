@@ -14,13 +14,13 @@ the exercise, we will transfer our sales plan to our financial plan.
 
 **Key Features:**
 
-- Creation of data action to streamline calculations.
+- Creation of a data action to calculate and aggregat plan results
 
-  - Create data action parameters to streamline execution.
-  - Create a simple advanced formula for sales revenue calculation.
-  - Create an allocation rule to allocate retail expenses.
+  - Create data action parameters to streamline execution
+  - Create a simple advanced formula for sales revenue calculation
+  - Create an allocation rule to allocate retail expenses
   - Creating a cross model copy rule, which aggregates data based on
-    region.
+    region
 - Executing a trace on a data action and reviewing results.
 - Creating a multi-action to orchestrate data actions.
 - Format trigger within the story and map parameters.
