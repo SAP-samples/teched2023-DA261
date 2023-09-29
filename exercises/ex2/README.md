@@ -7,7 +7,7 @@ parameters to streamline the execution of data/multi actions.
 
 **Estimated Time:** 50 min
 
-**Exercise Description:**  Now that the sales quantity has been uploaded
+**Exercise Description:**  Now that we have sample sales quantities that have been uploaded
 to the sales model, we are going to create a data action to calculate
 sales revenue and an allocation to distribute retail returns to the
 product level based on our expected sales revenue. In the last step of
