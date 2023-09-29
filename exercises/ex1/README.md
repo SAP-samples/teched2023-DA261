@@ -108,7 +108,7 @@ directly upload their sales plan numbers from csv or xls.
 
 🚩 We want to add a a numeric point chart to track full year total
 quantity planned. This number will ultimately be visible in the table as
-well, but we want to make it more prominent the end-user. Rather than
+well, but we want to make it more prominent for the end-user. Rather than
 inserting a net-new chart, we are going to duplicate an existing object
 and repoint it.
 
@@ -121,7 +121,7 @@ and repoint it.
 
 <img src="./images/image12.png" style="width:617px;height:332px;"/>
 
-11. Navigate to the **Sales Plan Entry** tab
+11. Ensure you are on the **Sales Plan Entry** tab (you should have been taken there directly during the copy)
 
 <img src="./images/image13.png" style="width:819px;height:507px;"/>
 
@@ -131,7 +131,7 @@ and repoint it.
 
 <img src="./images/image14.png" style="width:763px;height:457px;"/>
 
-13. Highlight the **YTD -- Oct, 2023** in the widget title and click the
+13. Highlight the **YTD - Oct, 2023** in the widget title and click the
     delete key (note that the Oct, 2023 is dynamic text referencing the
     Current Date story filter)
 
@@ -197,7 +197,7 @@ going to introduce some scripting components to leverage a custom widget
 allowing end-users to directly upload a csv or xls from their local
 computer.
 
-25. Open the left side panel
+25. Open the left-side panel
 
 <img src="./images/image28.png" style="width:711px;height:435px;"/>
 
