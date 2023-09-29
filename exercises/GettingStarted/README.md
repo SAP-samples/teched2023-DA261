@@ -81,7 +81,7 @@ settings and so on.
 
 <img src="./images/image7_1.png"/>
 
-10. Now open the folder with your UserID (e.g., **USER01**)
+10. Now open the folder you created (e.g., **User01**)
 11. Click on the file **DA261_SALESPLAN_QUANTITY.xlsx**, and select a location on your local machine to store the file (preferably on the Desktop).  Remember this location as you will utilize this file later in excercise 1.
 
 <img src="./images/image7_2.png"/>
