@@ -7,7 +7,7 @@ to improve our planning template.
 
 **Estimated Time:** 25 min
 
-**Exercise Description:**  CycleBros is a Germany headquartered
+**Exercise Description:**  CycleBros is a German headquartered multinational
 recreational bike manufacturer and distributor. You are an FP&A analyst
 for CycleBros, and you are looking to make changes to existing dashboard
 to support the upcoming planning cycle, including some customization for
