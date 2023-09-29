@@ -386,7 +386,7 @@ reloading your story (**View** \> **Reload this Page** in Chrome)
 <img src="./images/image45.png" style="width:614px;height:392px;"/>
 
 44. From the file system dialog, locate the **SalesPlan_Quantity.xls**
-    file and click **OK**
+    file on your local machine and click **OK**
 
 🚩 At this point you should see a popup dialog indicating that 1008 rows
 are being uploaded from the Excel file. This upload may take a few
