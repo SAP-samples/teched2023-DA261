@@ -1,6 +1,6 @@
 # **Getting Started**
 
-**Objective:** Before we get started on the exercises, we will show you
+**Objective:** Before we get begin the exercises, we will show you
 how to get started in SAP Analytics Cloud and ensure that you are ready
 for the exercises.
 
