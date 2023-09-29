@@ -79,25 +79,25 @@ settings and so on.
    newly create folder by clicking on the **TE_2023_SAC_Plannning_DA261** Workspace
    followed by the **DA261 - User Content** folder
 
-<img src="./images/image7_1.png" "/>
+<img src="./images/image7_1.png"/>
 
 10. Now open the folder with your UserID (e.g., **USER01**)
 11. Click on the file **DA261_SALESPLAN_QUANTITY.xlsx**, and select a location on your local machine to store the file (preferably on the Desktop).  Remember this location as you will utilize this file later in excercise 1.
 
-<img src="./images/image7_2.png" "/>
+<img src="./images/image7_2.png"/>
 
 12. Once the file download is complete, open the **Starting Dashboards** folder, and click on the dashboard, **DA261 – Dashboard – Exercise 1 –  Start**
 
-<img src="./images/image7_3.png" "/>
+<img src="./images/image7_3.png"/>
 
 13. Once the dashboard is open select the **Save As** from the File menu
 
-<img src="./images/image8.png" "/>
+<img src="./images/image8.png"/>
 
 14. Navigate back to the root folder for your user by clicking on your
     username in the file path at the top of the Save As dialog
 
-<img src="./images/image9.png" />
+<img src="./images/image9.png"/>
 
 15. Change the name of the file to **CycleBros -- FP&A Dashboard** and
     click **OK**
