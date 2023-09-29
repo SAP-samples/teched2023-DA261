@@ -211,21 +211,21 @@ computer.
 
 <img src="./images/image30.png" style="width:553px;height:473px;"/>
 
-28. From the insert menu let's add a new **Button** (we'll use this to
+28. From the insert menu let's add a new **Button** (we will use this to
     call our custom widget)
 
 <img src="./images/image31.png" style="width:623px;height:340px;"/>
 
 29. Open up the styling menu of the button and change the settings to
-    the following
+    the following (the button background should be set to dark blue or black for contrast purposes)
 
 <img src="./images/image32.png" style="width:292px;height:729px;"/>
 
 🚩 Finally, we need to add JavaScript to trigger events in both the
 custom widget and the button to call the custom widget. The custom
 widget includes multiple custom events (part of the widget code itself),
-but in the interest of time we will only populate two of these with
-script. Upon click, the button we inserted in the previous step will
+but in the interest of time we will not populate all of these with
+script. The button we inserted in the previous step will, within it's code,
 define a series of mappings (based on a predefined structure of the
 upload file to the model we are uploading the data into), and then call
 the custom widget. The custom widget has events to 1) display status
