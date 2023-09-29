@@ -168,7 +168,7 @@ and repoint it.
 
 <img src="./images/image22.png" />
 
-21. Configure the builder panel as displayed in the image below
+21. Configure the builder panel as displayed in the image below (note: ensure you remove the filter reference to version)
 
 <img src="./images/image23.png" />
 
