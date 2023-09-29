@@ -17,7 +17,7 @@ We will be using a provided SAP Analytics Cloud Tenant for these exercises. You 
 Tenant URL:
 [https://external-sac-pm.eu10.hcs.cloud.sap/](https://external-sac-pm.eu10.hcs.cloud.sap/)
 
-Users: [User List](https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx1rcGT36jCRgkCMv7jbnpuk/edit?usp=sharing "https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx1rcGT36jCRgkCMv7jbnpuk/edit?usp=sharing")
+Users: [User List](https://docs.google.com/spreadsheets/d/1SlgzmUAQDo6KQ5_T_t9WMkQflqNAWdvfjW4vfXsxVpg/edit#gid=0 "https://docs.google.com/spreadsheets/d/1SlgzmUAQDo6KQ5_T_t9WMkQflqNAWdvfjW4vfXsxVpg/edit#gid=0")
 
 ## Exercises
 
