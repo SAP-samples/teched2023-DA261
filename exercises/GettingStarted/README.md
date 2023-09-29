@@ -1,8 +1,6 @@
 # **Getting Started**
 
-**Objective:** Before we get begin the exercises, we will show you
-how to get started in SAP Analytics Cloud and ensure that you are ready
-for the exercises.
+**Objective:** Learn basic navgiation within SAP Analtyics Cloud, and copy the necessary content in preparation for the upcoming exercises.
 
 **Estimated Time:** 5 min
 
