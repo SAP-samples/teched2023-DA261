@@ -362,7 +362,7 @@ identical to what is shown below.
     sub-regions assigned to the United States in our sales plan that
     have been aggregated to just the United States in our finance plan.
 
-<img src="./images/image52.png" style="width:408px;height:310px;"/>
+<img src="./images/image52.png" style="width:608px;height:440px;"/>
 
 92. For the region, select **Identical names (including Ancestors)** to
     map the subregions from the sales plan to the region in the finance
