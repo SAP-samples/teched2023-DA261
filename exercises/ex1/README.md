@@ -389,7 +389,7 @@ reloading your story (**View** \> **Reload this Page** in Chrome)
 🚩 At this point you should see a popup dialog indicating that 1008 rows
 are being uploaded from the Excel file. This upload may take a few
 moments after which you should see the dashboard refresh with the upload
-quantities.
+quantities.  If you are having difficulties with this step, please try refreshing your browser window.
 
 ⚠️**Quality Check!** Does your refreshed dashboard (including upload
 results) look like this? Note: the Plan_Contributor input control will
