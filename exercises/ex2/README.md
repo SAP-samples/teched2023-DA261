@@ -283,7 +283,7 @@ identical to what is shown below.
 80. Please give the data action a name like "Cross-Model Copy Step" and
     then select our Finance model from the exercise.
 
-<img src="./images/image41.png"/>
+<img src="./images/image41.png" style="width:750px;height:315px;"/>
 
 81. We are going to save this data action to our personal folder. Note
     that when creating models, stories and data/multi-actions, that
@@ -392,7 +392,7 @@ identical to what is shown below.
     transfer what source version we would like to use from our sales
     plan. Please enter the values as shown below.
 
-<img src="./images/image57.png" style="width:289px;height:595px;"/>
+<img src="./images/image57.png" style="width:359px;height:725px;"/>
 
 97. We are now going to add another parameter for our userID. While we
     would not normally run a data action by user id, we have added this
@@ -414,7 +414,7 @@ identical to what is shown below.
 
 100. Please create the version as shown below.
 
-> <img src="./images/image61.png" style="width:289px;height:595px;"/>
+> <img src="./images/image61.png" style="width:359px;height:725px;"/>
 
 101. Select the + button and then add a **Data Action Step**. This is
      where we will start to attach the data actions we previously created
