@@ -164,7 +164,7 @@ de-selected from the meu to replicate this view.
     price, which is stored at the Unassigned region multiplied by the
     sales quantity we uploaded from our excel file.
 
-<img src="./images/image21.png" style="width:500px;height:325px;"/>
+<img src="./images/image21.png" />
 
 ⚠️**Quality Check!** Please check that your advanced formula is
 identical to what is shown below.
