@@ -392,7 +392,7 @@ identical to what is shown below.
     transfer what source version we would like to use from our sales
     plan. Please enter the values as shown below.
 
-<img src="./images/image57.png" style="width:289.px;height:595px;"/>
+<img src="./images/image57.png" style="width:289px;height:595px;"/>
 
 97. We are now going to add another parameter for our userID. While we
     would not normally run a data action by user id, we have added this
@@ -403,18 +403,18 @@ identical to what is shown below.
 
 98. Please create the parameter as shown below.
 
-<img src="./images/image59.png" style="width:289.px;height:595px;"/>
+<img src="./images/image59.png" style="width:289px;height:595px;"/>
 
 99. We are now going to create another parameter for the target version.
     Note that for this exercise we could have just hard-coded these
     values, but have chosen to include them as parameters to make them
     more dynamic.
 
-<img src="./images/image60.png" style="width:320px;height:280px;"/>
+<img src="./images/image60.png" style="width:280px;height:280px;"/>
 
 100. Please create the version as shown below.
 
-> <img src="./images/image61.png" style="width:289.px;height:595px;"/>
+> <img src="./images/image61.png" style="width:289px;height:595px;"/>
 
 101. Select the + button and then add a **Data Action Step**. This is
      where we will start to attach the data actions we previously created
