@@ -175,7 +175,7 @@ identical to what is shown below.
     retail returns to our sub-regions (i.e. North, East, South and
     West).
 
-<img src="./images/image23.png" style="width:454px;height:182px;"/>
+<img src="./images/image23.png" style="width:554px;height:222px;"/>
 
 65. Configure the allocation rules as shown and then save your rule. In
     this case, we have already planned retail return values for 2024 for
@@ -265,7 +265,7 @@ identical to what is shown below.
 
 <img src="./images/image37.png"/>
 
-<img src="./images/image38.png"/>
+<img src="./images/image38.png" style="width:600px;height:125px;"/>
 
 78. In case you have not done so before, please **Save** your data
     action. When we created the data action, we did it from our personal
