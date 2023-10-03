@@ -441,12 +441,12 @@ identical to what is shown below.
      you will need to save the Multi Action to your personal folder,
      which will be shown in the following step.
 
-<img src="./images/image65.png" style="width:624.0px;height:389.53344000000004px;"/>
+<img src="./images/image65.png"/>
 
 105. Save the Multi Action to your personal folder. Please give it a name
      like "Calc_Sales_and_Aggregate"
 
-<img src="./images/image66.png" style="width:624.0px;height:441.26687999999996px;"/>
+<img src="./images/image66.png" style="width:624x;height:441px;"/>
 
 106. Open your main user story that we created in the first part of the
      exercise.
@@ -474,14 +474,14 @@ identical to what is shown below.
      any color, we have provided a hex number as well for a particular
      shade of blue.
 
-<img src="./images/Step 110.png"/>
+<img src="./images/Step 110.png" style="width:210px;height:585px;"/>
 
 
 111. Please reposition the Multi Action and then **Save** your story. We
      will then select the **View** mode as we get ready to execute the
      Multi Action.
 
-<img src="./images/Step 111.png" />
+<img src="./images/Step 111.png"/>
 
 Navigate to the Sales Plan Entry Page.
 
