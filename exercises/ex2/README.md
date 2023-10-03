@@ -348,7 +348,7 @@ identical to what is shown below.
 
 89. Select the measures mapping so we can edit the mapping rules.
 
-<img src="./images/image50.png" style="width:524px;height:363px;"/>
+<img src="./images/image50.png" style="width:524px;height:393px;"/>
 
 90. We are going to create a user defined rule to map the Amount from
     the sales plan to Local Currency in our finance plan. We are also
