@@ -81,18 +81,18 @@ transfer to the finance plan near the end of the exercise.
 
 51. Acknowledge the warning and then select the finance model.
 
-<img src="./images/image7.png" />
+<img src="./images/image7.png" style="width:626px;height:124px;"/>
 
-<img src="./images/image8.png" style="width:416px;height:354px;"/>
+<img src="./images/image8.png" style="width:386px;height:324px;"/>
 
 52. Set the table layout and filters as shown
 
 <img src="./images/image9.png" style="width:316px;height:599px;"/>
   
   
-<img src="./images/Step 52 +.png"/>
+<img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>
 
-<img src="./images/Step 52 ++.png"/>
+<img src="./images/Step 52 ++.png" style="width:286px;height:324px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
@@ -120,14 +120,14 @@ de-selected from the meu to replicate this view.
     extend this data action to allocate Retail Returns to the subregions
     of the United States based on our calculated Gross Sales values.
 
-<img src="./images/image14.png" style="width:624px;height:289px;"/>
+<img src="./images/image14.png" style="width:824px;height:389px;"/>
 
 57. Enter a name like "Calculate_Sales\_&\_Returns" and select the Sales
     Model from the model folder within our workspace. This is the same
     sales model we were using when we were creating our story. When
     complete, save the data action to your folder.
 
-<img src="./images/image15.png" style="width:624px;height:303px;"/>
+<img src="./images/image15.png" style="width:824px;height:403px;"/>
 
 58. Validate that you are saving the data action to your user folder.
 
