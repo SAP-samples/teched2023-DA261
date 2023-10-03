@@ -426,7 +426,7 @@ identical to what is shown below.
      should be stored in your user folder. Please configure the
      parameters as well.
 
-<img src="./images/image63.png" style="width:320px;height:545px;"/>
+<img src="./images/image63.png" style="width:350px;height:595px;"/>
 
 103. We will now add another data action to our multi action. Note that
      when we create a data action, we can only assign a single model to
