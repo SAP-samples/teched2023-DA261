@@ -92,7 +92,7 @@ transfer to the finance plan near the end of the exercise.
   
 <img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>
 
-<img src="./images/Step 52 ++.png" style="width:286px;height:324px;"/>
+<img src="./images/Step 52 ++.png" style="width:286px;height:224px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
@@ -149,7 +149,7 @@ de-selected from the meu to replicate this view.
     advanced formula item that we were starting to configure before we
     created our parameter.
 
-<img src="./images/image19.png" style="width:624px;height:413px;"/>
+<img src="./images/image19.png" style="width:724px;height:473px;"/>
 
 62. Give the step a name like "Calculate Sales". Next configure the
     context as shown. Note that for the PLAN_CONTRIBUTOR. You will need
@@ -169,7 +169,7 @@ de-selected from the meu to replicate this view.
 ⚠️**Quality Check!** Please check that your advanced formula is
 identical to what is shown below.
 
-<img src="./images/image22.png" style="width:800px;height:391px;"/>
+<img src="./images/image22.png" style="width:900px;height:440px;"/>
 
 64. We are now going to add an allocation step so that we can allocate
     retail returns to our sub-regions (i.e. North, East, South and
