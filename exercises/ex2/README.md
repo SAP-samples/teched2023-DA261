@@ -278,19 +278,19 @@ identical to what is shown below.
 
 79. Click on the **Create New** button
 
-<img src="./images/image40.png" style="width:267px;height:266px;"/>
+<img src="./images/image40.png" style="width:367px;height:366px;"/>
 
 80. Please give the data action a name like "Cross-Model Copy Step" and
     then select our Finance model from the exercise.
 
-<img src="./images/image41.png" style="width:419.88576px;height:163.51296px;"/>
+<img src="./images/image41.png"/>
 
 81. We are going to save this data action to our personal folder. Note
     that when creating models, stories and data/multi-actions, that
     these objects can be stored within a file structure for easy
     organization.
 
-<img src="./images/image42.png" style="width:390.31776px;height:275.01599999999996px;"/>
+<img src="./images/image42.png" style="width:590px;height:415px;"/>
 
 82. We are going to create some parameters for the data action. This
     will allow us to better control the scope of the data action.
