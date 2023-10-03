@@ -235,7 +235,7 @@ errors and a reject file if some records are not loaded.
 
 30. If it is not already visible, then open the left-side panel. Select
     the **UploadXLS_1** which should appear within the
-    SalesPlanEntry page in the Outline menu
+    SalesPlanEntry page in the **Outline** menu
 
 <img src="./images/image33.png" style="width:697px;height:522px;"/>
 
@@ -292,6 +292,8 @@ sdk_com_sap_sample_uploadxls\_\_2_JobStatus.COMPLETED_WITH_FAILURES){*
 *}*
 
 *SP_US_FY_CHT.getDataSource().refreshData();*
+
+*//console.log(this.getUploadResult().jobStatus);*
 
 <img src="./images/image37.png" style="width:889px;height:372px;"/>
 
