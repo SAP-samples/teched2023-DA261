@@ -410,7 +410,7 @@ identical to what is shown below.
     values, but have chosen to include them as parameters to make them
     more dynamic.
 
-<img src="./images/image60.png" style="width:280px;height:280px;"/>
+<img src="./images/image60.png" style="width:320px;height:300px;"/>
 
 100. Please create the version as shown below.
 
@@ -420,13 +420,13 @@ identical to what is shown below.
      where we will start to attach the data actions we previously created
      to the multi-action.
 
-<img src="./images/image62.png" style="width:420px;height:293px;"/>
+<img src="./images/image62.png" style="width:620px;height:443px;"/>
 
 102. Select the data action that you have previously created, which
      should be stored in your user folder. Please configure the
      parameters as well.
 
-<img src="./images/image63.png" style="width:212.97504px;height:331.11744px;"/>
+<img src="./images/image63.png" style="width:320px;height:545px;"/>
 
 103. We will now add another data action to our multi action. Note that
      when we create a data action, we can only assign a single model to
