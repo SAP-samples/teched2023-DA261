@@ -221,7 +221,7 @@ assignments within the individual tasks.
 
 ⚠️**Quality Check!** Does
 your calendar look similar to the following (note that the dates will differ based
-on the current date on which the process was activated)? Note: you may need to  click the refresh button on the toolbar to reflect the status update.
+on the current date on which the process was activated)? Note: you may need to  click the refresh button on the toolbar to reflect the correct status.
 
 <img src="./images/image22.png" style="width:900px;height:610px;"/>
 
