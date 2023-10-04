@@ -149,7 +149,7 @@ de-selected from the meu to replicate this view.
     advanced formula item that we were starting to configure before we
     created our parameter.
 
-<img src="./images/image19.png" style="width:724px;height:473px;"/>
+<img src="./images/Step 61.png"style="width:724px;height:473px;"/>
 
 62. Give the step a name like "Calculate Sales". Next configure the
     context as shown. Note that for the PLAN_CONTRIBUTOR. You will need
@@ -403,7 +403,7 @@ identical to what is shown below.
 
 98. Please create the parameter as shown below.
 
-<img src="./images/image59.png" style="width:289px;height:595px;"/>
+<img src="./images/Step 98.png" style="width:289px;height:595px;"/>
 
 99. We are now going to create another parameter for the target version.
     Note that for this exercise we could have just hard-coded these
