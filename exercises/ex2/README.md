@@ -468,7 +468,7 @@ identical to what is shown below.
      parameters as shown below. Press the formatting button so we can
      format the trigger in the next step.
 
-<img src="./images/Step 109.png" style="width:624px;height:216px;"/>
+<img src="./images/Step 109.png" style="width:424px;height:516px;"/>
 
 110. We are now going to format the trigger. While you are free to select
      any color, we have provided a hex number as well for a particular
