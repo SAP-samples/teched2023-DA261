@@ -185,7 +185,7 @@ Inactive as the predefined start date hasn’t yet arrived.  The process and the
 – represented through arrows linking the tasks in the Gantt chart).
 
 130. Select the General Task (**2023 Annual Sales Plan - United States General Task** in the image below) in the task
-     list and activate the Details side panel.
+     list and open the Details side panel.
 
 <img src="./images/image19.png" style="width:900px;height:610px;"/>
 
@@ -217,11 +217,11 @@ free to review the other settings in the detail panel of the task.  For our fina
 
 🚩 In the above
 case we do not need role transfer to be applied because we already have sufficient
-assignments within the individual tasks.
+assignments within the individual tasks. 
 
 ⚠️**Quality Check!** Does
 your calendar look similar to the following (note that the dates will differ based
-on the current date on which the process was activated)?
+on the current date on which the process was activated)? Note: you may need to  click the refresh button on the toolbar to reflect the status update.
 
 <img src="./images/image22.png" style="width:900px;height:610px;"/>
 
