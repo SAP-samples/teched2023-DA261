@@ -12,12 +12,11 @@ This session is aimed at participants who have familiarity with financial planni
 
 ## Instructions to Logon to Tenant
 
-We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
+We will be using a provided SAP Analytics Cloud Tenant for these exercises (below). The instructors for the session will provide user login details.
 
 Tenant URL:
 [https://external-sac-pm.eu10.hcs.cloud.sap/](https://external-sac-pm.eu10.hcs.cloud.sap/)
 
-Users: [User List](https://docs.google.com/spreadsheets/d/1SlgzmUAQDo6KQ5_T_t9WMkQflqNAWdvfjW4vfXsxVpg/edit#gid=0 "https://docs.google.com/spreadsheets/d/1SlgzmUAQDo6KQ5_T_t9WMkQflqNAWdvfjW4vfXsxVpg/edit#gid=0")
 
 ## Exercises
 
