@@ -457,11 +457,11 @@ identical to what is shown below.
      Entry** and then select the **Edit** button. We need to be in edit
      mode to add our newly created multi-action into our story.
 
-<img src="./images/Step 107.png" style="width:624.0px;height:352.39968px;"/>
+<img src="./images/Step 107.png"/>
 
 108. Add a **Multi Action Trigger** as shown below.
 
-> <img src="./images/image69.png" style="width:624.0px;height:216.19968px;"/>
+> <img src="./images/image69.png" style="width:624px;height:216px;"/>
 
 109. Open up the right editing pane and then select your multi action
      that you have just created form your personal folder. Assign the
