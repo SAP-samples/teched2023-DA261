@@ -414,7 +414,7 @@ identical to what is shown below.
 
 100. Please create the version as shown below.
 
-> <img src="./images/image61.png" style="width:359px;height:725px;"/>
+<img src="./images/image61.png" style="width:359px;height:725px;"/>
 
 101. Select the + button and then add a **Data Action Step**. This is
      where we will start to attach the data actions we previously created
@@ -435,7 +435,7 @@ identical to what is shown below.
      is bound to the sales plan, whereas our second data action will be
      bound to the finance plan model.
 
-> <img src="./images/image64.png" style="width:624px;height:419px;"/>
+<img src="./images/image64.png" style="width:624px;height:419px;"/>
 
 104. Configure the data action as shown and then save the multi-action.
      you will need to save the Multi Action to your personal folder,
@@ -461,7 +461,7 @@ identical to what is shown below.
 
 108. Add a **Multi Action Trigger** as shown below.
 
-> <img src="./images/image69.png" style="width:624px;height:216px;"/>
+<img src="./images/image69.png" style="width:624px;height:216px;"/>
 
 109. Open up the right editing pane and then select your multi action
      that you have just created form your personal folder. Assign the
