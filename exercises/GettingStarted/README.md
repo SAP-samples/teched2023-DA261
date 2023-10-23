@@ -115,6 +115,6 @@ move on to the exercises.**
 
 Please continue to [Exercise 1 - Plan Story Navigation and Enrichment](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex1)
 
-**Exercise Issues Log**
+***************************************************************************************************
 
-No issues.
+**Exercise Issues Log**
