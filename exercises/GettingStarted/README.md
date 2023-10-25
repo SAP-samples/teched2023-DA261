@@ -126,8 +126,8 @@ Step 9B (*between steps 9 and 10*) - While on the **Sales Plan Entry** tab click
 
 Step 9B - Before
 
-<img src="./images/9B_Before.png"/>
+<img src="./images/9B_Before.png" style="width:624px;height:434px;"/>
 
 Step 9B - After
 
-<img src="./images/9B_After.png"/>
+<img src="./images/9B_After.png" style="width:624px;height:434px;"/>
