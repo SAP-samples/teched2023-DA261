@@ -89,9 +89,9 @@ transfer to the finance plan near the end of the exercise.
 
 <img src="./images/Step 52.png" style="width:316px;height:599px;"/>
 
-<img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>`
+<img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>
 
-<img src="./images/Step 52 ++.png" style="width:286px;height:224px;"/>`
+<img src="./images/Step 52 ++.png" style="width:286px;height:224px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
