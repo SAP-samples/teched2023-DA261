@@ -63,12 +63,12 @@ transfer to the finance plan near the end of the exercise.
 48. We will now collapse the hierarchy of the report so that we are only
     looking at an overview of our sales plan.
 
-<img src="./images/Step 48.png" />
+`<img src="./images/Step 48.png" />`
 
 49. Once we close the right builder pane and resize the table, your
     results should look like this:
 
-<img src="./images/Step 49.png"/>
+`<img src="./images/Step 49.png"/>`
 
 50. We are now going to create a table that shows our Finance data. As
     part of this exercise, we are going to integrate our sales plan into
@@ -77,7 +77,7 @@ transfer to the finance plan near the end of the exercise.
     Quantity table, reposition it and then open up the builder panel so
     we can select our finance model.
 
-<img src="./images/Step 50.png"/>
+`<img src="./images/Step 50.png"/>`
 
 51. Acknowledge the warning and then select the finance model.
 
@@ -87,12 +87,11 @@ transfer to the finance plan near the end of the exercise.
 
 52. Set the table layout and filters as shown
 
-<img src="./images/image9.png" style="width:316px;height:599px;"/>
-  
-  
-<img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>
+<img src="./images/Step 52.png" style="width:316px;height:599px;"/>
 
-<img src="./images/Step 52 ++.png" style="width:286px;height:224px;"/>
+<img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>`
+
+<img src="./images/Step 52 ++.png" style="width:286px;height:224px;"/>`
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
@@ -107,7 +106,7 @@ transfer to the finance plan near the end of the exercise.
 results) look like this? Note: The right planning panel may need to be
 de-selected from the meu to replicate this view.
 
-<img src="./images/Step 54+ Quality Check.png"/>
+`<img src="./images/Step 54+ Quality Check.png"/>`
 
 55. Save your story.
 
@@ -149,7 +148,7 @@ de-selected from the meu to replicate this view.
     advanced formula item that we were starting to configure before we
     created our parameter.
 
-<img src="./images/Step 61.png" style="width:724px;height:473px;"/>
+`<img src="./images/Step 61.png" style="width:724px;height:473px;"/>`
 
 62. Give the step a name like "Calculate Sales". Next configure the
     context as shown. Note that for the PLAN_CONTRIBUTOR. You will need
@@ -225,7 +224,7 @@ identical to what is shown below.
 
 72. Configure the table as shown. Notice that price is stored at the unassigned region and that the Amount has not been calculated.
 
-<img src="./images/Step 72.png"/>
+`<img src="./images/Step 72.png"/>`
 
 73. Select the tracing point for **Calculate_Sales**. Here we will see the
     results tracepoint for the calculation we created in our advanced
@@ -234,7 +233,7 @@ identical to what is shown below.
     can also explore the calculation scope for our advanced formula on
     the right pane.
 
-<img src="./images/Step 73.png"/>
+`<img src="./images/Step 73.png"/>`
 
 74. If you would like, you can also select values from the Watch Area
     table and use the copy button to copy them to the clipboard. These
@@ -242,7 +241,7 @@ identical to what is shown below.
     analysis. While we are showing this capability, we have not included
     exercise steps to paste these values into other documents.
 
-<img src="./images/Step 74.png"/>
+`<img src="./images/Step 74.png"/>`
 
 75. Next, we are going to select the tracing steps after our
     Calculate_Sales advanced formulas has executed. As we only have one
@@ -251,7 +250,7 @@ identical to what is shown below.
     values for Retail Returns as this will be addressed in our
     allocation step.
 
-<img src="./images/Step 75.png"/>
+`<img src="./images/Step 75.png"/>`
 
 76. Select the **AFTER Allocate Expected Returns**, we can see that the
     Retail Returns from the unassigned region (i.e. '#'), to each of the
@@ -336,7 +335,7 @@ identical to what is shown below.
     **Parameters** on the panel on the left side of the popup window to
     select the parameters you have previously created.
 
-<img src="./images/Step 87.png"/>
+`<img src="./images/Step 87.png"/>`
 
 88. Using drag and drop, map the source dimension to the target
     dimensions. Note that you will not be able to map SAP_XPA_COSTCENTER
@@ -356,7 +355,7 @@ identical to what is shown below.
     Compatible Types.**  We could have also filtered on measures when
     creating the rule to just include Quantity and Amount as well.
 
-<img src="./images/Step 90.png" />
+`<img src="./images/Step 90.png" />`
 
 91. Now select the **SAP_LOB_REGION**. Here we have the issue that we have
     sub-regions assigned to the United States in our sales plan that
@@ -376,7 +375,7 @@ identical to what is shown below.
     multi-action, we can bind data actions that we created for our sales
     and finance model into a single action we can trigger in a story.
 
-<img src="./images/Step 93.png" />
+`<img src="./images/Step 93.png" />`
 
 94. We are going to create a new Multi Action.
 
@@ -403,7 +402,7 @@ identical to what is shown below.
 
 98. Please create the parameter as shown below.
 
-<img src="./images/Step 98.png" style="width:289px;height:595px;"/>
+`<img src="./images/Step 98.png" style="width:289px;height:595px;"/>`
 
 99. We are now going to create another parameter for the target version.
     Note that for this exercise we could have just hard-coded these
@@ -457,7 +456,7 @@ identical to what is shown below.
      Entry** and then select the **Edit** button. We need to be in edit
      mode to add our newly created multi-action into our story.
 
-<img src="./images/Step 107.png"/>
+`<img src="./images/Step 107.png"/>`
 
 108. Add a **Multi Action Trigger** as shown below.
 
@@ -468,27 +467,26 @@ identical to what is shown below.
      parameters as shown below. Press the formatting button so we can
      format the trigger in the next step.
 
-<img src="./images/Step 109.png" style="width:424px;height:516px;"/>
+`<img src="./images/Step 109.png" style="width:424px;height:516px;"/>`
 
 110. We are now going to format the trigger. While you are free to select
      any color, we have provided a hex number as well for a particular
      shade of blue.
 
-<img src="./images/Step 110.png" style="width:210px;height:585px;"/>
-
+`<img src="./images/Step 110.png" style="width:210px;height:585px;"/>`
 
 111. Please reposition the Multi Action and then **Save** your story. We
      will then select the **View** mode as we get ready to execute the
      Multi Action.
 
-<img src="./images/Step 111.png"/>
+`<img src="./images/Step 111.png"/>`
 
 Navigate to the Sales Plan Entry Page.
 
 ⚠️**Quality Check!** Please check that your sales story page should be
 identical to what is shown below.
 
-<img src="./images/Step 111QC.png" style="width:624.0px;height:337.33344px;"/>
+`<img src="./images/Step 111QC.png" style="width:624.0px;height:337.33344px;"/>`
 
 112. Press the **Multi Action** button to execute it. The prompts in this
      case should be 2024 Plan for both the source and target version.
