@@ -128,6 +128,6 @@ Step 9B - Before
 
 <img src="./images/9B_Before.png" style="width:624px;height:434px;"/>
 
-Step 9B - After
+Step 9B - After (where SAC_USER69 will represent your specific UserID)
 
 <img src="./images/9B_After.png" style="width:624px;height:434px;"/>
