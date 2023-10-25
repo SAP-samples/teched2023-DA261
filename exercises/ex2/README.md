@@ -224,7 +224,7 @@ identical to what is shown below.
 
 72. Configure the table as shown. Notice that price is stored at the unassigned region and that the Amount has not been calculated.
 
-`<img src="./images/Step 72.png"/>`
+<img src="./images/Step72.png"/>
 
 73. Select the tracing point for **Calculate_Sales**. Here we will see the
     results tracepoint for the calculation we created in our advanced
@@ -233,7 +233,7 @@ identical to what is shown below.
     can also explore the calculation scope for our advanced formula on
     the right pane.
 
-`<img src="./images/Step 73.png"/>`
+<img src="./images/Step73.png"/>
 
 74. If you would like, you can also select values from the Watch Area
     table and use the copy button to copy them to the clipboard. These
@@ -241,7 +241,7 @@ identical to what is shown below.
     analysis. While we are showing this capability, we have not included
     exercise steps to paste these values into other documents.
 
-`<img src="./images/Step 74.png"/>`
+<img src="./images/Step74.png"/>
 
 75. Next, we are going to select the tracing steps after our
     Calculate_Sales advanced formulas has executed. As we only have one
@@ -250,7 +250,7 @@ identical to what is shown below.
     values for Retail Returns as this will be addressed in our
     allocation step.
 
-`<img src="./images/Step 75.png"/>`
+<img src="./images/Step75.png"/>
 
 76. Select the **AFTER Allocate Expected Returns**, we can see that the
     Retail Returns from the unassigned region (i.e. '#'), to each of the
@@ -335,7 +335,7 @@ identical to what is shown below.
     **Parameters** on the panel on the left side of the popup window to
     select the parameters you have previously created.
 
-`<img src="./images/Step 87.png"/>`
+<img src="./images/Step87.png"/>
 
 88. Using drag and drop, map the source dimension to the target
     dimensions. Note that you will not be able to map SAP_XPA_COSTCENTER
@@ -355,7 +355,7 @@ identical to what is shown below.
     Compatible Types.**  We could have also filtered on measures when
     creating the rule to just include Quantity and Amount as well.
 
-`<img src="./images/Step 90.png" />`
+<img src="./images/Step90.png" />
 
 91. Now select the **SAP_LOB_REGION**. Here we have the issue that we have
     sub-regions assigned to the United States in our sales plan that
@@ -375,7 +375,7 @@ identical to what is shown below.
     multi-action, we can bind data actions that we created for our sales
     and finance model into a single action we can trigger in a story.
 
-`<img src="./images/Step 93.png" />`
+<img src="./images/Step93.png" />
 
 94. We are going to create a new Multi Action.
 
@@ -402,7 +402,7 @@ identical to what is shown below.
 
 98. Please create the parameter as shown below.
 
-`<img src="./images/Step 98.png" style="width:289px;height:595px;"/>`
+<img src="./images/Step 98.png" style="width:289px;height:595px;"/>
 
 99. We are now going to create another parameter for the target version.
     Note that for this exercise we could have just hard-coded these
@@ -467,19 +467,19 @@ identical to what is shown below.
      parameters as shown below. Press the formatting button so we can
      format the trigger in the next step.
 
-`<img src="./images/Step 109.png" style="width:424px;height:516px;"/>`
+<img src="./images/Step 109.png" style="width:424px;height:516px;"/>
 
 110. We are now going to format the trigger. While you are free to select
      any color, we have provided a hex number as well for a particular
      shade of blue.
 
-`<img src="./images/Step 110.png" style="width:210px;height:585px;"/>`
+<img src="./images/Step 110.png" style="width:210px;height:585px;"/>
 
 111. Please reposition the Multi Action and then **Save** your story. We
      will then select the **View** mode as we get ready to execute the
      Multi Action.
 
-`<img src="./images/Step 111.png"/>`
+<img src="./images/Step 111.png"/>
 
 Navigate to the Sales Plan Entry Page.
 
