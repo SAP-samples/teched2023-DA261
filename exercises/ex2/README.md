@@ -55,20 +55,19 @@ transfer to the finance plan near the end of the exercise.
 
 <img src="./images/image2.png" style="width:316px;height:599px;"/>
 
-47. We will enable null suppression to remove the null rows from the
-    report.
+47. We will enable null suppression to remove the null rows from the report.
 
 <img src="./images/image3.png" style="width:416px;height:284px;"/>
 
 48. We will now collapse the hierarchy of the report so that we are only
-    looking at an overview of our sales plan.
+looking at an overview of our sales plan.
 
-`<img src="./images/Step 48.png" />`
+<img src="./images/Step 48.png" />
 
 49. Once we close the right builder pane and resize the table, your
     results should look like this:
 
-`<img src="./images/Step 49.png"/>`
+<img src="./images/Step 49.png"/>
 
 50. We are now going to create a table that shows our Finance data. As
     part of this exercise, we are going to integrate our sales plan into
@@ -77,7 +76,7 @@ transfer to the finance plan near the end of the exercise.
     Quantity table, reposition it and then open up the builder panel so
     we can select our finance model.
 
-`<img src="./images/Step 50.png"/>`
+<img src="./images/Step 50.png"/>
 
 51. Acknowledge the warning and then select the finance model.
 
@@ -87,11 +86,12 @@ transfer to the finance plan near the end of the exercise.
 
 52. Set the table layout and filters as shown
 
-<img src="./images/Step 52.png" style="width:316px;height:599px;"/>
 
-<img src="./images/Step 52 +.png" style="width:286px;height:224px;"/>
+<img src="./images/Step52.png" style="width:316px;height:599px;"/>
 
-<img src="./images/Step 52 ++.png" style="width:286px;height:224px;"/>
+<img src="./images/Step52b.png" style="width:286px;height:224px;"/>
+
+<img src="./images/Step52c.png" style="width:286px;height:224px;"/>
 
 53. Rename the table to Finance () and then add dynamic text between the
     "()" for the version.
@@ -106,7 +106,7 @@ transfer to the finance plan near the end of the exercise.
 results) look like this? Note: The right planning panel may need to be
 de-selected from the meu to replicate this view.
 
-`<img src="./images/Step 54+ Quality Check.png"/>`
+<img src="./images/Step54QC.png"/>
 
 55. Save your story.
 
@@ -148,7 +148,7 @@ de-selected from the meu to replicate this view.
     advanced formula item that we were starting to configure before we
     created our parameter.
 
-`<img src="./images/Step 61.png" style="width:724px;height:473px;"/>`
+<img src="./images/Step61.png" style="width:724px;height:473px;"/>
 
 62. Give the step a name like "Calculate Sales". Next configure the
     context as shown. Note that for the PLAN_CONTRIBUTOR. You will need
