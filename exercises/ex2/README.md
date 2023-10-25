@@ -456,7 +456,7 @@ identical to what is shown below.
      Entry** and then select the **Edit** button. We need to be in edit
      mode to add our newly created multi-action into our story.
 
-`<img src="./images/Step 107.png"/>`
+<img src="./images/Step 107.png"/>
 
 108. Add a **Multi Action Trigger** as shown below.
 
@@ -486,7 +486,7 @@ Navigate to the Sales Plan Entry Page.
 ⚠️**Quality Check!** Please check that your sales story page should be
 identical to what is shown below.
 
-`<img src="./images/Step 111QC.png" style="width:624.0px;height:337.33344px;"/>`
+<img src="./images/Step 111QC.png" style="width:624.0px;height:337.33344px;"/>
 
 112. Press the **Multi Action** button to execute it. The prompts in this
      case should be 2024 Plan for both the source and target version.
