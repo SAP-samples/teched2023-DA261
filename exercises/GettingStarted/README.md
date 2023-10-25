@@ -115,6 +115,19 @@ move on to the exercises.**
 
 Please continue to [Exercise 1 - Plan Story Navigation and Enrichment](https://github.com/SAP-samples/teched2023-DA261/tree/main/exercises/ex1)
 
-***************************************************************************************************
+---
 
 **Exercise Issues Log**
+
+**Exercise 1**
+
+Step 9B (*between steps 9 and 10*) - While on the **Sales Plan Entry** tab click the dropdown on the *Plan Contributor Input Control.* We want to change the "No Value" and change that to your current UserID.
+
+
+Step 9B - Before
+
+<img src="./images/9B_Before.png"/>
+
+Step 9B - After
+
+<img src="./images/9B_After.png"/>
