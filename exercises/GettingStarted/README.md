@@ -121,8 +121,7 @@ Please continue to [Exercise 1 - Plan Story Navigation and Enrichment](https://
 
 **Exercise 1**
 
-Step 9B (*between steps 9 and 10*) - While on the **Sales Plan Entry** tab click the dropdown on the *Plan Contributor Input Control.* We want to change the "No Value" and change that to your current UserID.
-
+Step 9B (*between steps 9 and 10*) - While on the **Sales Plan Entry**, if you see "No Value" in the Plan Contributor Input Control, please select  the dropdown and select your current UserID.
 
 Step 9B - Before
 
